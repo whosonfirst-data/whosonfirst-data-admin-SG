@@ -1,0 +1,94 @@
+{
+  "id": 421181257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90694,1.41444,103.90694,1.41444",
+    "geom:latitude":1.41444,
+    "geom:longitude":103.90694,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u699c\u9d5d"
+    ],
+    "name:dut_x_preferred":[
+        "Punggol"
+    ],
+    "name:eng_x_preferred":[
+        "Punggol"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u06af\u0644"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30f3\u30b4\u30fc\u30eb"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0646\u06af\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Punggol Village"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1880348,
+    "qs:gn_pop":0,
+    "qs:name":"Punggol",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":1753,
+    "qs:photos_1k":355,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1753,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":481579,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062583,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":3002,
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880348,
+        "gp:id":1062583,
+        "qs:id":481579,
+        "wd:id":"Q7260156",
+        "wk:page":"Punggol"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009290,
+    "wof:geomhash":"6473c94a8199ef6cb1175a50c0aaf89d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":421181257
+        }
+    ],
+    "wof:id":421181257,
+    "wof:lastmodified":1527716322,
+    "wof:name":"Punggol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90694,
+    1.41444,
+    103.90694,
+    1.41444
+],
+  "geometry": {"coordinates":[103.90694000000001,1.41444],"type":"Point"}
+}

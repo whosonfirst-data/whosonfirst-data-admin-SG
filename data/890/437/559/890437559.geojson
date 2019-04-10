@@ -1,0 +1,67 @@
+{
+  "id": 890437559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84988,1.29143,103.84988,1.29143",
+    "geom:latitude":1.29143,
+    "geom:longitude":103.84988,
+    "gn:country":"SG",
+    "gn:fcode":"MALL",
+    "gn:pop":300,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Funan DigitaLife Mall",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":389,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6940490,
+        "qs:id":1153881,
+        "wd:id":"Q5508728",
+        "wk:page":"Funan DigitaLife Mall"
+    },
+    "wof:country":"SG",
+    "wof:created":1469052156,
+    "wof:geomhash":"8dcfa824bd4076b3436e105bb1b5da36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":890437559,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":890437559,
+    "wof:lastmodified":1527729747,
+    "wof:name":"Funan DigitaLife Mall",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84988,
+    1.29143,
+    103.84988,
+    1.29143
+],
+  "geometry": {"coordinates":[103.84988,1.29143],"type":"Point"}
+}

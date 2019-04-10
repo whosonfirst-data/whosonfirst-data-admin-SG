@@ -1,0 +1,105 @@
+{
+  "id": 421175141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89499,1.371169,103.89499,1.371169",
+    "geom:latitude":1.371169,
+    "geom:longitude":103.89499,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5f8c\u6e2f"
+    ],
+    "name:eng_x_preferred":[
+        "Hougang"
+    ],
+    "name:eng_x_variant":[
+        "Hougang New Town"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06af\u0627\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Hougang"
+    ],
+    "name:ind_x_preferred":[
+        "Hougang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30a6\u30ac\u30f3"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0648\u06af\u0627\u0646\u06af"
+    ],
+    "name:unk_x_variant":[
+        "Hougang New Town"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Hougang",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":1932,
+    "qs:photos_1k":391,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1932,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":353233,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703034,
+    "src:geom":"quattroshapes",
+    "wd:latitude":1.371778,
+    "wd:longitude":103.893056,
+    "wd:wordcount":1631,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881948,
+        "gp:id":24703034,
+        "qs:id":353233,
+        "wd:id":"Q10860944"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009057,
+    "wof:geomhash":"4e4c18b7503da49fceae9426058774cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421175141,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":421175141,
+    "wof:lastmodified":1527716346,
+    "wof:name":"Hougang",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89499,
+    1.371169,
+    103.89499,
+    1.371169
+],
+  "geometry": {"coordinates":[103.89499000000001,1.371169],"type":"Point"}
+}

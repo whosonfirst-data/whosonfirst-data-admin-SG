@@ -1,0 +1,66 @@
+{
+  "id": 1360093659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83972,1.38028,103.83972,1.38028",
+    "geom:latitude":1.38028,
+    "geom:longitude":103.83972,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ang Mo Kio New Town",
+    "gn:country_code":"SG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1884365,
+    "gn:latitude":1.38028,
+    "gn:longitude":103.83972,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ang Mo Kio New Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884365,
+        "wk:page":"Ang_Mo_Kio"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"85ff268e485354c80c564975b11351b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1360093659,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":1360093659,
+    "wof:lastmodified":1537573379,
+    "wof:name":"Ang Mo Kio New Town",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83972,
+    1.38028,
+    103.83972,
+    1.38028
+],
+  "geometry": {"coordinates":[103.83972,1.38028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 421200677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.7947725,1.302491,103.7947725,1.302491",
+    "geom:latitude":1.302491,
+    "geom:longitude":103.794772,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Queenstown",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4996,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4996,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":890649,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703015,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703015,
+        "qs:id":890649
+    },
+    "wof:country":"SG",
+    "wof:created":1459010034,
+    "wof:geomhash":"8b2cd8c000eb621965348c21de9a0cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421200677,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421200677,
+    "wof:lastmodified":1466635891,
+    "wof:name":"Queenstown",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79477249999998,
+    1.302491,
+    103.79477249999998,
+    1.302491
+],
+  "geometry": {"coordinates":[103.79477249999998,1.302491],"type":"Point"}
+}

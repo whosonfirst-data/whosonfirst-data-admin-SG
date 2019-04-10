@@ -1,0 +1,85 @@
+{
+  "id": 421174375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83111,1.43333,103.83111,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":103.83111,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Yishun New Town"
+    ],
+    "name:eng_x_preferred":[
+        "Yishun New Town"
+    ],
+    "name:unk_x_variant":[
+        "Yishun"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1882155,
+    "qs:gn_pop":0,
+    "qs:name":"Yishun New Town",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North West",
+    "qs:photos":1952,
+    "qs:photos_1k":396,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1952,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":807060,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062677,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882155,
+        "gp:id":1062677,
+        "qs:id":807060,
+        "wd:id":"Q8053844",
+        "wk:page":"Yishun New Town"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009029,
+    "wof:geomhash":"380c26a95a6cad3fb860dd269fe46d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421174375,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":421174375,
+    "wof:lastmodified":1514504936,
+    "wof:name":"Yishun New Town",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83111,
+    1.43333,
+    103.83111,
+    1.43333
+],
+  "geometry": {"coordinates":[103.83111,1.43333],"type":"Point"}
+}

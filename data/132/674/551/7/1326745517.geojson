@@ -1,0 +1,67 @@
+{
+  "id": 1326745517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86245,1.31989,103.86245,1.31989",
+    "geom:latitude":1.31989,
+    "geom:longitude":103.86245,
+    "gn:asciiname":"Gamat-eMas Network (Singapore) Blk 34, Whampoa West",
+    "gn:country_code":"SG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6355174,
+    "gn:latitude":1.31989,
+    "gn:longitude":103.86245,
+    "gn:modification_date":"2007-03-05",
+    "gn:name":"Gamat-eMas Network (Singapore) Blk 34, Whampoa West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamat-eMas Network (Singapore)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6355174
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"83478080f2b2c9b1c7ee072551de7e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1326745517,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1326745517,
+    "wof:lastmodified":1537700165,
+    "wof:name":"Gamat-eMas Network (Singapore) Blk 34, Whampoa West",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86245,
+    1.31989,
+    103.86245,
+    1.31989
+],
+  "geometry": {"coordinates":[103.86245,1.31989],"type":"Point"}
+}

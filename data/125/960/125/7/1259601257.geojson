@@ -1,0 +1,61 @@
+{
+  "id": 1259601257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.07944,1.42056,104.07944,1.42056",
+    "geom:latitude":1.42056,
+    "geom:longitude":104.07944,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Ayer Samak",
+    "gn:country_code":"SG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880619,
+    "gn:latitude":1.42056,
+    "gn:longitude":104.07944,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kampong Ayer Samak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880619
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"4fc887f6781d374211e36095cf4bd699",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259601257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259601257,
+    "wof:lastmodified":1536689292,
+    "wof:name":"Kampong Ayer Samak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.07944,
+    1.42056,
+    104.07944,
+    1.42056
+],
+  "geometry": {"coordinates":[104.07944000000001,1.42056],"type":"Point"}
+}

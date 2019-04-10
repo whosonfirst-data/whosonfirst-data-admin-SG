@@ -1,0 +1,71 @@
+{
+  "id": 421185551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.79023,1.404607,103.79023,1.404607",
+    "geom:latitude":1.404607,
+    "geom:longitude":103.79023,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Central Catchment Area",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North West",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1026443,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703013,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703013,
+        "qs:id":1026443
+    },
+    "wof:country":"SG",
+    "wof:created":1459009447,
+    "wof:geomhash":"5e72b93b0dab76435db52f588460d62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421185551,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":421185551,
+    "wof:lastmodified":1466635861,
+    "wof:name":"Central Catchment Area",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79023,
+    1.404607,
+    103.79023,
+    1.404607
+],
+  "geometry": {"coordinates":[103.79022999999999,1.404607],"type":"Point"}
+}

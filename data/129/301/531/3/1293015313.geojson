@@ -1,0 +1,65 @@
+{
+  "id": 1293015313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82139,1.39528,103.82139,1.39528",
+    "geom:latitude":1.39528,
+    "geom:longitude":103.82139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Springleaf Park",
+    "gn:country_code":"SG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1882342,
+    "gn:latitude":1.39528,
+    "gn:longitude":103.82139,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Springleaf Park",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882342
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"873d80f97b0225b211bfd176c9244178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1293015313,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":1293015313,
+    "wof:lastmodified":1536970331,
+    "wof:name":"Springleaf Park",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82139,
+    1.39528,
+    103.82139,
+    1.39528
+],
+  "geometry": {"coordinates":[103.82138999999999,1.39528],"type":"Point"}
+}

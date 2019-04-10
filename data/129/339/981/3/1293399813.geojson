@@ -1,0 +1,65 @@
+{
+  "id": 1293399813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7675,1.42972,103.7675,1.42972",
+    "geom:latitude":1.42972,
+    "geom:longitude":103.7675,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Marsiling Estate",
+    "gn:country_code":"SG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880468,
+    "gn:latitude":1.42972,
+    "gn:longitude":103.7675,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Marsiling Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880468
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"d63805060d3ab21566f630a95b57a85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1293399813,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":1293399813,
+    "wof:lastmodified":1536913748,
+    "wof:name":"Marsiling Estate",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7675,
+    1.42972,
+    103.7675,
+    1.42972
+],
+  "geometry": {"coordinates":[103.7675,1.42972],"type":"Point"}
+}

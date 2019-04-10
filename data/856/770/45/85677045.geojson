@@ -1,0 +1,168 @@
+{
+  "id": 85677045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.016271,
+    "geom:area_square_m":201135461.408655,
+    "geom:bbox":"103.640391472,1.26430898657,103.846934441,1.4309756532",
+    "geom:latitude":1.347105,
+    "geom:longitude":103.731595,
+    "iso:country":"SG",
+    "label:eng_x_preferred_longname":[
+        "South West Community Development Council"
+    ],
+    "lbl:latitude":1.352739,
+    "lbl:longitude":103.724553,
+    "mps:latitude":1.352739,
+    "mps:longitude":103.724553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "South West Singapore District"
+    ],
+    "name:eng_x_preferred":[
+        "South West"
+    ],
+    "name:fra_x_preferred":[
+        "Sud-Ouest"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u897f\u793e\u4f1a\u958b\u767a\u5354\u8b70\u4f1a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a8\uc11c\ubd80 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SGP",
+    "ne:adm0_label":"3",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"SGP-4872",
+    "ne:adm1_code":"SGP-4872",
+    "ne:admin":"Singapore",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SG.SW",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4872",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Singapore",
+    "ne:gn_a1_code":"SG.05",
+    "ne:gn_id":"7535957",
+    "ne:gn_level":"1",
+    "ne:gn_name":"South West Community Development Council",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SGP",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SG-05",
+    "ne:iso_a2":"SG",
+    "ne:labelrank":"20",
+    "ne:latitude":"1.33718000000",
+    "ne:longitude":"103.70500000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"South West",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SGP",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/South_West_Community_Development_Council",
+    "ne:woe_id":24703043,
+    "ne:woe_label":"South West, SG, Singapore",
+    "ne:woe_name":"South West",
+    "qs:a0":"Singapore",
+    "qs:a0_lc":"SG",
+    "qs:a1":"South West",
+    "qs:a1_lc":"SGP-4872",
+    "qs:adm0":"Singapore",
+    "qs:adm0_a3":"SGP",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SG-05",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":7535957,
+        "gp:id":24703043,
+        "hasc:id":"SG.SW",
+        "qs:id":1097111,
+        "unlc:id":"SG-05",
+        "wd:id":"Q7568845",
+        "wk:page":"South West Community Development Council"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"406470490c1d4406688a4239d0e47bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":85677045,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1553624514,
+    "wof:name":"South West",
+    "wof:parent_id":85632605,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:shortcode":"SW",
+    "wof:subdivision":"SG-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64039147218875,
+    1.26430898657054,
+    103.84693444077186,
+    1.43097565320386
+],
+  "geometry": {"coordinates":[[[103.80635102168236,1.32488449482361],[103.80764557418394,1.31193897430427],[103.80699829793315,1.30352438574187],[103.80958740203704,1.29381524557715],[103.8192965422017,1.2834588291617],[103.82835840701495,1.27828062095392],[103.84000937503271,1.27374968899699],[103.84693444077186,1.27191803618848],[103.84408613406788,1.26850006742421],[103.83887780037026,1.26626211170714],[103.8260197272287,1.26430898657054],[103.80160566526928,1.26479726807952],[103.78956139404318,1.26788971643731],[103.7844344408968,1.27387116132508],[103.77588951898616,1.28758372620803],[103.7551375665455,1.29710521023731],[103.73015384252585,1.30292389492189],[103.70875084747371,1.30524323119022],[103.66529381565715,1.30410390796902],[103.64763431067496,1.3084170592],[103.64039147218875,1.32225169535951],[103.64470462341967,1.33803945485698],[103.6745711598312,1.38031647362641],[103.67888431106218,1.39923737220698],[103.68384850400531,1.40989817945746],[103.6950789724167,1.42133209789807],[103.70834394651598,1.429388739199],[103.71794681109651,1.43097565320386],[103.73975670710638,1.42812734649988],[103.7622176439292,1.43097565320386],[103.76104170031425,1.42132862201834],[103.75909987246121,1.41032492935204],[103.75845259621042,1.40191034168896],[103.75845259621042,1.39025937277188],[103.76363080441814,1.38313933671105],[103.77075084047897,1.37601930065023],[103.77787087743911,1.37019381619172],[103.78758001760377,1.3624265038801],[103.78822729385456,1.35595374407006],[103.78434363724909,1.35142281121381],[103.78045998154295,1.34753915550766],[103.78240180939605,1.34300822355073],[103.79016912170766,1.34041911944683],[103.79793643401928,1.33394635873754],[103.80635102168236,1.32488449482361]]],"type":"Polygon"}
+}

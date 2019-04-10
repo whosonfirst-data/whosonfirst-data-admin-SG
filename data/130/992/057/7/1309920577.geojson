@@ -1,0 +1,65 @@
+{
+  "id": 1309920577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73361,1.35167,103.73361,1.35167",
+    "geom:latitude":1.35167,
+    "geom:longitude":103.73361,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Sungai Jurong",
+    "gn:country_code":"SG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880546,
+    "gn:latitude":1.35167,
+    "gn:longitude":103.73361,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Sungai Jurong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880546
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"39a9d378feae9e4f7e74bfc6342677f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1309920577,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":1309920577,
+    "wof:lastmodified":1536765932,
+    "wof:name":"Kampong Sungai Jurong",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73361,
+    1.35167,
+    103.73361,
+    1.35167
+],
+  "geometry": {"coordinates":[103.73361,1.35167],"type":"Point"}
+}

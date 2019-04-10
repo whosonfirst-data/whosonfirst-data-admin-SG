@@ -1,0 +1,64 @@
+{
+  "id": 1225958915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.04778,1.39694,104.04778,1.39694",
+    "geom:latitude":1.39694,
+    "geom:longitude":104.04778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Batu Koyok",
+    "gn:country_code":"SG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880614,
+    "gn:latitude":1.39694,
+    "gn:longitude":104.04778,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kampong Batu Koyok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880614
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"55fedb7a8ead54a6b55846cba40687f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1225958915,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225958915,
+    "wof:lastmodified":1536849138,
+    "wof:name":"Kampong Batu Koyok",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.04778,
+    1.39694,
+    104.04778,
+    1.39694
+],
+  "geometry": {"coordinates":[104.04778,1.39694],"type":"Point"}
+}

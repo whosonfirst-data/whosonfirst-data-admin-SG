@@ -1,0 +1,65 @@
+{
+  "id": 1293497663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85,1.38333,103.85,1.38333",
+    "geom:latitude":1.38333,
+    "geom:longitude":103.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Amoy Quee",
+    "gn:country_code":"SG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880624,
+    "gn:latitude":1.38333,
+    "gn:longitude":103.85,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Amoy Quee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880624
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"d4892a209872829ce8d8aebb8fb80ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1293497663,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1293497663,
+    "wof:lastmodified":1536772920,
+    "wof:name":"Kampong Amoy Quee",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85,
+    1.38333,
+    103.85,
+    1.38333
+],
+  "geometry": {"coordinates":[103.84999999999999,1.38333],"type":"Point"}
+}

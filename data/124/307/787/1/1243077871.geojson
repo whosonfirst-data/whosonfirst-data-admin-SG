@@ -1,0 +1,70 @@
+{
+  "id": 1243077871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89417,1.38111,103.89417,1.38111",
+    "geom:latitude":1.38111,
+    "geom:longitude":103.89417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Pinang",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880567,
+    "gn:latitude":1.38111,
+    "gn:longitude":103.89417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kampong Pinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sungi Pinang",
+        "Kampong Pinang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880567
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"1a5fe36c8bebece942b94915d4b9bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1243077871,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":1243077871,
+    "wof:lastmodified":1537700164,
+    "wof:name":"Kampong Pinang",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89417,
+    1.38111,
+    103.89417,
+    1.38111
+],
+  "geometry": {"coordinates":[103.89417,1.38111],"type":"Point"}
+}

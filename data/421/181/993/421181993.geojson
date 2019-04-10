@@ -1,0 +1,100 @@
+{
+  "id": 421181993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.706635,1.346833,103.706635,1.346833",
+    "geom:latitude":1.346833,
+    "geom:longitude":103.706635,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u88d5\u5eca\u897f"
+    ],
+    "name:dut_x_preferred":[
+        "Jurong West"
+    ],
+    "name:eng_x_preferred":[
+        "Jurong West"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0646\u06af \u063a\u0631\u0628\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Jurong West"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30fc\u30ed\u30f3\u30fb\u30a6\u30a7\u30b9\u30c8"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0646\u06af \u063a\u0631\u0628\u06cc"
+    ],
+    "name:unk_x_variant":[
+        "Jurong West"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Jurong West New Town",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"South West",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":536952,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062461,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":950,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881955,
+        "gp:id":1062461,
+        "qs:id":536952,
+        "wd:id":"Q6315392"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009315,
+    "wof:geomhash":"158131b933601c4eeef8c69c99524a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421181993,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421181993,
+    "wof:lastmodified":1527716327,
+    "wof:name":"Jurong West New Town",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.706635,
+    1.346833,
+    103.706635,
+    1.346833
+],
+  "geometry": {"coordinates":[103.70663500000001,1.346833],"type":"Point"}
+}

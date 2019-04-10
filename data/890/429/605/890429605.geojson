@@ -1,0 +1,64 @@
+{
+  "id": 890429605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70008,1.33723,103.70008,1.33723",
+    "geom:latitude":1.33723,
+    "geom:longitude":103.70008,
+    "gn:country":"SG",
+    "gn:fcode":"BLDG",
+    "gn:pop":500,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"BLK 658D",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6615208,
+        "qs:id":105109
+    },
+    "wof:country":"SG",
+    "wof:created":1469051821,
+    "wof:geomhash":"d332a977ad6c9a3b79f14aaf64b32bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":890429605,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":890429605,
+    "wof:lastmodified":1505343513,
+    "wof:name":"BLK 658D",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70008,
+    1.33723,
+    103.70008,
+    1.33723
+],
+  "geometry": {"coordinates":[103.70008,1.33723],"type":"Point"}
+}

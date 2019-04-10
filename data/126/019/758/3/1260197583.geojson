@@ -1,0 +1,70 @@
+{
+  "id": 1260197583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70667,1.40444,103.70667,1.40444",
+    "geom:latitude":1.40444,
+    "geom:longitude":103.70667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ama Keng",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880822,
+    "gn:latitude":1.40444,
+    "gn:longitude":103.70667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ama Keng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ama Keng Village",
+        "Ama Keng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880822
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"7aa9d706c4bbdb0d4ef37f6eea0ea678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1260197583,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":1260197583,
+    "wof:lastmodified":1537700165,
+    "wof:name":"Ama Keng",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70667,
+    1.40444,
+    103.70667,
+    1.40444
+],
+  "geometry": {"coordinates":[103.70667,1.40444],"type":"Point"}
+}

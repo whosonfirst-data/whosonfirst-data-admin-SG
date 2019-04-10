@@ -1,0 +1,71 @@
+{
+  "id": 1310516097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81778,1.40278,103.81778,1.40278",
+    "geom:latitude":1.40278,
+    "geom:longitude":103.81778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nee Soon Estate",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880437,
+    "gn:latitude":1.40278,
+    "gn:longitude":103.81778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nee Soon Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nee Soon Village",
+        "Nee Soon",
+        "Nee Soon Estate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880437
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"2a63cd81b66462cda249bf8cf67d6687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1310516097,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":1310516097,
+    "wof:lastmodified":1537700163,
+    "wof:name":"Nee Soon Estate",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81778,
+    1.40278,
+    103.81778,
+    1.40278
+],
+  "geometry": {"coordinates":[103.81778,1.40278],"type":"Point"}
+}

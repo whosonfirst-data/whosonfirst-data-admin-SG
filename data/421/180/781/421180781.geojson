@@ -1,0 +1,115 @@
+{
+  "id": 421180781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72278,1.33417,103.72278,1.33417",
+    "geom:latitude":1.33417,
+    "geom:longitude":103.72278,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u88d5\u5eca"
+    ],
+    "name:dut_x_preferred":[
+        "Jurong"
+    ],
+    "name:eng_x_preferred":[
+        "Jurong"
+    ],
+    "name:ger_x_preferred":[
+        "Jurong"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u094d\u092f\u0942\u0930\u0949\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Jurong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30ed\u30f3"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0941\u0930\u093e\u0901\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Jurong"
+    ],
+    "name:por_x_preferred":[
+        "Jurong"
+    ],
+    "name:tgl_x_preferred":[
+        "Jurong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e39\u0e23\u0e07"
+    ],
+    "name:unk_x_variant":[
+        "Bandar Baharu Jurong"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1881953,
+    "qs:gn_pop":0,
+    "qs:name":"Jurong Town",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"South West",
+    "qs:photos":4996,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4996,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460600,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062460,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881953,
+        "gp:id":1062460,
+        "qs:id":460600,
+        "wd:id":"Q14439130",
+        "wk:page":"Jurong"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009271,
+    "wof:geomhash":"cdb88b19bb68dcd102774ef9626f4acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421180781,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421180781,
+    "wof:lastmodified":1514504920,
+    "wof:name":"Jurong Town",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72278,
+    1.33417,
+    103.72278,
+    1.33417
+],
+  "geometry": {"coordinates":[103.72278,1.33417],"type":"Point"}
+}

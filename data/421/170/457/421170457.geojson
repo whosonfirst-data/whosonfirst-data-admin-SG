@@ -1,0 +1,79 @@
+{
+  "id": 421170457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.7291205,1.4447985,103.7291205,1.4447985",
+    "geom:latitude":1.444799,
+    "geom:longitude":103.72912,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ind_x_preferred":[
+        "Kranji"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0902\u091c\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Kranji"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kranji",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North West",
+    "qs:photos":4996,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4996,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":482021,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":55875828,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":333,
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55875828,
+        "qs:id":482021,
+        "wd:id":"Q4200818"
+    },
+    "wof:country":"SG",
+    "wof:created":1459008854,
+    "wof:geomhash":"cd362207642164668e793a553e29b9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":421170457
+        }
+    ],
+    "wof:id":421170457,
+    "wof:lastmodified":1527716473,
+    "wof:name":"Kranji",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7291205,
+    1.4447985,
+    103.7291205,
+    1.4447985
+],
+  "geometry": {"coordinates":[103.72912049999999,1.4447985],"type":"Point"}
+}

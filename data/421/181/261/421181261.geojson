@@ -1,0 +1,75 @@
+{
+  "id": 421181261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.93194,1.37833,103.93194,1.37833",
+    "geom:latitude":1.37833,
+    "geom:longitude":103.93194,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pasir Ris"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1880574,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Pasir Ris",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":481584,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062494,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880574,
+        "gp:id":1062494,
+        "qs:id":481584
+    },
+    "wof:country":"SG",
+    "wof:created":1459009290,
+    "wof:geomhash":"1df7612783130f4e4a9f46efa94750c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421181261,
+            "region_id":85677053
+        }
+    ],
+    "wof:id":421181261,
+    "wof:lastmodified":1501223541,
+    "wof:name":"Kampong Pasir Ris",
+    "wof:parent_id":85677053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93194,
+    1.37833,
+    103.93194,
+    1.37833
+],
+  "geometry": {"coordinates":[103.93194,1.37833],"type":"Point"}
+}

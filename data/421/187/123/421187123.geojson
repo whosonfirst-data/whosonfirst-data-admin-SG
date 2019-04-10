@@ -1,0 +1,81 @@
+{
+  "id": 421187123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.8723,1.35119,103.8723,1.35119",
+    "geom:latitude":1.35119,
+    "geom:longitude":103.8723,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0646\u06af\u0648\u0646"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e23\u0e31\u0e07\u0e01\u0e39\u0e19"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1882401,
+    "qs:gn_pop":0,
+    "qs:name":"Serangoon",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":2781,
+    "qs:photos_1k":564,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2781,
+    "qs:photos_sr":19,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1081001,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062605,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":896,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882401,
+        "gp:id":1062605,
+        "qs:id":1081001,
+        "wd:id":"Q10861231"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009502,
+    "wof:geomhash":"c02682e43da4dab490f51c43c6a1babd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421187123,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":421187123,
+    "wof:lastmodified":1527716252,
+    "wof:name":"Serangoon",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8723,
+    1.35119,
+    103.8723,
+    1.35119
+],
+  "geometry": {"coordinates":[103.8723,1.35119],"type":"Point"}
+}

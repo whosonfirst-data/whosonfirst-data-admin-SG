@@ -1,0 +1,64 @@
+{
+  "id": 1344071707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79889,1.45333,103.79889,1.45333",
+    "geom:latitude":1.45333,
+    "geom:longitude":103.79889,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tay Keng Loon Estate",
+    "gn:country_code":"SG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880208,
+    "gn:latitude":1.45333,
+    "gn:longitude":103.79889,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Tay Keng Loon Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880208
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"070ab08c2da7e44fcfb6b369b1599e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1344071707,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344071707,
+    "wof:lastmodified":1536857968,
+    "wof:name":"Tay Keng Loon Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79889,
+    1.45333,
+    103.79889,
+    1.45333
+],
+  "geometry": {"coordinates":[103.79889,1.45333],"type":"Point"}
+}

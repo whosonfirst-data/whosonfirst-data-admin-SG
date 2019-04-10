@@ -1,0 +1,65 @@
+{
+  "id": 1310015973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66472,1.35889,103.66472,1.35889",
+    "geom:latitude":1.35889,
+    "geom:longitude":103.66472,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Song Hah Estate",
+    "gn:country_code":"SG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880241,
+    "gn:latitude":1.35889,
+    "gn:longitude":103.66472,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Song Hah Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880241
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"da1abcfa92b7984146d344a322f3109f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1310015973,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":1310015973,
+    "wof:lastmodified":1536626261,
+    "wof:name":"Song Hah Estate",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66472,
+    1.35889,
+    103.66472,
+    1.35889
+],
+  "geometry": {"coordinates":[103.66472,1.35889],"type":"Point"}
+}

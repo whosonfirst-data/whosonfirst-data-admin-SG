@@ -1,0 +1,83 @@
+{
+  "id": 102551599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.708611111,1.38722222222,103.708611111,1.38722222222",
+    "geom:latitude":1.387222,
+    "geom:longitude":103.708611,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062a\u0646\u06af\u0627\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tengah"
+    ],
+    "name:nld_x_preferred":[
+        "Vliegbasis Tengah"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Singapur-Tengah"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0422\u0435\u043d\u0433\u0430\u04b3"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u52a0\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "oa:elevation_ft":"50",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":1352,
+    "woe:hierarchy":{
+        "country_id":23424948,
+        "planet_id":1,
+        "state_id":24703043
+    },
+    "wof:belongsto":[
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517526,
+        "iata:code":"TGA",
+        "icao:code":"WSAT",
+        "oa:id":"26885",
+        "wd:id":"Q2242841"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"0f1543d6f2691a9da1265ab7d451d8d1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551599,
+            "country_id":85632605,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":102551599,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Tengah Airport",
+    "wof:parent_id":85677045,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    103.70861111111,
+    1.3872222222222,
+    103.70861111111,
+    1.3872222222222
+],
+  "geometry": {"coordinates":[103.70861111111,1.3872222222222],"type":"Point"}
+}

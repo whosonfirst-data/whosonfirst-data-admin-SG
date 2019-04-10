@@ -1,0 +1,64 @@
+{
+  "id": 1327144555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05083,1.40861,104.05083,1.40861",
+    "geom:latitude":1.40861,
+    "geom:longitude":104.05083,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chia Tong Quah Estate",
+    "gn:country_code":"SG",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880711,
+    "gn:latitude":1.40861,
+    "gn:longitude":104.05083,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Chia Tong Quah Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880711
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"6e56990a426312f9f4b9e47c4b7f2828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1327144555,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327144555,
+    "wof:lastmodified":1537093129,
+    "wof:name":"Chia Tong Quah Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05083,
+    1.40861,
+    104.05083,
+    1.40861
+],
+  "geometry": {"coordinates":[104.05083,1.40861],"type":"Point"}
+}

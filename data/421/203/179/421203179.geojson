@@ -1,0 +1,100 @@
+{
+  "id": 421203179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74972,1.3825,103.74972,1.3825",
+    "geom:latitude":1.3825,
+    "geom:longitude":103.74972,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8521\u539d\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Choa Chu Kang"
+    ],
+    "name:eng_x_preferred":[
+        "Choa Chu Kang"
+    ],
+    "name:fin_x_preferred":[
+        "Choa Chu Kang"
+    ],
+    "name:ind_x_preferred":[
+        "Choa Chu Kang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30a2\u30fb\u30c1\u30e5\u30fc\u30fb\u30ab\u30f3"
+    ],
+    "name:per_x_preferred":[
+        "\u0686\u0648\u0622 \u0686\u0648 \u06a9\u0627\u0646\u06af"
+    ],
+    "name:unk_x_variant":[
+        "Choa Chu Kang"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1884737,
+    "qs:gn_pop":0,
+    "qs:name":"Choa Chu Kang New Town",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"South West",
+    "qs:photos":2115,
+    "qs:photos_1k":429,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2115,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229760,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062412,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884737,
+        "gp:id":1062412,
+        "qs:id":229760,
+        "wd:id":"Q1069101",
+        "wk:page":"Choa Chu Kang"
+    },
+    "wof:country":"SG",
+    "wof:created":1459010142,
+    "wof:geomhash":"7326f8f2934d319aeceee63c31d9f503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421203179,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421203179,
+    "wof:lastmodified":1514504920,
+    "wof:name":"Choa Chu Kang New Town",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74972,
+    1.3825,
+    103.74972,
+    1.3825
+],
+  "geometry": {"coordinates":[103.74972,1.3825],"type":"Point"}
+}

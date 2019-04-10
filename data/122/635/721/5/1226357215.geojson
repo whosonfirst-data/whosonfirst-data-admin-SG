@@ -1,0 +1,65 @@
+{
+  "id": 1226357215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76167,1.41556,103.76167,1.41556",
+    "geom:latitude":1.41556,
+    "geom:longitude":103.76167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Teck Chong Estate",
+    "gn:country_code":"SG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880206,
+    "gn:latitude":1.41556,
+    "gn:longitude":103.76167,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Teck Chong Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880206
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"688fa7be7316352f8fe017b147b14394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1226357215,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":1226357215,
+    "wof:lastmodified":1536773539,
+    "wof:name":"Teck Chong Estate",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76167,
+    1.41556,
+    103.76167,
+    1.41556
+],
+  "geometry": {"coordinates":[103.76167,1.41556],"type":"Point"}
+}

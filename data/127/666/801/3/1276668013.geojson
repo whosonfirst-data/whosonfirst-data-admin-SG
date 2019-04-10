@@ -1,0 +1,65 @@
+{
+  "id": 1276668013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95444,1.32444,103.95444,1.32444",
+    "geom:latitude":1.32444,
+    "geom:longitude":103.95444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bedok Ville",
+    "gn:country_code":"SG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1885161,
+    "gn:latitude":1.32444,
+    "gn:longitude":103.95444,
+    "gn:modification_date":"1995-04-26",
+    "gn:name":"Bedok Ville",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1885161
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"dfd324987e01f708c7d7b5d903cfeeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1276668013,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":1276668013,
+    "wof:lastmodified":1536826310,
+    "wof:name":"Bedok Ville",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95444,
+    1.32444,
+    103.95444,
+    1.32444
+],
+  "geometry": {"coordinates":[103.95444000000001,1.32444],"type":"Point"}
+}

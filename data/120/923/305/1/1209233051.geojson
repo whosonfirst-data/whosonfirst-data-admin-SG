@@ -1,0 +1,61 @@
+{
+  "id": 1209233051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71667,1.35,103.71667,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":103.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Ulu Jurong",
+    "gn:country_code":"SG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880531,
+    "gn:latitude":1.35,
+    "gn:longitude":103.71667,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Ulu Jurong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880531
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"99ccab31bc77c00654cd1b0d3ead8e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":1209233051
+        }
+    ],
+    "wof:id":1209233051,
+    "wof:lastmodified":1536293576,
+    "wof:name":"Kampong Ulu Jurong",
+    "wof:parent_id":85632605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71667,
+    1.35,
+    103.71667,
+    1.35
+],
+  "geometry": {"coordinates":[103.71666999999999,1.35],"type":"Point"}
+}

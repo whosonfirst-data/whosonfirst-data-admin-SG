@@ -1,0 +1,70 @@
+{
+  "id": 421186425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.82278,1.254057,103.82278,1.254057",
+    "geom:latitude":1.254057,
+    "geom:longitude":103.82278,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sentosa",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"South West",
+    "qs:photos":4997,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4997,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1067309,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":55875831,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":6131,
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55875831,
+        "qs:id":1067309,
+        "wd:id":"Q870844"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009480,
+    "wof:geomhash":"7e31c1d192daae40f6f73068ba77aede",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":421186425
+        }
+    ],
+    "wof:id":421186425,
+    "wof:lastmodified":1527716312,
+    "wof:name":"Sentosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82278,
+    1.254057,
+    103.82278,
+    1.254057
+],
+  "geometry": {"coordinates":[103.82277999999999,1.254057],"type":"Point"}
+}

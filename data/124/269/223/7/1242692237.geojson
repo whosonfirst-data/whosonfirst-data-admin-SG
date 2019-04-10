@@ -1,0 +1,65 @@
+{
+  "id": 1242692237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9,1.31667,103.9,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":103.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Ubi",
+    "gn:country_code":"SG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880532,
+    "gn:latitude":1.31667,
+    "gn:longitude":103.9,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Ubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880532
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"e4f68c43321fb849e3d968ce6414501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1242692237,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":1242692237,
+    "wof:lastmodified":1536898546,
+    "wof:name":"Kampong Ubi",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9,
+    1.31667,
+    103.9,
+    1.31667
+],
+  "geometry": {"coordinates":[103.90000000000001,1.31667],"type":"Point"}
+}

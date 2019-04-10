@@ -1,0 +1,90 @@
+{
+  "id": 421189815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.77394,1.34184,103.77394,1.34184",
+    "geom:latitude":1.34184,
+    "geom:longitude":103.77394,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u06cc\u062a \u0645\u0631\u0627\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Bukit Merah"
+    ],
+    "name:ind_x_preferred":[
+        "Bukit Merah"
+    ],
+    "name:msa_x_preferred":[
+        "Bukit Merah"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea2\u5c71"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7289743,
+    "qs:gn_pop":0,
+    "qs:name":"Bukit Merah",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4997,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4997,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117046,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703017,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1324,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7289743,
+        "gp:id":24703017,
+        "qs:id":1117046,
+        "wd:id":"Q4986926"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009637,
+    "wof:geomhash":"7c003ed39af42b536c8633fc02a83736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421189815,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421189815,
+    "wof:lastmodified":1527716270,
+    "wof:name":"Bukit Merah",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77394,
+    1.34184,
+    103.77394,
+    1.34184
+],
+  "geometry": {"coordinates":[103.77394,1.34184],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 85784203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2197300.8531,
+    "geom:bbox":"103.778229,1.454159,103.778229,1.454159",
+    "geom:latitude":1.454159,
+    "geom:longitude":103.778229,
+    "gn:id":"",
+    "iso:country":"SG",
+    "lbl:latitude":1.454159,
+    "lbl:longitude":103.778229,
+    "mps:latitude":1.452031,
+    "mps:longitude":103.780588,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Tanjung Puteri"
+    ],
+    "name:unk_x_variant":[
+        "Tanjung Puteri"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1732752,
+    "qs:local_max":681,
+    "qs:local_sum":3607,
+    "qs:localhoods":29,
+    "qs:name":"Tanjung Puteri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:name_adm2":"Johor Bahru",
+    "qs:name_lau":"Plentong",
+    "qs:name_local":"Johor Baharu",
+    "qs:photo_max":74,
+    "qs:photo_sum":74,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346296,
+    "qs:woe_adm2":56013565,
+    "qs:woe_lau":56014160,
+    "qs:woe_local":1154698,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        102032341,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017283,
+        "qs:id":481808
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"f3195a86ef0559631b110812e5d7f4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":102032341,
+            "neighbourhood_id":85784203,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":85784203,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860588,
+    "wof:name":"Tanjung Puteri",
+    "wof:parent_id":102032341,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.778229,
+    1.454159,
+    103.778229,
+    1.454159
+],
+  "geometry": {"coordinates":[103.778229,1.454159],"type":"Point"}
+}

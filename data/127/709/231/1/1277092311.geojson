@@ -1,0 +1,61 @@
+{
+  "id": 1277092311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68333,1.28333,103.68333,1.28333",
+    "geom:latitude":1.28333,
+    "geom:longitude":103.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Pesek",
+    "gn:country_code":"SG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880568,
+    "gn:latitude":1.28333,
+    "gn:longitude":103.68333,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Pesek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880568
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"d84c5943966ef2ed66e39568509493d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277092311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277092311,
+    "wof:lastmodified":1536753822,
+    "wof:name":"Kampong Pesek",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68333,
+    1.28333,
+    103.68333,
+    1.28333
+],
+  "geometry": {"coordinates":[103.68333,1.28333],"type":"Point"}
+}

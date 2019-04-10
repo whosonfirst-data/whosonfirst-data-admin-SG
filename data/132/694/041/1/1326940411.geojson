@@ -1,0 +1,64 @@
+{
+  "id": 1326940411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65,1.35,103.65,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":103.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Blukang",
+    "gn:country_code":"SG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880610,
+    "gn:latitude":1.35,
+    "gn:longitude":103.65,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Blukang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880610
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"68aa5c7a8bc84fec9704d768f8d86f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1326940411,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326940411,
+    "wof:lastmodified":1536892605,
+    "wof:name":"Kampong Blukang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65,
+    1.35,
+    103.65,
+    1.35
+],
+  "geometry": {"coordinates":[103.65000000000001,1.35],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 102032347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000254,
+    "geom:bbox":"104.026046225,1.34763875109,104.044022159,1.36573069318",
+    "geom:latitude":1.356685,
+    "geom:longitude":104.035034,
+    "gn:gn_country":"SG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":1.38444,
+    "gn:longitude":103.98306,
+    "iso:country":"SG",
+    "lbl:latitude":1.356685,
+    "lbl:longitude":104.035034,
+    "mps:latitude":1.356685,
+    "mps:longitude":104.035034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30f3\u30ae\u30fb\u30f4\u30a3\u30ec\u30c3\u30b8"
+    ],
+    "name:unk_x_variant":[
+        "Changi"
+    ],
+    "qs:a0":"Singapore",
+    "qs:a1":"*South East",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Changi Village",
+    "qs:loc_alt":"Changi Village",
+    "qs:loc_lc":"1880723",
+    "qs:pop":0,
+    "qs:source":"Pquattroshapes",
+    "qs:type":"Town",
+    "qs_pg:aaroncc":"SG",
+    "qs_pg:gn_country":"SG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1880723,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Changi Village",
+    "qs_pg:name_adm0":"Singapore",
+    "qs_pg:name_adm1":"South East",
+    "qs_pg:photos":850,
+    "qs_pg:photos_1k":172,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":850,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":906119,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424948,
+    "qs_pg:woe_id":1062406,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":396,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880723,
+        "gp:id":1062406,
+        "qs:id":906119,
+        "qs_pg:id":906119,
+        "wd:id":"Q5072003",
+        "wk:page":"Changi Village"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"1ea3316d0997f9ea4d370857177c9330",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":102032347
+        }
+    ],
+    "wof:id":102032347,
+    "wof:lastmodified":1534379460,
+    "wof:name":"Changi Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125882953
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.02604622484661,
+    1.34763875109171,
+    104.04402215907557,
+    1.3657306931799
+],
+  "geometry": {"coordinates":[[[104.0367911434525,1.34781326544427],[104.03503775237304,1.34763875109171],[104.03328422537079,1.34781186708942],[104.03159794868041,1.34832596023267],[104.03004372406251,1.34916127396517],[104.02868127864498,1.35028570765071],[104.02756296977243,1.35165605018304],[104.02673177304588,1.35321964052736],[104.02621963085296,1.35491639138459],[104.02604622484661,1.35668109822107],[104.02621821954411,1.35844594494255],[104.02672900611786,1.36014310993669],[104.0275589562424,1.36170737234883],[104.02867617625942,1.36307861844531],[104.0300377327015,1.36420415175144],[104.03159130209765,1.36504071818676],[104.03327718167652,1.36555616836698],[104.03503058370633,1.3657306931799],[104.03678412530083,1.36555758513813],[104.03847041800354,1.36504349623539],[104.04002465761648,1.3642081823822],[104.04138711472866,1.36308374423311],[104.04250543021512,1.36171339357404],[104.04333662746809,1.36014979267692],[104.04384876401976,1.35845303044745],[104.04402215907557,1.35668831315061],[104.04385014978591,1.35492345847311],[104.04333934719973,1.35322628923862],[104.04250938208027,1.35166202694728],[104.04139215036848,1.35029078531424],[104.04003058731242,1.34916526013487],[104.03847701738984,1.34832870425227],[104.0367911434525,1.34781326544427]]],"type":"Polygon"}
+}

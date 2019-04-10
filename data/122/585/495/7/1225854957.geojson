@@ -1,0 +1,65 @@
+{
+  "id": 1225854957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86083,1.32778,103.86083,1.32778",
+    "geom:latitude":1.32778,
+    "geom:longitude":103.86083,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saint Michael's Estate",
+    "gn:country_code":"SG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882107,
+    "gn:latitude":1.32778,
+    "gn:longitude":103.86083,
+    "gn:modification_date":"1994-07-21",
+    "gn:name":"Saint Michael\u2019s Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882107
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"13d4e6e959bb926f0d069cdce348b57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1225854957,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1225854957,
+    "wof:lastmodified":1536999562,
+    "wof:name":"Saint Michael's Estate",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86083,
+    1.32778,
+    103.86083,
+    1.32778
+],
+  "geometry": {"coordinates":[103.86083000000001,1.32778],"type":"Point"}
+}

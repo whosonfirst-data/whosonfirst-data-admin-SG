@@ -1,0 +1,70 @@
+{
+  "id": 1293018949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75,1.35,103.75,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":103.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ong Lee",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880428,
+    "gn:latitude":1.35,
+    "gn:longitude":103.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ong Lee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ong Lee Village",
+        "Ong Lee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880428
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"018034d489c834dd5116e6330a65351a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1293018949,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":1293018949,
+    "wof:lastmodified":1537700163,
+    "wof:name":"Ong Lee",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75,
+    1.35,
+    103.75,
+    1.35
+],
+  "geometry": {"coordinates":[103.75,1.35],"type":"Point"}
+}

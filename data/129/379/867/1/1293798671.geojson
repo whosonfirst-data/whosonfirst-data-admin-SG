@@ -1,0 +1,70 @@
+{
+  "id": 1293798671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75,1.43333,103.75,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":103.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Kranji",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880591,
+    "gn:latitude":1.43333,
+    "gn:longitude":103.75,
+    "gn:modification_date":"2018-03-27",
+    "gn:name":"Kampong Kranji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kranji",
+        "Kampong Kranji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880591,
+        "wk:page":"Kranji"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"728dcbea0ab3a3ecc7b163e86c961e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1293798671,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293798671,
+    "wof:lastmodified":1537700164,
+    "wof:name":"Kampong Kranji",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75,
+    1.43333,
+    103.75,
+    1.43333
+],
+  "geometry": {"coordinates":[103.75,1.43333],"type":"Point"}
+}

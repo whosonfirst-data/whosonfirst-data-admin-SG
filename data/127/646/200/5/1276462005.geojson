@@ -1,0 +1,64 @@
+{
+  "id": 1276462005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05028,1.42139,104.05028,1.42139",
+    "geom:latitude":1.42139,
+    "geom:longitude":104.05028,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sungai Unum Estate",
+    "gn:country_code":"SG",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880224,
+    "gn:latitude":1.42139,
+    "gn:longitude":104.05028,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Sungai Unum Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880224
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"5bea61a7d14b6222c75ecc4d0a58ac37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1276462005,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276462005,
+    "wof:lastmodified":1536603259,
+    "wof:name":"Sungai Unum Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05028,
+    1.42139,
+    104.05028,
+    1.42139
+],
+  "geometry": {"coordinates":[104.05028,1.42139],"type":"Point"}
+}

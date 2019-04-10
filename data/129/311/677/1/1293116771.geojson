@@ -1,0 +1,66 @@
+{
+  "id": 1293116771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05972,1.43139,104.05972,1.43139",
+    "geom:latitude":1.43139,
+    "geom:longitude":104.05972,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Unum",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880529,
+    "gn:latitude":1.43139,
+    "gn:longitude":104.05972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kampong Unum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Unam",
+        "Kampong Unum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880529
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"850d75dad46d2af47adfb2a75668c0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293116771,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293116771,
+    "wof:lastmodified":1537700164,
+    "wof:name":"Kampong Unum",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05972,
+    1.43139,
+    104.05972,
+    1.43139
+],
+  "geometry": {"coordinates":[104.05972,1.43139],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209332983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90167,1.37611,103.90167,1.37611",
+    "geom:latitude":1.37611,
+    "geom:longitude":103.90167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kangkar",
+    "gn:country_code":"SG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882402,
+    "gn:latitude":1.37611,
+    "gn:longitude":103.90167,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kangkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882402
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"45ff5ea6d9463787ef512e589ab24fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":1209332983
+        }
+    ],
+    "wof:id":1209332983,
+    "wof:lastmodified":1536290314,
+    "wof:name":"Kangkar",
+    "wof:parent_id":85632605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90167,
+    1.37611,
+    103.90167,
+    1.37611
+],
+  "geometry": {"coordinates":[103.90167,1.37611],"type":"Point"}
+}

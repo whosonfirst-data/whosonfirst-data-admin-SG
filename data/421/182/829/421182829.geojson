@@ -1,0 +1,75 @@
+{
+  "id": 421182829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89822,1.32252,103.89822,1.32252",
+    "geom:latitude":1.32252,
+    "geom:longitude":103.89822,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7289731,
+    "qs:gn_pop":0,
+    "qs:name":"Eunos",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":954869,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":55875832,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7289731,
+        "gp:id":55875832,
+        "qs:id":954869
+    },
+    "wof:country":"SG",
+    "wof:created":1459009348,
+    "wof:geomhash":"4d5842359f5b97e4aa57c400574dd412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421182829,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":421182829,
+    "wof:lastmodified":1527726428,
+    "wof:name":"Eunos",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89822,
+    1.32252,
+    103.89822,
+    1.32252
+],
+  "geometry": {"coordinates":[103.89821999999999,1.32252],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 421187683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76472,1.37972,103.76472,1.37972",
+    "geom:latitude":1.37972,
+    "geom:longitude":103.76472,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bukit Panjang"
+    ],
+    "name:eng_x_preferred":[
+        "Bukit Panjang"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u06a9\u06cc\u062a \u067e\u0646\u062c\u0646\u06af"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bcd \u0baa\u0b9e\u0bcd\u0b9a\u0bbe\u0b99\u0bcd"
+    ],
+    "name:unk_x_variant":[
+        "Bukit Panjang"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1884367,
+    "qs:gn_pop":0,
+    "qs:name":"Bukit Panjang New Town",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North West",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":5072,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062391,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1884367,
+        "gp:id":1062391,
+        "qs:id":5072,
+        "wd:id":"Q2224065"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009520,
+    "wof:geomhash":"74239b9777f753b8120a0cb8726a7d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421187683,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421187683,
+    "wof:lastmodified":1514504920,
+    "wof:name":"Bukit Panjang New Town",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76472,
+    1.37972,
+    103.76472,
+    1.37972
+],
+  "geometry": {"coordinates":[103.76472,1.37972],"type":"Point"}
+}

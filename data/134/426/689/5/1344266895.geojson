@@ -1,0 +1,65 @@
+{
+  "id": 1344266895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85,1.40333,103.85,1.40333",
+    "geom:latitude":1.40333,
+    "geom:longitude":103.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Pengkalan Petai",
+    "gn:country_code":"SG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880571,
+    "gn:latitude":1.40333,
+    "gn:longitude":103.85,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kampong Pengkalan Petai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880571
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"bdad29dd7c11d7ddf9fc1eced2e9adb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1344266895,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1344266895,
+    "wof:lastmodified":1537071691,
+    "wof:name":"Kampong Pengkalan Petai",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85,
+    1.40333,
+    103.85,
+    1.40333
+],
+  "geometry": {"coordinates":[103.84999999999999,1.40333],"type":"Point"}
+}

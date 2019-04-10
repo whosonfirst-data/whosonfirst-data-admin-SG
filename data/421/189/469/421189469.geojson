@@ -1,0 +1,78 @@
+{
+  "id": 421189469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.7,1.33333,103.7,1.33333",
+    "geom:latitude":1.33333,
+    "geom:longitude":103.7,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ind_x_preferred":[
+        "Boon Lay"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1880761,
+    "qs:gn_pop":0,
+    "qs:name":"Boon Lay",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"South West",
+    "qs:photos":4840,
+    "qs:photos_1k":981,
+    "qs:photos_9k":21,
+    "qs:photos_9r":13,
+    "qs:photos_all":4840,
+    "qs:photos_sr":23,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1113212,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703009,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":771,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880761,
+        "gp:id":24703009,
+        "qs:id":1113212,
+        "wd:id":"Q4943568"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009626,
+    "wof:geomhash":"067a4028b296a56e5e3f40d088b8c783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421189469,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421189469,
+    "wof:lastmodified":1527716270,
+    "wof:name":"Boon Lay",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7,
+    1.33333,
+    103.7,
+    1.33333
+],
+  "geometry": {"coordinates":[103.7,1.33333],"type":"Point"}
+}

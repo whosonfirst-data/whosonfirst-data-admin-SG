@@ -1,0 +1,61 @@
+{
+  "id": 1343276483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.04694,1.42917,104.04694,1.42917",
+    "geom:latitude":1.42917,
+    "geom:longitude":104.04694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Pasir Merah",
+    "gn:country_code":"SG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880575,
+    "gn:latitude":1.42917,
+    "gn:longitude":104.04694,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kampong Pasir Merah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880575
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"714df8d227fa84fdd1df9871b358cd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343276483,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343276483,
+    "wof:lastmodified":1537011003,
+    "wof:name":"Kampong Pasir Merah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.04694,
+    1.42917,
+    104.04694,
+    1.42917
+],
+  "geometry": {"coordinates":[104.04694000000001,1.42917],"type":"Point"}
+}

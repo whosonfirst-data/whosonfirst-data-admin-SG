@@ -1,0 +1,74 @@
+{
+  "id": 421180963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.83469,1.30256,103.83469,1.30256",
+    "geom:latitude":1.30256,
+    "geom:longitude":103.83469,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7289740,
+    "qs:gn_pop":0,
+    "qs:name":"Orchard",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":468887,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703024,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7289740,
+        "gp:id":24703024,
+        "qs:id":468887,
+        "wd:id":"Q2641398",
+        "wk:page":"Orchard MRT Station"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009277,
+    "wof:geomhash":"22b6b713575b60e206568eaf6b8d7388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421180963,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":421180963,
+    "wof:lastmodified":1466635852,
+    "wof:name":"Orchard",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83469,
+    1.30256,
+    103.83469,
+    1.30256
+],
+  "geometry": {"coordinates":[103.83468999999999,1.30256],"type":"Point"}
+}

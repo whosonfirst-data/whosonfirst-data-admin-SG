@@ -1,0 +1,65 @@
+{
+  "id": 1360004195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91583,1.38139,103.91583,1.38139",
+    "geom:latitude":1.38139,
+    "geom:longitude":103.91583,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Beremban",
+    "gn:country_code":"SG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880611,
+    "gn:latitude":1.38139,
+    "gn:longitude":103.91583,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kampong Beremban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880611
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"9e9a06ca5613c7c1a1822028c7b16604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1360004195,
+            "region_id":85677053
+        }
+    ],
+    "wof:id":1360004195,
+    "wof:lastmodified":1537059717,
+    "wof:name":"Kampong Beremban",
+    "wof:parent_id":85677053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91583,
+    1.38139,
+    103.91583,
+    1.38139
+],
+  "geometry": {"coordinates":[103.91583,1.38139],"type":"Point"}
+}

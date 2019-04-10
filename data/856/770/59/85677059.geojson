@@ -1,0 +1,171 @@
+{
+  "id": 85677059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006383,
+    "geom:area_square_m":78906337.028544,
+    "geom:bbox":"103.873020452,1.30524093612,104.003428582,1.3899588823",
+    "geom:latitude":1.34814,
+    "geom:longitude":103.933061,
+    "iso:country":"SG",
+    "label:eng_x_preferred_longname":[
+        "South East Community Development Council"
+    ],
+    "lbl:latitude":1.337909,
+    "lbl:longitude":103.910338,
+    "mps:latitude":1.337909,
+    "mps:longitude":103.910338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "S\u00fcdost"
+    ],
+    "name:eng_x_preferred":[
+        "South East"
+    ],
+    "name:eng_x_variant":[
+        "Southeast"
+    ],
+    "name:fra_x_preferred":[
+        "Sud-Est"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u6771\u793e\u4f1a\u958b\u767a\u5354\u8b70\u4f1a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a8\ub3d9\ubd80 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SGP",
+    "ne:adm0_label":"3",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"SGP-4875",
+    "ne:adm1_code":"SGP-4875",
+    "ne:admin":"Singapore",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SG.SE",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4875",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Singapore",
+    "ne:gn_a1_code":"SG.04",
+    "ne:gn_id":"7535956",
+    "ne:gn_level":"1",
+    "ne:gn_name":"South East Community Development Council",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SGP",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SG-04",
+    "ne:iso_a2":"SG",
+    "ne:labelrank":"20",
+    "ne:latitude":"1.33524000000",
+    "ne:longitude":"103.93200000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"South East",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SGP",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/South_East_Community_Development_Council",
+    "ne:woe_id":24703041,
+    "ne:woe_label":"South East, SG, Singapore",
+    "ne:woe_name":"South East",
+    "qs:a0":"Singapore",
+    "qs:a0_lc":"SG",
+    "qs:a1":"South East",
+    "qs:a1_lc":"SGP-4875",
+    "qs:adm0":"Singapore",
+    "qs:adm0_a3":"SGP",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SG-04",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":7535956,
+        "gp:id":24703041,
+        "hasc:id":"SG.SE",
+        "qs:id":1097105,
+        "unlc:id":"SG-04",
+        "wd:id":"Q1687545",
+        "wk:page":"South East Community Development Council"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"a8eb969a46cb2c889e1eb79e4f99861b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":85677059,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1553624527,
+    "wof:name":"South East",
+    "wof:parent_id":85632605,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:shortcode":"SE",
+    "wof:subdivision":"SG-04",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.87302045213221,
+    1.30524093612036,
+    104.0034285816638,
+    1.38995888229664
+],
+  "geometry": {"coordinates":[[[103.89810245136709,1.30524093612036],[103.8950278374648,1.31064442180269],[103.88790780140397,1.32229539071977],[103.88078776444382,1.33329908248669],[103.87496228088463,1.34300822355073],[103.87302045213221,1.35336463996623],[103.87302045213221,1.36307378013089],[103.87690410873768,1.37278292029561],[103.8840241447985,1.37990295635637],[103.89049690460854,1.38313933671105],[103.89891149317094,1.38637571706573],[103.89761694156869,1.37472474814865],[103.90603152923177,1.36825198833861],[103.917035221898,1.36436833173315],[103.9299807424174,1.35854284817395],[103.93515895062512,1.3540119153177],[103.94227898668595,1.3540119153177],[103.94551536704063,1.36501560798399],[103.94551536704063,1.37278292029561],[103.9545772309545,1.37666657600175],[103.96234454326611,1.38313933671105],[103.96580669931978,1.38995888229664],[103.98568769613036,1.3854434276721],[103.99952233228987,1.38031647362641],[104.0034285816638,1.3741722685354],[103.99187259194662,1.35492584864903],[103.97486412867664,1.33445872588953],[103.95435631609115,1.31810130433178],[103.93189537926838,1.31146881683247],[103.90723717475589,1.30874258050574],[103.89810245136709,1.30524093612036]]],"type":"Polygon"}
+}

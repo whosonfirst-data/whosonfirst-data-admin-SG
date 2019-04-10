@@ -1,0 +1,102 @@
+{
+  "id": 421187789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.944675,1.349627,103.944675,1.349627",
+    "geom:latitude":1.349627,
+    "geom:longitude":103.944675,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6de1\u6ee8\u5c3c"
+    ],
+    "name:eng_x_preferred":[
+        "Tampines"
+    ],
+    "name:fin_x_preferred":[
+        "Tampines"
+    ],
+    "name:fre_x_preferred":[
+        "Tampines"
+    ],
+    "name:ind_x_preferred":[
+        "Tampines"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30d4\u30cd\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Tampines"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0645\u067e\u06cc\u0646\u0633"
+    ],
+    "name:spa_x_preferred":[
+        "Tampines"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tampines",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":3645,
+    "qs:photos_1k":739,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3645,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086041,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703037,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2570,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703037,
+        "qs:id":1086041,
+        "wd:id":"Q5110386"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009524,
+    "wof:geomhash":"8a48617b54d2c06345b448a400acae32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421187789,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":421187789,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Tampines",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.944675,
+    1.349627,
+    103.944675,
+    1.349627
+],
+  "geometry": {"coordinates":[103.944675,1.349627],"type":"Point"}
+}

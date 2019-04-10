@@ -1,0 +1,87 @@
+{
+  "id": 421191865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.87194,1.39722,103.87194,1.39722",
+    "geom:latitude":1.39722,
+    "geom:longitude":103.87194,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ind_x_preferred":[
+        "Jalan Kayu"
+    ],
+    "name:msa_x_preferred":[
+        "Jalan Kayu"
+    ],
+    "name:unk_x_variant":[
+        "Dixil"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0627\u0646 \u06a9\u06cc\u0648"
+    ],
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1880639,
+    "qs:gn_pop":0,
+    "qs:name":"Jalan Kayu",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4998,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4998,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1159412,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062681,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":322,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880639,
+        "gp:id":1062681,
+        "qs:id":1159412,
+        "wd:id":"Q12487044"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009712,
+    "wof:geomhash":"b2efddc56bdbd9498075d95138073e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421191865,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":421191865,
+    "wof:lastmodified":1527716385,
+    "wof:name":"Jalan Kayu",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.87194,
+    1.39722,
+    103.87194,
+    1.39722
+],
+  "geometry": {"coordinates":[103.87194,1.39722],"type":"Point"}
+}

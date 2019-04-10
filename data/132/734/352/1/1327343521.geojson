@@ -1,0 +1,65 @@
+{
+  "id": 1327343521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90278,1.39944,103.90278,1.39944",
+    "geom:latitude":1.39944,
+    "geom:longitude":103.90278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Matilda Estate",
+    "gn:country_code":"SG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1880463,
+    "gn:latitude":1.39944,
+    "gn:longitude":103.90278,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Matilda Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880463
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"da829c9bf87a9a46b1fe5e0e7466e6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1327343521,
+            "region_id":85677053
+        }
+    ],
+    "wof:id":1327343521,
+    "wof:lastmodified":1536808694,
+    "wof:name":"Matilda Estate",
+    "wof:parent_id":85677053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90278,
+    1.39944,
+    103.90278,
+    1.39944
+],
+  "geometry": {"coordinates":[103.90278000000001,1.39944],"type":"Point"}
+}

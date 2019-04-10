@@ -1,0 +1,64 @@
+{
+  "id": 1293898117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72861,1.20639,103.72861,1.20639",
+    "geom:latitude":1.20639,
+    "geom:longitude":103.72861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Sudong",
+    "gn:country_code":"SG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880550,
+    "gn:latitude":1.20639,
+    "gn:longitude":103.72861,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Sudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880550
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"c658a1e7a732ca8ba97f82de44e08b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1293898117,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293898117,
+    "wof:lastmodified":1536692362,
+    "wof:name":"Kampong Sudong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72861,
+    1.20639,
+    103.72861,
+    1.20639
+],
+  "geometry": {"coordinates":[103.72861,1.20639],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 421188973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.849419,1.372833,103.849419,1.372833",
+    "geom:latitude":1.372833,
+    "geom:longitude":103.849419,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5b8f\u8302\u6865"
+    ],
+    "name:eng_x_preferred":[
+        "Ang Mo Kio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06af \u0645\u0648 \u06a9\u06cc\u0648"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0902\u0917 \u092e\u094b \u0915\u093f\u0913"
+    ],
+    "name:ind_x_preferred":[
+        "Ang Mo Kio"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902\u0917 \u092e\u094b \u0915\u094d\u092f\u094b"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c2ng m\u00f4\u0358 ki\u00f4"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0646\u06af \u0645\u0648 \u06a9\u06cc\u0648"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0b99\u0bcd \u0bae\u0bcb \u0b95\u0bbf\u0baf\u0bcb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b8f\u8302\u6865"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ang Mo Kio",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1107359,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062682,
+    "src:geom":"quattroshapes",
+    "wd:latitude":1.370167,
+    "wd:longitude":103.845619,
+    "wd:wordcount":2368,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1062682,
+        "qs:id":1107359,
+        "wd:id":"Q4761845"
+    },
+    "wof:country":"SG",
+    "wof:created":1459009595,
+    "wof:geomhash":"94dd80c17ee06c04306f413580951df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421188973,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":421188973,
+    "wof:lastmodified":1527716297,
+    "wof:name":"Ang Mo Kio",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.849419,
+    1.372833,
+    103.849419,
+    1.372833
+],
+  "geometry": {"coordinates":[103.849419,1.372833],"type":"Point"}
+}

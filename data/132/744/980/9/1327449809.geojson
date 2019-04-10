@@ -1,0 +1,70 @@
+{
+  "id": 1327449809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85139,1.39111,103.85139,1.39111",
+    "geom:latitude":1.39111,
+    "geom:longitude":103.85139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yio Chu Kang",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880135,
+    "gn:latitude":1.39111,
+    "gn:longitude":103.85139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yio Chu Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yio Chu Kang Village",
+        "Yio Chu Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880135
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"df7ac0ee52efe9b57fffba13c0d60d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1327449809,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1327449809,
+    "wof:lastmodified":1537700163,
+    "wof:name":"Yio Chu Kang",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85139,
+    1.39111,
+    103.85139,
+    1.39111
+],
+  "geometry": {"coordinates":[103.85138999999999,1.39111],"type":"Point"}
+}

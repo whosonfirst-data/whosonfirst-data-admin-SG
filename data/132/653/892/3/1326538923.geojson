@@ -1,0 +1,71 @@
+{
+  "id": 1326538923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97139,1.40333,103.97139,1.40333",
+    "geom:latitude":1.40333,
+    "geom:longitude":103.97139,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pulau Ubin Village",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880351,
+    "gn:latitude":1.40333,
+    "gn:longitude":103.97139,
+    "gn:modification_date":"2015-04-02",
+    "gn:name":"Pulau Ubin Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pulau Ubin",
+        "Pulau Ubin",
+        "Pulau Ubin Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880351,
+        "wk:page":"Pulau_Ubin"
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"5ef7433f9d006b3efcf113ce7f36376f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1326538923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326538923,
+    "wof:lastmodified":1537700163,
+    "wof:name":"Pulau Ubin Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97139,
+    1.40333,
+    103.97139,
+    1.40333
+],
+  "geometry": {"coordinates":[103.97139,1.40333],"type":"Point"}
+}

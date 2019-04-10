@@ -1,0 +1,65 @@
+{
+  "id": 1309920513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85917,1.435,103.85917,1.435",
+    "geom:latitude":1.435,
+    "geom:longitude":103.85917,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Kitin",
+    "gn:country_code":"SG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880593,
+    "gn:latitude":1.435,
+    "gn:longitude":103.85917,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Kitin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880593
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"d7a90bf3f0aa73d2d322a7ef9b7d8d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1309920513,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":1309920513,
+    "wof:lastmodified":1536766032,
+    "wof:name":"Kampong Kitin",
+    "wof:parent_id":85677049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85917,
+    1.435,
+    103.85917,
+    1.435
+],
+  "geometry": {"coordinates":[103.85917000000001,1.435],"type":"Point"}
+}

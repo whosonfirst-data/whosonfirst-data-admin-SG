@@ -1,0 +1,70 @@
+{
+  "id": 421172957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.894711,1.296265,103.894711,1.296265",
+    "geom:latitude":1.296265,
+    "geom:longitude":103.894711,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Marina East",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"South East",
+    "qs:photos":375,
+    "qs:photos_1k":76,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":375,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":281605,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":55875824,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55875824,
+        "qs:id":281605,
+        "wd:id":"Q6763814"
+    },
+    "wof:country":"SG",
+    "wof:created":1459008960,
+    "wof:geomhash":"34d373b084d54183c8c3486daeddd7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632605,
+            "locality_id":421172957
+        }
+    ],
+    "wof:id":421172957,
+    "wof:lastmodified":1527716304,
+    "wof:name":"Marina East",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.894711,
+    1.296265,
+    103.894711,
+    1.296265
+],
+  "geometry": {"coordinates":[103.894711,1.296265],"type":"Point"}
+}

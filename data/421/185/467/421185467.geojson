@@ -1,0 +1,77 @@
+{
+  "id": 421185467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83933,1.355343,103.83933,1.355343",
+    "geom:latitude":1.355343,
+    "geom:longitude":103.83933,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:nor_x_preferred":[
+        "Bishan"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bishan",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4997,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4997,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":896526,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703032,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703032,
+        "qs:id":896526
+    },
+    "wof:country":"SG",
+    "wof:created":1459009444,
+    "wof:geomhash":"175b0559f029fa3501a753c2f087c574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421185467,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":421185467,
+    "wof:lastmodified":1527726510,
+    "wof:name":"Bishan",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83933,
+    1.355343,
+    103.83933,
+    1.355343
+],
+  "geometry": {"coordinates":[103.83933,1.355343],"type":"Point"}
+}

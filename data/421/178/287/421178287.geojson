@@ -1,0 +1,71 @@
+{
+  "id": 421178287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.945788,1.36054,103.945788,1.36054",
+    "geom:latitude":1.36054,
+    "geom:longitude":103.945788,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tampines North",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"North East",
+    "qs:photos":753,
+    "qs:photos_1k":153,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":753,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":56133,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":55875830,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55875830,
+        "qs:id":56133
+    },
+    "wof:country":"SG",
+    "wof:created":1459009177,
+    "wof:geomhash":"5433a8de6bdd2613f3861f797e236e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421178287,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":421178287,
+    "wof:lastmodified":1466635847,
+    "wof:name":"Tampines North",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.945788,
+    1.36054,
+    103.945788,
+    1.36054
+],
+  "geometry": {"coordinates":[103.94578799999999,1.36054],"type":"Point"}
+}

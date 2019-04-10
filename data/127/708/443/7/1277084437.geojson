@@ -1,0 +1,64 @@
+{
+  "id": 1277084437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05778,1.39833,104.05778,1.39833",
+    "geom:latitude":1.39833,
+    "geom:longitude":104.05778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Sanyongkong",
+    "gn:country_code":"SG",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880557,
+    "gn:latitude":1.39833,
+    "gn:longitude":104.05778,
+    "gn:modification_date":"1995-04-27",
+    "gn:name":"Kampong Sanyongkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880557
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"28466bf543e8135f11748ad8e2336ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1277084437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277084437,
+    "wof:lastmodified":1536765471,
+    "wof:name":"Kampong Sanyongkong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05778,
+    1.39833,
+    104.05778,
+    1.39833
+],
+  "geometry": {"coordinates":[104.05777999999999,1.39833],"type":"Point"}
+}

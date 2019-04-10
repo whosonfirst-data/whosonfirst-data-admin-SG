@@ -1,0 +1,65 @@
+{
+  "id": 1260299901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83333,1.35,103.83333,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":103.83333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bright Hill Crescent",
+    "gn:country_code":"SG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880755,
+    "gn:latitude":1.35,
+    "gn:longitude":103.83333,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Bright Hill Crescent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880755
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"8550f5e05ceb44990dbb18afba7a8dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1260299901,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1260299901,
+    "wof:lastmodified":1536689933,
+    "wof:name":"Bright Hill Crescent",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83333,
+    1.35,
+    103.83333,
+    1.35
+],
+  "geometry": {"coordinates":[103.83333,1.35],"type":"Point"}
+}

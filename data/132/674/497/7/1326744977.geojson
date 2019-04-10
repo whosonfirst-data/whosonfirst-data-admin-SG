@@ -1,0 +1,65 @@
+{
+  "id": 1326744977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91667,1.31667,103.91667,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":103.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampong Pachitan",
+    "gn:country_code":"SG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880579,
+    "gn:latitude":1.31667,
+    "gn:longitude":103.91667,
+    "gn:modification_date":"1995-07-26",
+    "gn:name":"Kampong Pachitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880579
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"f1bb58c04cc8cb63c060ba6eea15e7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1326744977,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":1326744977,
+    "wof:lastmodified":1536677252,
+    "wof:name":"Kampong Pachitan",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91667,
+    1.31667,
+    103.91667,
+    1.31667
+],
+  "geometry": {"coordinates":[103.91667,1.31667],"type":"Point"}
+}

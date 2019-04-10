@@ -1,0 +1,72 @@
+{
+  "id": 421183263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.7975,1.30139,103.7975,1.30139",
+    "geom:latitude":1.30139,
+    "geom:longitude":103.7975,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1882118,
+    "qs:gn_pop":0,
+    "qs:name":"Tanglin Halt",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":970122,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":1062638,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882118,
+        "gp:id":1062638,
+        "qs:id":970122
+    },
+    "wof:country":"SG",
+    "wof:created":1459009363,
+    "wof:geomhash":"6ff4cb0f9fa6612bd6fe2f2bbae480bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421183263,
+            "region_id":85677045
+        }
+    ],
+    "wof:id":421183263,
+    "wof:lastmodified":1466635856,
+    "wof:name":"Tanglin Halt",
+    "wof:parent_id":85677045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7975,
+    1.30139,
+    103.7975,
+    1.30139
+],
+  "geometry": {"coordinates":[103.7975,1.30139],"type":"Point"}
+}

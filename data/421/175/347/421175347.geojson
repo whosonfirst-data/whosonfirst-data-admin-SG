@@ -1,0 +1,77 @@
+{
+  "id": 421175347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.843588,1.283323,103.843588,1.283323",
+    "geom:latitude":1.283323,
+    "geom:longitude":103.843588,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Outram"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Outram",
+    "qs:name_adm0":"Singapore",
+    "qs:name_adm1":"Central Singapore",
+    "qs:photos":4991,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4991,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":368331,
+    "qs:woe_adm0":23424948,
+    "qs:woe_id":24703023,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703023,
+        "qs:id":368331
+    },
+    "wof:country":"SG",
+    "wof:created":1459009064,
+    "wof:geomhash":"c5fc1a2cf49b64f2f0438717aaa3ec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":421175347,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":421175347,
+    "wof:lastmodified":1527716340,
+    "wof:name":"Outram",
+    "wof:parent_id":85677041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.843588,
+    1.283323,
+    103.843588,
+    1.283323
+],
+  "geometry": {"coordinates":[103.843588,1.283323],"type":"Point"}
+}

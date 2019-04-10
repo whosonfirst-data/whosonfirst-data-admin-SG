@@ -1,0 +1,71 @@
+{
+  "id": 1209928873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89167,1.36,103.89167,1.36",
+    "geom:latitude":1.36,
+    "geom:longitude":103.89167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chia Keng",
+    "gn:cc2":"SG",
+    "gn:country_code":"SG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880712,
+    "gn:latitude":1.36,
+    "gn:longitude":103.89167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chia Keng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Singapore",
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Somapah",
+        "Chia Keng Village",
+        "Chia Keng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        85677059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880712
+    },
+    "wof:country":"SG",
+    "wof:geomhash":"40214754030d0bccdb1e92a656dcb3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":1209928873,
+            "region_id":85677059
+        }
+    ],
+    "wof:id":1209928873,
+    "wof:lastmodified":1537700164,
+    "wof:name":"Chia Keng",
+    "wof:parent_id":85677059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89167,
+    1.36,
+    103.89167,
+    1.36
+],
+  "geometry": {"coordinates":[103.89167,1.36],"type":"Point"}
+}
