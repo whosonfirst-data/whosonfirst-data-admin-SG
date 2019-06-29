@@ -158,9 +158,6 @@
     "name:cym_x_variant":[
         "Singapore"
     ],
-    "name:cze_x_preferred":[
-        "Singapur"
-    ],
     "name:dan_x_preferred":[
         "Singapore"
     ],
@@ -798,9 +795,6 @@
     "name:zho_x_preferred":[
         "\u65b0\u52a0\u5761"
     ],
-    "name:zho_x_variant":[
-        "\u65b0\u52a0\u5761"
-    ],
     "name:zho_yue_x_preferred":[
         "\u661f\u67b6\u5761"
     ],
@@ -971,7 +965,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1544059128,
+    "wof:lastmodified":1561840338,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
