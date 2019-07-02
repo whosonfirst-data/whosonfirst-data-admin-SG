@@ -13,14 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8521\u539d\u6e2f"
-    ],
-    "name:dut_x_preferred":[
-        "Choa Chu Kang"
-    ],
     "name:eng_x_preferred":[
         "Choa Chu Kang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0622 \u0686\u0648 \u06a9\u0627\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Choa Chu Kang"
@@ -31,11 +28,14 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30a2\u30fb\u30c1\u30e5\u30fc\u30fb\u30ab\u30f3"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0622 \u0686\u0648 \u06a9\u0627\u0646\u06af"
+    "name:nld_x_preferred":[
+        "Choa Chu Kang"
     ],
     "name:unk_x_variant":[
         "Choa Chu Kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8521\u539d\u6e2f"
     ],
     "qs:gn_country":"SG",
     "qs:gn_fcode":"PPL",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421203179,
-    "wof:lastmodified":1514504920,
+    "wof:lastmodified":1561840338,
     "wof:name":"Choa Chu Kang New Town",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",
