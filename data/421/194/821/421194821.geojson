@@ -16,6 +16,9 @@
     "name:bar_x_preferred":[
         "Woodlands"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09a1\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    ],
     "name:deu_x_preferred":[
         "Woodlands"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Woodlands"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5140\u5170"
     ],
     "name:zho_x_preferred":[
         "\u5140\u5170"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421194821,
-    "wof:lastmodified":1561840338,
+    "wof:lastmodified":1563375165,
     "wof:name":"Woodlands New Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

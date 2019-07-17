@@ -24,8 +24,14 @@
     "name:deu_x_preferred":[
         "Zentral Singapore"
     ],
+    "name:deu_x_variant":[
+        "Central Singapore District"
+    ],
     "name:eng_x_preferred":[
         "Central Singapore"
+    ],
+    "name:epo_x_preferred":[
+        "Centra Distrikto"
     ],
     "name:fin_x_preferred":[
         "Singapore"
@@ -39,11 +45,15 @@
     "name:fra_x_preferred":[
         "Centre"
     ],
+    "name:fra_x_variant":[
+        "Singapour central"
+    ],
     "name:jpn_x_preferred":[
         "\u4e2d\u592e\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb"
     ],
     "name:jpn_x_variant":[
-        "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u4e2d\u592e\u793e\u4f1a\u958b\u767a\u5354\u8b70\u4f1a"
+        "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u4e2d\u592e\u793e\u4f1a\u958b\u767a\u5354\u8b70\u4f1a",
+        "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u4e2d\u592e\u5730\u533a"
     ],
     "name:kor_x_preferred":[
         "\uc13c\ud2b8\ub7f4\uc2f1\uac00\ud3ec\ub974"
@@ -51,8 +61,14 @@
     "name:kor_x_variant":[
         "\uc911\ubd80 \uc2f1\uac00\ud3ec\ub974 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
     ],
+    "name:spa_x_preferred":[
+        "Consejo Central"
+    ],
     "name:swe_x_preferred":[
         "Singapore"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u533a\u793e\u533a\u53d1\u5c55\u7406\u4e8b\u4f1a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SGP",
@@ -165,7 +181,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1553624510,
+    "wof:lastmodified":1563375150,
     "wof:name":"Central Singapore",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

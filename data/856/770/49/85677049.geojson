@@ -24,11 +24,26 @@
     "name:eng_x_preferred":[
         "North West"
     ],
+    "name:epo_x_preferred":[
+        "Nordokcidenta Distrikto"
+    ],
     "name:fra_x_preferred":[
         "Nord-Ouest"
     ],
+    "name:fra_x_variant":[
+        "District du Nord-Ouest"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u897f\u5730\u533a"
+    ],
     "name:kor_x_preferred":[
         "\ubd81\uc11c\ubd80 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
+    ],
+    "name:spa_x_preferred":[
+        "Consejo del Noroeste"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5317\u793e\u533a\u53d1\u5c55\u7406\u4e8b\u4f1a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SGP",
@@ -141,7 +156,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1553624518,
+    "wof:lastmodified":1563375151,
     "wof:name":"North West",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

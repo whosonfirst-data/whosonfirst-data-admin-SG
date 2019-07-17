@@ -49,6 +49,9 @@
     "name:unk_x_variant":[
         "Jurong East"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0646\u06af \u0645\u0634\u0631\u0642\u06cc"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4ng Jurong"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421188969,
-    "wof:lastmodified":1561840338,
+    "wof:lastmodified":1563375173,
     "wof:name":"Jurong East New Town",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

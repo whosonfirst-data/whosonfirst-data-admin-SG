@@ -22,6 +22,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u0646 \u067e\u0631\u06cc\u062f\u060c \u0633\u0646\u06af\u0627\u067e\u0648\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0631\u06cc\u0646 \u067e\u0631\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Marine Parade"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421181317,
-    "wof:lastmodified":1561840339,
+    "wof:lastmodified":1563375178,
     "wof:name":"Marine Parade",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

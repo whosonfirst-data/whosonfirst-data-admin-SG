@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.92457,1.311421,103.92457,1.311421",
     "geom:latitude":1.311421,
     "geom:longitude":103.92457,
@@ -12,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Siglap"
+    ],
     "name:ind_x_preferred":[
         "Siglap"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30b0\u30e9\u30c3\u30d7"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":421187089,
-    "wof:lastmodified":1527716249,
+    "wof:lastmodified":1563375170,
     "wof:name":"Siglap",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

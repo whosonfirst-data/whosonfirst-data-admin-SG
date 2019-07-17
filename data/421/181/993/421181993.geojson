@@ -31,6 +31,9 @@
     "name:unk_x_variant":[
         "Jurong West"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0646\u06af \u0645\u063a\u0631\u0628\u06cc"
+    ],
     "name:zho_x_preferred":[
         "\u88d5\u5eca\u897f"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421181993,
-    "wof:lastmodified":1561840339,
+    "wof:lastmodified":1563375177,
     "wof:name":"Jurong West New Town",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

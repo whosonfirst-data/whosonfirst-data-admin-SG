@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.82389,1.44444,103.82389,1.44444",
     "geom:latitude":1.44444,
     "geom:longitude":103.82389,
@@ -12,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Chong Pang"
+    ],
+    "name:tam_x_preferred":[
+        "Braddell Heights"
+    ],
     "name:unk_x_variant":[
         "Chong Pang Village"
     ],
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":421203181,
-    "wof:lastmodified":1527716195,
+    "wof:lastmodified":1563375168,
     "wof:name":"Chong Pang",
     "wof:parent_id":85677049,
     "wof:placetype":"locality",

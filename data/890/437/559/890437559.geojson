@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "name:eng_x_preferred":[
+        "Funan"
+    ],
+    "name:nor_x_preferred":[
+        "Bishan"
+    ],
     "qs:name":"Funan DigitaLife Mall",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":890437559,
-    "wof:lastmodified":1527729747,
+    "wof:lastmodified":1563375185,
     "wof:name":"Funan DigitaLife Mall",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

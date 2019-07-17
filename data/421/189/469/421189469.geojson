@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.7,1.33333,103.7,1.33333",
     "geom:latitude":1.33333,
     "geom:longitude":103.7,
@@ -12,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Boon Lay"
+    ],
     "name:ind_x_preferred":[
         "Boon Lay"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":421189469,
-    "wof:lastmodified":1527716270,
+    "wof:lastmodified":1563375172,
     "wof:name":"Boon Lay",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",
