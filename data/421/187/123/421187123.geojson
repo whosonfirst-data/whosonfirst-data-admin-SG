@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.8723,1.35119,103.8723,1.35119",
     "geom:latitude":1.35119,
     "geom:longitude":103.8723,
@@ -12,11 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Serangoon"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u0627\u0646\u06af\u0648\u0646"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30e9\u30f3\u30b0\u30fc\u30f3"
+    ],
+    "name:tgl_x_preferred":[
+        "serangoon"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e23\u0e31\u0e07\u0e01\u0e39\u0e19"
+    ],
+    "name:zho_x_preferred":[
+        "\u5be6\u9f8d\u5d17"
     ],
     "qs:gn_country":"SG",
     "qs:gn_fcode":"PPL",
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":421187123,
-    "wof:lastmodified":1527716252,
+    "wof:lastmodified":1563375171,
     "wof:name":"Serangoon",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

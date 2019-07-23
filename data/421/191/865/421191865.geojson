@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.87194,1.39722,103.87194,1.39722",
     "geom:latitude":1.39722,
     "geom:longitude":103.87194,
@@ -12,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Jalan Kayu"
+    ],
+    "name:eng_x_preferred":[
+        "Jalan Kayu"
+    ],
     "name:ind_x_preferred":[
         "Jalan Kayu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30e9\u30f3\u30fb\u30ab\u30e6"
     ],
     "name:msa_x_preferred":[
         "Jalan Kayu"
@@ -23,6 +33,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0644\u0627\u0646 \u06a9\u06cc\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u60f9\u862d\u52a0\u7531"
     ],
     "qs:gn_country":"SG",
     "qs:gn_fcode":"PPL",
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":421191865,
-    "wof:lastmodified":1527716385,
+    "wof:lastmodified":1563375179,
     "wof:name":"Jalan Kayu",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

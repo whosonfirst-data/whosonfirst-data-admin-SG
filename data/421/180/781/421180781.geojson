@@ -25,6 +25,9 @@
     "name:ind_x_preferred":[
         "Jurong"
     ],
+    "name:ita_x_preferred":[
+        "Jurong"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30ed\u30f3"
     ],
@@ -40,6 +43,9 @@
     "name:por_x_preferred":[
         "Jurong"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u0440\u043e\u043d\u0433"
+    ],
     "name:tgl_x_preferred":[
         "Jurong"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Bandar Baharu Jurong"
+    ],
+    "name:yue_x_preferred":[
+        "\u88d5\u5eca"
     ],
     "name:zho_x_preferred":[
         "\u88d5\u5eca"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421180781,
-    "wof:lastmodified":1561840338,
+    "wof:lastmodified":1563375169,
     "wof:name":"Jurong Town",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.802574,1.2792,103.802574,1.2792",
     "geom:latitude":1.2792,
     "geom:longitude":103.802574,
@@ -12,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Telok Blangah"
+    ],
     "name:msa_x_preferred":[
         "Teluk Belanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u843d\u5e03\u5170\u96c5"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":421169755,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1563375167,
     "wof:name":"Telok Blangah",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

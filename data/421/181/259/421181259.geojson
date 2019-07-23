@@ -16,6 +16,12 @@
     "name:eng_x_preferred":[
         "Marsiling"
     ],
+    "name:zho_x_preferred":[
+        "\u699c\u9e45"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u897f\u5cad"
+    ],
     "qs:gn_country":"SG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1880469,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421181259,
-    "wof:lastmodified":1514504920,
+    "wof:lastmodified":1563375176,
     "wof:name":"Marsiling",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

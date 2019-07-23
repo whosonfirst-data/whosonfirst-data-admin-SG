@@ -30,14 +30,32 @@
     "name:eng_x_variant":[
         "Southeast"
     ],
+    "name:epo_x_preferred":[
+        "Sudorienta Distrikto"
+    ],
     "name:fra_x_preferred":[
         "Sud-Est"
+    ],
+    "name:fra_x_variant":[
+        "District du Sud-Est"
+    ],
+    "name:ind_x_preferred":[
+        "Dewan Pengembangan Masyarakat Tenggara"
     ],
     "name:jpn_x_preferred":[
         "\u5357\u6771\u793e\u4f1a\u958b\u767a\u5354\u8b70\u4f1a"
     ],
+    "name:jpn_x_variant":[
+        "\u5357\u6771\u5730\u533a"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\ub3d9\ubd80 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
+    ],
+    "name:spa_x_preferred":[
+        "Consejo del Sudeste"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5357\u793e\u533a\u53d1\u5c55\u7406\u4e8b\u4f1a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SGP",
@@ -150,7 +168,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1553624527,
+    "wof:lastmodified":1563375149,
     "wof:name":"South East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",
