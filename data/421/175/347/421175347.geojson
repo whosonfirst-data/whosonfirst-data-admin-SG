@@ -16,6 +16,9 @@
     "name:deu_x_preferred":[
         "Outram"
     ],
+    "name:nds_x_preferred":[
+        "Outram"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421175347,
-    "wof:lastmodified":1527716340,
+    "wof:lastmodified":1564210549,
     "wof:name":"Outram",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

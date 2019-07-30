@@ -25,6 +25,24 @@
     "iso:country":"SG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Night Safari"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30a4\u30c8\u30b5\u30d5\u30a1\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Night Safari"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e19\u0e15\u0e4c\u0e0b\u0e32\u0e1f\u0e32\u0e23\u0e35"
+    ],
+    "name:vie_x_preferred":[
+        "Night Safari"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u52a0\u5761\u591c\u95f4\u91ce\u751f\u52a8\u7269\u56ed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1243265837,
-    "wof:lastmodified":1537573379,
+    "wof:lastmodified":1564210554,
     "wof:name":"Night Safari",
     "wof:parent_id":85677049,
     "wof:placetype":"locality",

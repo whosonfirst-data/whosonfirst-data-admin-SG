@@ -40,6 +40,9 @@
     "name:srp_x_preferred":[
         "Clementi"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u043c\u0435\u043d\u0442\u0456"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421188971,
-    "wof:lastmodified":1527716282,
+    "wof:lastmodified":1564210548,
     "wof:name":"Clementi",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

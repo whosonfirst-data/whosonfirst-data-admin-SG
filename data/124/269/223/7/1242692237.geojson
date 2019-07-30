@@ -25,6 +25,15 @@
     "iso:country":"SG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0628\u06cc"
+    ],
+    "name:ind_x_preferred":[
+        "Ubi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1242692237,
-    "wof:lastmodified":1536898546,
+    "wof:lastmodified":1564210554,
     "wof:name":"Kampong Ubi",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

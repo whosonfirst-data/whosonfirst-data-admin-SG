@@ -5,12 +5,86 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.7947725,1.302491,103.7947725,1.302491",
     "geom:latitude":1.302491,
     "geom:longitude":103.794772,
     "iso:country":"SG",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Queenstown"
+    ],
+    "name:ast_x_preferred":[
+        "Queenstown"
+    ],
+    "name:ceb_x_preferred":[
+        "Queenstown"
+    ],
+    "name:ces_x_preferred":[
+        "Queenstown"
+    ],
+    "name:dan_x_preferred":[
+        "Queenstown"
+    ],
+    "name:deu_x_preferred":[
+        "Queenstown"
+    ],
+    "name:est_x_preferred":[
+        "Queenstown"
+    ],
+    "name:fin_x_preferred":[
+        "Queenstown"
+    ],
+    "name:fra_x_preferred":[
+        "Queenstown"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d9\u05e0\u05e1\u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Queenstown"
+    ],
+    "name:ita_x_preferred":[
+        "Queenstown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a4\u30fc\u30f3\u30ba\u30bf\u30a6\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud038\uc2a4\ud0c0\uc6b4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0432\u0438\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Queenstown"
+    ],
+    "name:nld_x_preferred":[
+        "Queenstown"
+    ],
+    "name:nno_x_preferred":[
+        "Queenstown"
+    ],
+    "name:nor_x_preferred":[
+        "Queenstown"
+    ],
+    "name:pol_x_preferred":[
+        "Queenstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0438\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Queenstown"
+    ],
+    "name:swe_x_preferred":[
+        "Queenstown"
+    ],
+    "name:zho_x_preferred":[
+        "\u7687\u540e\u9547"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +116,7 @@
     },
     "wof:country":"SG",
     "wof:created":1459010034,
-    "wof:geomhash":"8b2cd8c000eb621965348c21de9a0cff",
+    "wof:geomhash":"ee48bf34470246e639ab1d4cc9982f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +126,7 @@
         }
     ],
     "wof:id":421200677,
-    "wof:lastmodified":1466635891,
+    "wof:lastmodified":1564210550,
     "wof:name":"Queenstown",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:und_x_variant":[
         "MacPherson Estate"
     ],
+    "name:vie_x_preferred":[
+        "MacPherson"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327347689,
-    "wof:lastmodified":1537700165,
+    "wof:lastmodified":1564210529,
     "wof:name":"MacPherson",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",
