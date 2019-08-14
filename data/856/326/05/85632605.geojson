@@ -15,6 +15,9 @@
     "itu:country_code":[
         "65"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SG"
+    ],
     "lbl:latitude":1.357685,
     "lbl:longitude":103.80938,
     "mps:latitude":1.357685,
@@ -1063,9 +1066,6 @@
         }
     ],
     "wof:id":85632605,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -1078,7 +1078,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1563375154,
+    "wof:lastmodified":1565736509,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

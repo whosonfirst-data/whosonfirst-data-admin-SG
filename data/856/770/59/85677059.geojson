@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "South East Community Development Council"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":1.337909,
     "lbl:longitude":103.910338,
     "mps:latitude":1.337909,
@@ -153,9 +156,6 @@
         }
     ],
     "wof:id":85677059,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -168,7 +168,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1563375149,
+    "wof:lastmodified":1565736509,
     "wof:name":"South East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

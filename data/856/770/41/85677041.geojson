@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Central Singapore Community Development Council"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":1.317709,
     "lbl:longitude":103.849462,
     "mps:latitude":1.317709,
@@ -166,9 +169,6 @@
         }
     ],
     "wof:id":85677041,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -181,7 +181,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1563375150,
+    "wof:lastmodified":1565736509,
     "wof:name":"Central Singapore",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

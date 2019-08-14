@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "North West Community Development Council"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":1.401928,
     "lbl:longitude":103.796168,
     "mps:latitude":1.401928,
@@ -141,9 +144,6 @@
         }
     ],
     "wof:id":85677049,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -156,7 +156,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1563375151,
+    "wof:lastmodified":1565736509,
     "wof:name":"North West",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

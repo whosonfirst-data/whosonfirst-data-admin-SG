@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "South West Community Development Council"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SW"
+    ],
     "lbl:latitude":1.352739,
     "lbl:longitude":103.724553,
     "mps:latitude":1.352739,
@@ -147,9 +150,6 @@
         }
     ],
     "wof:id":85677045,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -162,7 +162,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1563375149,
+    "wof:lastmodified":1565736509,
     "wof:name":"South West",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

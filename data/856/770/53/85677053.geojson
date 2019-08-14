@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "North East Community Development Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":1.381875,
     "lbl:longitude":103.926971,
     "mps:latitude":1.381875,
@@ -144,9 +147,6 @@
         }
     ],
     "wof:id":85677053,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "zho",
@@ -159,7 +159,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1563375150,
+    "wof:lastmodified":1565736509,
     "wof:name":"North East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",
