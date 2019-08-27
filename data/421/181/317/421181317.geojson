@@ -10,8 +10,12 @@
     "geom:latitude":1.30306,
     "geom:longitude":103.90778,
     "iso:country":"SG",
+    "lbl:bbox":"103.88778,1.28306,103.92778,1.32306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Marine Parade Estate"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1882778,
         "gp:id":24703020,
-        "qs:id":488021,
+        "qs_pg:id":488021,
         "wd:id":"Q6764201",
         "wk:page":"Marine Parade"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421181317,
-    "wof:lastmodified":1563375178,
+    "wof:lastmodified":1566644287,
     "wof:name":"Marine Parade",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

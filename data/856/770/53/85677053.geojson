@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":1.381875,
     "lbl:longitude":103.926971,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.381875,
     "mps:longitude":103.926971,
     "mz:hierarchy_label":1,
@@ -120,7 +121,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"SG-02",
     "wof:belongsto":[
         102191569,
@@ -132,7 +133,7 @@
         "gn:id":7535955,
         "gp:id":24703042,
         "hasc:id":"SG.NE",
-        "qs:id":1113217,
+        "qs_pg:id":1113217,
         "unlc:id":"SG-02",
         "wd:id":"Q3710534",
         "wk:page":"North East Community Development Council"
@@ -159,7 +160,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1565736509,
+    "wof:lastmodified":1566644271,
     "wof:name":"North East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

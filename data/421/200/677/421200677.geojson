@@ -10,8 +10,12 @@
     "geom:latitude":1.302491,
     "geom:longitude":103.794772,
     "iso:country":"SG",
+    "lbl:bbox":"103.7747725,1.282491,103.8147725,1.322491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Queenstown"
@@ -112,7 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24703015,
-        "qs:id":890649
+        "qs_pg:id":890649
     },
     "wof:country":"SG",
     "wof:created":1459010034,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421200677,
-    "wof:lastmodified":1564210550,
+    "wof:lastmodified":1566644288,
     "wof:name":"Queenstown",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

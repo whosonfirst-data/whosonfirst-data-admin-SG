@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
+    "lbl:bbox":"103.80417,1.40611,103.84417,1.44611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1292913295,
-    "wof:lastmodified":1536618513,
+    "wof:lastmodified":1566644274,
     "wof:name":"Chye Kay",
     "wof:parent_id":85677049,
     "wof:placetype":"locality",

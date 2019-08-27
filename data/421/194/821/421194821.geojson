@@ -10,8 +10,12 @@
     "geom:latitude":1.44444,
     "geom:longitude":103.77667,
     "iso:country":"SG",
+    "lbl:bbox":"103.75667,1.42444,103.79667,1.46444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Woodlands"
@@ -55,9 +59,6 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e38\u0e14\u0e41\u0e25\u0e19\u0e14\u0e4c"
     ],
-    "name:unk_x_variant":[
-        "Woodlands"
-    ],
     "name:wuu_x_preferred":[
         "\u5140\u5170"
     ],
@@ -90,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1882316,
         "gp:id":1062668,
-        "qs:id":5108,
+        "qs_pg:id":5108,
         "wd:id":"Q5254438",
         "wk:page":"Woodlands MRT Station"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421194821,
-    "wof:lastmodified":1563375165,
+    "wof:lastmodified":1566644282,
     "wof:name":"Woodlands New Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

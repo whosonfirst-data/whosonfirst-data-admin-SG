@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.93194,1.37833,103.93194,1.37833",
     "geom:latitude":1.37833,
     "geom:longitude":103.93194,
     "iso:country":"SG",
+    "lbl:bbox":"103.91194,1.35833,103.95194,1.39833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pasir Ris"
     ],
     "qs:gn_country":"SG",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1880574,
         "gp:id":1062494,
-        "qs:id":481584
+        "qs_pg:id":481584
     },
     "wof:country":"SG",
     "wof:created":1459009290,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421181261,
-    "wof:lastmodified":1501223541,
+    "wof:lastmodified":1566644287,
     "wof:name":"Kampong Pasir Ris",
     "wof:parent_id":85677053,
     "wof:placetype":"locality",

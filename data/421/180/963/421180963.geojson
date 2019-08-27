@@ -10,8 +10,12 @@
     "geom:latitude":1.30256,
     "geom:longitude":103.83469,
     "iso:country":"SG",
+    "lbl:bbox":"103.81469,1.28256,103.85469,1.32256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fin_x_preferred":[
         "Orchardin metroasema"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":7289740,
         "gp:id":24703024,
-        "qs:id":468887,
+        "qs_pg:id":468887,
         "wd:id":"Q2641398",
         "wk:page":"Orchard MRT Station"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421180963,
-    "wof:lastmodified":1563375169,
+    "wof:lastmodified":1566644284,
     "wof:name":"Orchard",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

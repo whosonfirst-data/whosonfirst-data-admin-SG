@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":1.401928,
     "lbl:longitude":103.796168,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.401928,
     "mps:longitude":103.796168,
     "mz:hierarchy_label":1,
@@ -117,7 +118,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"SG-03",
     "wof:belongsto":[
         102191569,
@@ -129,7 +130,7 @@
         "gn:id":7535958,
         "gp:id":24703045,
         "hasc:id":"SG.NW",
-        "qs:id":1097112,
+        "qs_pg:id":1097112,
         "unlc:id":"SG-03",
         "wd:id":"Q7057238",
         "wk:page":"North West Community Development Council"
@@ -156,7 +157,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1565736509,
+    "wof:lastmodified":1566644272,
     "wof:name":"North West",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

@@ -12,6 +12,7 @@
     "iso:country":"SG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Tengah Air Base"
     ],
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":102551599,
-    "wof:lastmodified":1563375140,
+    "wof:lastmodified":1566644267,
     "wof:name":"Tengah Airport",
     "wof:parent_id":85677045,
     "wof:placetype":"campus",

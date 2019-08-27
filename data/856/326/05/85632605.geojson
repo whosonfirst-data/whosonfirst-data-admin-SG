@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":1.357685,
     "lbl:longitude":103.80938,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":1.357685,
     "mps:longitude":103.80938,
     "mz:hierarchy_label":1,
@@ -835,15 +837,9 @@
         "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
         "\u0421\u0456\u043d\u0491\u0430\u043f\u0443\u0440"
     ],
-    "name:und_x_preferred":[
-        "Sing-gap'ol",
-        "Singap\u00far"
-    ],
     "name:und_x_variant":[
+        "Sing-gap'ol",
         "Republika Singapur"
-    ],
-    "name:unk_x_variant":[
-        "Republic of Singapore"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
@@ -993,9 +989,9 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2010-06-30",
+    "src:population_date":"2010-06-30",
     "statoids:area_km":"723",
     "statoids:area_mi":"279",
     "statoids:as_of_date":"2010-06-30",
@@ -1050,7 +1046,7 @@
         "mzb:id":"singapore",
         "ne:adm0_a3":"SGP",
         "nyt:id":"39578766218120566941",
-        "qs:id":976544,
+        "qs_pg:id":976544,
         "uncrt:id":"SGP",
         "wd:id":"Q334",
         "wk:page":"Singapore",
@@ -1078,7 +1074,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1565736509,
+    "wof:lastmodified":1566644272,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

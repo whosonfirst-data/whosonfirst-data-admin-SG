@@ -11,11 +11,14 @@
     "geom:longitude":103.70008,
     "gn:country":"SG",
     "gn:fcode":"BLDG",
-    "gn:pop":500,
+    "gn:population":500,
     "iso:country":"SG",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"BLK 658D",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6615208,
-        "qs:id":105109
+        "qs_pg:id":105109
     },
     "wof:country":"SG",
     "wof:created":1469051821,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890429605,
-    "wof:lastmodified":1505343513,
+    "wof:lastmodified":1566644290,
     "wof:name":"BLK 658D",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

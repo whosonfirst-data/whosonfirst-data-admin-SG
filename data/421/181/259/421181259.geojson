@@ -10,8 +10,12 @@
     "geom:latitude":1.44111,
     "geom:longitude":103.77083,
     "iso:country":"SG",
+    "lbl:bbox":"103.75083,1.42111,103.79083,1.46111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Marsiling"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1880469,
         "gp:id":1062547,
-        "qs:id":481583,
+        "qs_pg:id":481583,
         "wd:id":"Q6773958",
         "wk:page":"Marsiling MRT Station"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421181259,
-    "wof:lastmodified":1563375176,
+    "wof:lastmodified":1566644286,
     "wof:name":"Marsiling",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

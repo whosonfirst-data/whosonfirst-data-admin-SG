@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
+    "lbl:bbox":"103.76789,1.38226,103.80789,1.42226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Night Safari"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243265837,
-    "wof:lastmodified":1564210554,
+    "wof:lastmodified":1566644292,
     "wof:name":"Night Safari",
     "wof:parent_id":85677049,
     "wof:placetype":"locality",

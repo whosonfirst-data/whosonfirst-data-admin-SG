@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.931522,1.3557,103.931522,1.3557",
     "geom:latitude":1.3557,
     "geom:longitude":103.931522,
     "iso:country":"SG",
+    "lbl:bbox":"103.911522,1.3357,103.951522,1.3757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55875822,
-        "qs:id":281604
+        "qs_pg:id":281604
     },
     "wof:country":"SG",
     "wof:created":1459008960,
-    "wof:geomhash":"79120aebe9a9fe749e40f2efb5fae99f",
+    "wof:geomhash":"41cd221e29a689465bfa48d0295a299c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421172953,
-    "wof:lastmodified":1466635836,
+    "wof:lastmodified":1566644286,
     "wof:name":"Tampines Central",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

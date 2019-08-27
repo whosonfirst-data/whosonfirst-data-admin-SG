@@ -10,8 +10,12 @@
     "geom:latitude":1.33417,
     "geom:longitude":103.72278,
     "iso:country":"SG",
+    "lbl:bbox":"103.70278,1.31417,103.74278,1.35417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Jurong"
@@ -52,7 +56,7 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e39\u0e23\u0e07"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar Baharu Jurong"
     ],
     "name:yue_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":1881953,
         "gp:id":1062460,
-        "qs:id":460600,
+        "qs_pg:id":460600,
         "wd:id":"Q14439130",
         "wk:page":"Jurong"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421180781,
-    "wof:lastmodified":1563375169,
+    "wof:lastmodified":1566644284,
     "wof:name":"Jurong Town",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

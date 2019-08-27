@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.831862,1.295291,103.831862,1.295291",
     "geom:latitude":1.295291,
     "geom:longitude":103.831862,
     "iso:country":"SG",
+    "lbl:bbox":"103.811862,1.275291,103.851862,1.315291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24703026,
-        "qs:id":368338
+        "qs_pg:id":368338
     },
     "wof:country":"SG",
     "wof:created":1459009064,
-    "wof:geomhash":"ac2f32a5bf89c1d15bbee78a7d87bd75",
+    "wof:geomhash":"37d15a99f939cda32a7b84e0b4396a39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421175353,
-    "wof:lastmodified":1466635841,
+    "wof:lastmodified":1566644287,
     "wof:name":"River Valley",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",
