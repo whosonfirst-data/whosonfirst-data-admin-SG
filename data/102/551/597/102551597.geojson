@@ -12,6 +12,7 @@
     "iso:country":"SG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Sembawang Air Base"
     ],
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":102551597,
-    "wof:lastmodified":1563375141,
+    "wof:lastmodified":1566644267,
     "wof:name":"Sembawang Airport",
     "wof:parent_id":102032341,
     "wof:placetype":"campus",

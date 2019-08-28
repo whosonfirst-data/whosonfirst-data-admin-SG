@@ -10,8 +10,12 @@
     "geom:latitude":1.296265,
     "geom:longitude":103.894711,
     "iso:country":"SG",
+    "lbl:bbox":"103.874711,1.276265,103.914711,1.316265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Marina East"
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55875824,
-        "qs:id":281605,
+        "qs_pg:id":281605,
         "wd:id":"Q6763814"
     },
     "wof:country":"SG",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421172957,
-    "wof:lastmodified":1563375174,
+    "wof:lastmodified":1566644286,
     "wof:name":"Marina East",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

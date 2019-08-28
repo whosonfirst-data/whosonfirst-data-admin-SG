@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":1.337909,
     "lbl:longitude":103.910338,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.337909,
     "mps:longitude":103.910338,
     "mz:hierarchy_label":1,
@@ -129,7 +130,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"SG-04",
     "wof:belongsto":[
         102191569,
@@ -141,7 +142,7 @@
         "gn:id":7535956,
         "gp:id":24703041,
         "hasc:id":"SG.SE",
-        "qs:id":1097105,
+        "qs_pg:id":1097105,
         "unlc:id":"SG-04",
         "wd:id":"Q1687545",
         "wk:page":"South East Community Development Council"
@@ -168,7 +169,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1565736509,
+    "wof:lastmodified":1566644271,
     "wof:name":"South East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

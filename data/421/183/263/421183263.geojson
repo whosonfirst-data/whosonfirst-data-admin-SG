@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.7975,1.30139,103.7975,1.30139",
     "geom:latitude":1.30139,
     "geom:longitude":103.7975,
     "iso:country":"SG",
+    "lbl:bbox":"103.7775,1.28139,103.8175,1.32139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"SG",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":1882118,
         "gp:id":1062638,
-        "qs:id":970122
+        "qs_pg:id":970122
     },
     "wof:country":"SG",
     "wof:created":1459009363,
-    "wof:geomhash":"6ff4cb0f9fa6612bd6fe2f2bbae480bc",
+    "wof:geomhash":"32de3168a4aaacae44b1b6ef3d947737",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421183263,
-    "wof:lastmodified":1466635856,
+    "wof:lastmodified":1566644289,
     "wof:name":"Tanglin Halt",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",
