@@ -65,6 +65,9 @@
     },
     "wof:country":"SG",
     "wof:created":1459010101,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2b301b9f995113b9e13a79e4e693651",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421202033,
-    "wof:lastmodified":1566644283,
+    "wof:lastmodified":1582355307,
     "wof:name":"Marina Centre",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

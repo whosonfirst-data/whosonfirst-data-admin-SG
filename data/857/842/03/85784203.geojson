@@ -68,6 +68,9 @@
         "qs_pg:id":481808
     },
     "wof:country":"SG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3195a86ef0559631b110812e5d7f4d2",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644271,
+    "wof:lastmodified":1582355306,
     "wof:name":"Tanjung Puteri",
     "wof:parent_id":102032341,
     "wof:placetype":"neighbourhood",

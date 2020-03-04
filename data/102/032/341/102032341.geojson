@@ -849,6 +849,9 @@
         "wd:id":"Q334"
     },
     "wof:country":"SG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"084530ef275240506264dfb5177d3f91",
     "wof:hierarchy":[
         {
@@ -859,7 +862,7 @@
         }
     ],
     "wof:id":102032341,
-    "wof:lastmodified":1566644268,
+    "wof:lastmodified":1582355306,
     "wof:megacity":1,
     "wof:name":"Singapore",
     "wof:parent_id":85677041,

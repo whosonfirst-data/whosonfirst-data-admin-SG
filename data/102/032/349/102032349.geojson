@@ -209,6 +209,9 @@
         "qs_pg:id":338566
     },
     "wof:country":"SG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccd9abe511442f316d106be0a0f95ae4",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":102032349,
-    "wof:lastmodified":1566644268,
+    "wof:lastmodified":1582355306,
     "wof:name":"Johor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
