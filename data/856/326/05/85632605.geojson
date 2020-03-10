@@ -1029,9 +1029,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"",
-        "digitalenvoy:country_code":[
-            702
-        ],
+        "digitalenvoy:country_code":702,
         "fb:id":"en.singapore",
         "fifa:id":"SIN",
         "fips:code":"SN",
@@ -1081,7 +1079,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1583529221,
+    "wof:lastmodified":1583797429,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
