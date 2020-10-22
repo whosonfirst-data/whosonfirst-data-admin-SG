@@ -9,7 +9,6 @@
     "geom:bbox":"103.778229,1.454159,103.778229,1.454159",
     "geom:latitude":1.454159,
     "geom:longitude":103.778229,
-    "gn:id":"",
     "iso:country":"SG",
     "lbl:bbox":"103.773229,1.449159,103.783229,1.459159",
     "lbl:latitude":1.454159,
@@ -82,10 +81,7 @@
         }
     ],
     "wof:id":85784203,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582355306,
+    "wof:lastmodified":1603259432,
     "wof:name":"Tanjung Puteri",
     "wof:parent_id":102032341,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"103.635837,1.153965,104.406784,1.47031",
     "geom:latitude":1.360758,
     "geom:longitude":103.816575,
-    "gn:id":"",
     "gn:population":4701069,
     "iso:country":"SG",
     "itu:country_code":[
@@ -1133,7 +1132,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1587427742,
+    "wof:lastmodified":1603259432,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
