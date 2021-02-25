@@ -50,14 +50,14 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295584,
+    "wof:lastmodified":1614296737,
     "wof:name":"Jurong East",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":79240,
     "wof:population_rank":8,
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

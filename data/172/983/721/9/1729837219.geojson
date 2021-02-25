@@ -50,14 +50,14 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295587,
+    "wof:lastmodified":1614296735,
     "wof:name":"Bukit Timah",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":77430,
     "wof:population_rank":8,
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -42,12 +42,12 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295499,
+    "wof:lastmodified":1614296720,
     "wof:name":"Clementi North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

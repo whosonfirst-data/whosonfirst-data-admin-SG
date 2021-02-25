@@ -47,14 +47,14 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295589,
+    "wof:lastmodified":1614296724,
     "wof:name":"Orchard",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":990,
     "wof:population_rank":2,
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -47,14 +47,14 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295588,
+    "wof:lastmodified":1614296724,
     "wof:name":"Rochor",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":13340,
     "wof:population_rank":6,
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

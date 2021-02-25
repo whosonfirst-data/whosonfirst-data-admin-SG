@@ -42,12 +42,12 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295574,
+    "wof:lastmodified":1614296725,
     "wof:name":"Simpang North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -47,14 +47,14 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614295585,
+    "wof:lastmodified":1614296737,
     "wof:name":"Pioneer",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":90,
     "wof:population_rank":1,
-    "wof:repo":"development",
+    "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
