@@ -1,0 +1,62 @@
+{
+  "id": 1729836463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:bbox":"103.822088,1.275101,103.834022,1.281885",
+    "geom:latitude":1.278357,
+    "geom:longitude":103.827351,
+    "iso:country":"SG",
+    "lbl:latitude":1.2783,
+    "lbl:longitude":103.827353,
+    "mps:latitude":1.2783,
+    "mps:longitude":103.827353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kampong Tiong Bahru"
+    ],
+    "src:geom":"sg-sggov",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg-sggov:subzone_code":"BMSZ11"
+    },
+    "wof:country":"SG",
+    "wof:created":1614275381,
+    "wof:geomhash":"aeedd046de7a67aad66ff8c45b59f445",
+    "wof:hierarchy":[],
+    "wof:id":1729836463,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614295449,
+    "wof:name":"Kampong Tiong Bahru",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:placetype_local":"subzone",
+    "wof:repo":"development",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.822088,
+    1.275101,
+    103.834022,
+    1.281885
+],
+  "geometry": {"coordinates":[[[103.823719,1.281885],[103.827487,1.280013],[103.82902900000001,1.279071],[103.829379,1.278845],[103.829564,1.278719],[103.82966500000001,1.278649],[103.830731,1.278185],[103.83100899999999,1.278076],[103.831463,1.277902],[103.833269,1.276979],[103.834022,1.27621],[103.83307600000001,1.276392],[103.831965,1.276309],[103.830648,1.27604],[103.83001,1.275895],[103.82964,1.275688],[103.82904600000001,1.275101],[103.827358,1.276515],[103.82513,1.277975],[103.82372100000001,1.27863],[103.823716,1.278632],[103.823297,1.278742],[103.822789,1.278825],[103.82226,1.278874],[103.822243,1.279216],[103.822214,1.279743],[103.822208,1.279899],[103.8222,1.280114],[103.822104,1.280111],[103.82208799999999,1.280494],[103.82208799999999,1.280566],[103.822377,1.280582],[103.823706,1.280626],[103.823719,1.281885]]],"type":"Polygon"}
+}
