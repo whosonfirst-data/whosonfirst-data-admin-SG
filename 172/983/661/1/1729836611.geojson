@@ -1,0 +1,62 @@
+{
+  "id": 1729836611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:bbox":"103.856957,1.299782,103.862277,1.305009",
+    "geom:latitude":1.302263,
+    "geom:longitude":103.859691,
+    "iso:country":"SG",
+    "lbl:latitude":1.302208,
+    "lbl:longitude":103.859731,
+    "mps:latitude":1.302208,
+    "mps:longitude":103.859731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kampong Glam"
+    ],
+    "src:geom":"sg-sggov",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg-sggov:subzone_code":"RCSZ05"
+    },
+    "wof:country":"SG",
+    "wof:created":1614275433,
+    "wof:geomhash":"cb71909274817c438fd7d28659f1f2be",
+    "wof:hierarchy":[],
+    "wof:id":1729836611,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614275433,
+    "wof:name":"Kampong Glam",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:placetype_local":"subzone",
+    "wof:repo":"development",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.856957,
+    1.299782,
+    103.862277,
+    1.305009
+],
+  "geometry": {"coordinates":[[[103.85942300000001,1.299782],[103.85876500000001,1.300511],[103.85788700000001,1.301252],[103.857416,1.301582],[103.85695699999999,1.301903],[103.856965,1.301912],[103.85696799999999,1.301915],[103.85771099999999,1.302748],[103.85771699999999,1.302755],[103.858093,1.30317],[103.858225,1.303317],[103.85874,1.303806],[103.85917000000001,1.304183],[103.85965400000001,1.304568],[103.859655,1.304569],[103.860196,1.305009],[103.860702,1.304169],[103.86110499999999,1.303502],[103.86152199999999,1.30281],[103.86173700000001,1.302454],[103.861845,1.302279],[103.862275,1.301585],[103.86227700000001,1.301582],[103.86219,1.301537],[103.861665,1.301265],[103.860361,1.300497],[103.859493,1.299849],[103.85942300000001,1.299782]]],"type":"Polygon"}
+}

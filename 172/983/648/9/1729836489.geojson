@@ -1,0 +1,62 @@
+{
+  "id": 1729836489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"103.855214,1.278043,103.86159,1.287888",
+    "geom:latitude":1.283335,
+    "geom:longitude":103.858534,
+    "iso:country":"SG",
+    "lbl:latitude":1.283357,
+    "lbl:longitude":103.858474,
+    "mps:latitude":1.283357,
+    "mps:longitude":103.858474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bayfront Subzone"
+    ],
+    "src:geom":"sg-sggov",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg-sggov:subzone_code":"DTSZ12"
+    },
+    "wof:country":"SG",
+    "wof:created":1614275390,
+    "wof:geomhash":"96804efcef8ec67b92b19c6f5beac72a",
+    "wof:hierarchy":[],
+    "wof:id":1729836489,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614275390,
+    "wof:name":"Bayfront Subzone",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:placetype_local":"subzone",
+    "wof:repo":"development",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.855214,
+    1.278043,
+    103.86159,
+    1.287888
+],
+  "geometry": {"coordinates":[[[103.85842599999999,1.278043],[103.857122,1.278848],[103.85712100000001,1.278849],[103.85668,1.279138],[103.855698,1.279776],[103.85569099999999,1.27978],[103.85566300000001,1.279798],[103.85567,1.279809],[103.855878,1.280134],[103.85587599999999,1.280136],[103.855214,1.28322],[103.855282,1.283326],[103.855284,1.28333],[103.85709300000001,1.286154],[103.858205,1.287888],[103.86154000000001,1.287652],[103.86159000000001,1.287649],[103.861588,1.287584],[103.861566,1.286685],[103.861548,1.285927],[103.861526,1.285096],[103.861467,1.284408],[103.86130900000001,1.283473],[103.86102700000001,1.282577],[103.86068299999999,1.281702],[103.860641,1.281626],[103.860224,1.280867],[103.859984,1.280428],[103.85979500000001,1.280139],[103.859335,1.279434],[103.858881,1.278739],[103.85842599999999,1.278043]]],"type":"Polygon"}
+}
