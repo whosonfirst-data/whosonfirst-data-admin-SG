@@ -54,12 +54,14 @@
         }
     ],
     "wof:id":1360295369,
-    "wof:lastmodified":1614300945,
+    "wof:lastmodified":1614300998,
     "wof:name":"Lim Chu Kang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -83,12 +83,14 @@
         }
     ],
     "wof:id":421181317,
-    "wof:lastmodified":1614300948,
+    "wof:lastmodified":1614300999,
     "wof:name":"Marine Parade",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729836627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

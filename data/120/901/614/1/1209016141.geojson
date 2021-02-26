@@ -54,12 +54,14 @@
         }
     ],
     "wof:id":1209016141,
-    "wof:lastmodified":1614300943,
+    "wof:lastmodified":1614300998,
     "wof:name":"Yew Tee",
     "wof:parent_id":85632605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837011
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

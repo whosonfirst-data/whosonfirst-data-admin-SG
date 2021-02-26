@@ -81,12 +81,14 @@
         }
     ],
     "wof:id":421170457,
-    "wof:lastmodified":1614300948,
+    "wof:lastmodified":1614301000,
     "wof:name":"Kranji",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

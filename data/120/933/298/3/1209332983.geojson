@@ -47,12 +47,14 @@
         }
     ],
     "wof:id":1209332983,
-    "wof:lastmodified":1614300943,
+    "wof:lastmodified":1614300998,
     "wof:name":"Kangkar",
     "wof:parent_id":85632605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729836937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -42,14 +42,16 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614296733,
+    "wof:lastmodified":1614300999,
     "wof:name":"Marine Parade",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421181317
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,12 +47,14 @@
         }
     ],
     "wof:id":1310023851,
-    "wof:lastmodified":1614300945,
+    "wof:lastmodified":1614300998,
     "wof:name":"Kampong Bugis",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729836559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

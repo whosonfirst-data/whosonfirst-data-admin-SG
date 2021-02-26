@@ -70,12 +70,14 @@
         }
     ],
     "wof:id":421176007,
-    "wof:lastmodified":1614300949,
+    "wof:lastmodified":1614301000,
     "wof:name":"Simei",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729836875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

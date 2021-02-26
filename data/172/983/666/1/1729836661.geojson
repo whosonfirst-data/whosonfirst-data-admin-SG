@@ -42,14 +42,16 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614296722,
+    "wof:lastmodified":1614301000,
     "wof:name":"Kampong Ubi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242692237
+    ],
     "wof:tags":[]
 },
   "bbox": [

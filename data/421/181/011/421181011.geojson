@@ -59,12 +59,14 @@
         }
     ],
     "wof:id":421181011,
-    "wof:lastmodified":1614300948,
+    "wof:lastmodified":1614300999,
     "wof:name":"Bedok North",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729836651
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
