@@ -50,7 +50,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614296736,
+    "wof:lastmodified":1614302797,
     "wof:name":"Kallang",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
@@ -59,7 +59,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421200679
+    ],
     "wof:tags":[]
 },
   "bbox": [

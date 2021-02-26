@@ -47,7 +47,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614296738,
+    "wof:lastmodified":1614302801,
     "wof:name":"Marine Parade",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
@@ -56,7 +56,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421181317
+    ],
     "wof:tags":[]
 },
   "bbox": [

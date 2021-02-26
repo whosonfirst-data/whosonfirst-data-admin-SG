@@ -115,12 +115,14 @@
         }
     ],
     "wof:id":421200679,
-    "wof:lastmodified":1614300948,
+    "wof:lastmodified":1614302810,
     "wof:name":"Kallang",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837175
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.708611111,1.38722222222,103.708611111,1.38722222222",
+    "geom:bbox":"103.708611,1.387222,103.708611,1.387222",
     "geom:latitude":1.387222,
     "geom:longitude":103.708611,
     "iso:country":"SG",
@@ -69,7 +69,7 @@
         "wd:id":"Q2242841"
     },
     "wof:country":"SG",
-    "wof:geomhash":"0f1543d6f2691a9da1265ab7d451d8d1",
+    "wof:geomhash":"836e35b1bbce53a3cba04039218d65c9",
     "wof:hierarchy":[
         {
             "campus_id":102551599,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":102551599,
-    "wof:lastmodified":1566644267,
+    "wof:lastmodified":1614302743,
     "wof:name":"Tengah Airport",
     "wof:parent_id":85677045,
     "wof:placetype":"campus",
@@ -90,10 +90,10 @@
     ]
 },
   "bbox": [
-    103.70861111111,
-    1.3872222222222,
-    103.70861111111,
-    1.3872222222222
+    103.708611,
+    1.387222,
+    103.708611,
+    1.387222
 ],
-  "geometry": {"coordinates":[103.70861111111,1.3872222222222],"type":"Point"}
+  "geometry": {"coordinates":[103.708611,1.387222],"type":"Point"}
 }

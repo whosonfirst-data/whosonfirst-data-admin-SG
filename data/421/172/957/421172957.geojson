@@ -66,13 +66,14 @@
         }
     ],
     "wof:id":421172957,
-    "wof:lastmodified":1614300999,
+    "wof:lastmodified":1614302808,
     "wof:name":"Marina East",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[
-        1729836429
+        1729836429,
+        1729837181
     ],
     "wof:supersedes":[],
     "wof:tags":[]

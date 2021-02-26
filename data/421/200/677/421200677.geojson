@@ -131,12 +131,14 @@
         }
     ],
     "wof:id":421200677,
-    "wof:lastmodified":1614300948,
+    "wof:lastmodified":1614302810,
     "wof:name":"Queenstown",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -94,12 +94,14 @@
         }
     ],
     "wof:id":421187791,
-    "wof:lastmodified":1614300946,
+    "wof:lastmodified":1614302806,
     "wof:name":"Geylang",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

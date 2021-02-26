@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.812777778,1.42527777778,103.812777778,1.42527777778",
+    "geom:bbox":"103.812778,1.425278,103.812778,1.425278",
     "geom:latitude":1.425278,
     "geom:longitude":103.812778,
     "iso:country":"SG",
@@ -56,7 +56,7 @@
         "wd:id":"Q3497722"
     },
     "wof:country":"SG",
-    "wof:geomhash":"8224559ec3c7e2855eac2aaa44c4b2e3",
+    "wof:geomhash":"4092a7f12a25f1bda9400f09a8c78ab6",
     "wof:hierarchy":[
         {
             "campus_id":102551597,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102551597,
-    "wof:lastmodified":1566644267,
+    "wof:lastmodified":1614302743,
     "wof:name":"Sembawang Airport",
     "wof:parent_id":102032341,
     "wof:placetype":"campus",
@@ -78,10 +78,10 @@
     ]
 },
   "bbox": [
-    103.81277777778,
-    1.4252777777778,
-    103.81277777778,
-    1.4252777777778
+    103.812778,
+    1.425278,
+    103.812778,
+    1.425278
 ],
-  "geometry": {"coordinates":[103.81277777778,1.4252777777778],"type":"Point"}
+  "geometry": {"coordinates":[103.81277799999999,1.425278],"type":"Point"}
 }

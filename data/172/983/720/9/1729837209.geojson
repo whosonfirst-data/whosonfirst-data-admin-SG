@@ -47,7 +47,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614296737,
+    "wof:lastmodified":1614302799,
     "wof:name":"Queenstown",
     "wof:parent_id":-1,
     "wof:placetype":"macrohood",
@@ -56,7 +56,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421200677
+    ],
     "wof:tags":[]
 },
   "bbox": [

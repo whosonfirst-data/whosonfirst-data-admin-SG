@@ -77,13 +77,14 @@
         }
     ],
     "wof:id":421181263,
-    "wof:lastmodified":1614300999,
+    "wof:lastmodified":1614302809,
     "wof:name":"Seletar",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[
-        1729836901
+        1729836901,
+        1729837275
     ],
     "wof:supersedes":[],
     "wof:tags":[]
