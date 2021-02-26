@@ -164,7 +164,19 @@
         }
     ],
     "wof:id":102032345,
-    "wof:lastmodified":1614302744,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614303288,
     "wof:name":"Sentosa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -66,7 +66,19 @@
         }
     ],
     "wof:id":102551597,
-    "wof:lastmodified":1614302743,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614303287,
     "wof:name":"Sembawang Airport",
     "wof:parent_id":102032341,
     "wof:placetype":"campus",

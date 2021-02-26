@@ -801,7 +801,19 @@
         }
     ],
     "wof:id":1729834131,
-    "wof:lastmodified":1614302761,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614303293,
     "wof:name":"Singapore",
     "wof:parent_id":85677041,
     "wof:placetype":"county",

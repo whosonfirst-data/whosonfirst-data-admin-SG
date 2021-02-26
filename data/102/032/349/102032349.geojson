@@ -220,7 +220,19 @@
         }
     ],
     "wof:id":102032349,
-    "wof:lastmodified":1614302744,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614303288,
     "wof:name":"Johor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -60,7 +60,19 @@
         }
     ],
     "wof:id":421168037,
-    "wof:lastmodified":1614302805,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614303314,
     "wof:name":"Karimun",
     "wof:parent_id":-1,
     "wof:placetype":"county",

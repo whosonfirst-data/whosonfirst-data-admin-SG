@@ -920,7 +920,19 @@
         }
     ],
     "wof:id":102032341,
-    "wof:lastmodified":1614302743,
+    "wof:lang_x_official":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zho",
+        "msa",
+        "tam"
+    ],
+    "wof:lastmodified":1614303287,
     "wof:megacity":1,
     "wof:name":"Singapore",
     "wof:parent_id":85677041,
