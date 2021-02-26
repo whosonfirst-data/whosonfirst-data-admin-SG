@@ -905,6 +905,11 @@
         "qs_pg:id":807061,
         "wd:id":"Q334"
     },
+    "wof:coterminous":[
+        1729834133,
+        1729834131,
+        85632605
+    ],
     "wof:country":"SG",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -932,7 +937,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303287,
+    "wof:lastmodified":1614303623,
     "wof:megacity":1,
     "wof:name":"Singapore",
     "wof:parent_id":85677041,

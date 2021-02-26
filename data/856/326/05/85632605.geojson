@@ -1108,6 +1108,11 @@
         "wk:page":"Singapore",
         "wmo:id":"SR"
     },
+    "wof:coterminous":[
+        1729834133,
+        1729834131,
+        102032341
+    ],
     "wof:country":"SG",
     "wof:country_alpha3":"SGP",
     "wof:geom_alt":[
@@ -1135,7 +1140,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303288,
+    "wof:lastmodified":1614303619,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

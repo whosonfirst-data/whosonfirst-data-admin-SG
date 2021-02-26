@@ -791,6 +791,11 @@
         "qs_pg:id":807061,
         "wd:id":"Q334"
     },
+    "wof:coterminous":[
+        1729834133,
+        102032341,
+        85632605
+    ],
     "wof:country":"SG",
     "wof:geomhash":"0bfcd47204aa1f8e270e6ceb7e090e38",
     "wof:hierarchy":[
@@ -813,7 +818,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303293,
+    "wof:lastmodified":1614303614,
     "wof:name":"Singapore",
     "wof:parent_id":85677041,
     "wof:placetype":"county",
