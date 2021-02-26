@@ -41,10 +41,11 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303289,
+    "wof:lastmodified":1614303739,
     "wof:name":"Central Region",
     "wof:parent_id":-1,
     "wof:placetype":"borough",
+    "wof:placetype_alt":"macroregion",
     "wof:placetype_local":"region",
     "wof:population":922980,
     "wof:population_rank":11,
