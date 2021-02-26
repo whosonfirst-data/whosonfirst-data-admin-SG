@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Keat Hong",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1293701315,
-    "wof:lastmodified":1566644273,
+    "wof:lastmodified":1614300942,
     "wof:name":"Keat Hong Village",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

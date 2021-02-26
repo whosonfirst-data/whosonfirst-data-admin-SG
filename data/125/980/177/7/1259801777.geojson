@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0645\u0628\u0627\u0648\u0646\u06af"
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1259801777,
-    "wof:lastmodified":1566644293,
+    "wof:lastmodified":1614300951,
     "wof:name":"Sembawang Estate",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
