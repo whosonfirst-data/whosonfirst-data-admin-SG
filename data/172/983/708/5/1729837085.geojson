@@ -20,7 +20,15 @@
     ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        1729837289,
+        85632605,
+        102032341,
+        1729837365,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg-sggov:subzone_code":"WDSZ05"
@@ -28,7 +36,18 @@
     "wof:country":"SG",
     "wof:created":1614275606,
     "wof:geomhash":"8018ee29f66c387cbaf70a6e63c0a781",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837365,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837289,
+            "neighbourhood_id":1729837085,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729837085,
     "wof:lang_x_official":[
         "eng",
@@ -42,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303289,
+    "wof:lastmodified":1614384975,
     "wof:name":"Woodgrove",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837289,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",

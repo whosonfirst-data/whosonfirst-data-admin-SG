@@ -28,12 +28,29 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        85632605,
+        102032341,
+        1729837371,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:country":"SG",
     "wof:created":1614277823,
     "wof:geomhash":"d01079777dc871327fc49ea84e7d3b5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837371,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837185,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729837185,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +64,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303314,
+    "wof:lastmodified":1614384902,
     "wof:name":"Marine Parade",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":46390,

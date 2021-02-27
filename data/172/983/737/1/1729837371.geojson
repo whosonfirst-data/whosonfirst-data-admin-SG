@@ -22,12 +22,27 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "src:population_date":"2018-01-01",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        85632605,
+        102032341,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:country":"SG",
     "wof:created":1614297040,
     "wof:geomhash":"9c00c0456e46c5e1163fe757518ab8ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837371,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729837371,
     "wof:lang_x_official":[
         "eng",
@@ -41,9 +56,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303739,
+    "wof:lastmodified":1614385088,
     "wof:name":"Central Region",
-    "wof:parent_id":-1,
+    "wof:parent_id":102032341,
     "wof:placetype":"borough",
     "wof:placetype_alt":"macroregion",
     "wof:placetype_local":"region",

@@ -199,9 +199,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[
-        85632605
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6695743,
@@ -215,8 +213,10 @@
     "wof:geomhash":"2c58f28a1590c9771e37029b8b01ac7f",
     "wof:hierarchy":[
         {
-            "country_id":85632605,
-            "locality_id":102032349
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102032349,
+            "region_id":-1
         }
     ],
     "wof:id":102032349,
@@ -232,7 +232,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303288,
+    "wof:lastmodified":1614382863,
     "wof:name":"Johor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

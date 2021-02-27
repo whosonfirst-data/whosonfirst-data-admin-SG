@@ -20,7 +20,15 @@
     ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        1729837277,
+        85632605,
+        102032341,
+        1729837367,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg-sggov:subzone_code":"SESZ02"
@@ -28,7 +36,18 @@
     "wof:country":"SG",
     "wof:created":1614275572,
     "wof:geomhash":"998dfe628b5095a784dd337f3e1bfed4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837367,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837277,
+            "neighbourhood_id":1729836993,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729836993,
     "wof:lang_x_official":[
         "eng",
@@ -42,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303307,
+    "wof:lastmodified":1614384929,
     "wof:name":"Rivervale",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837277,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",

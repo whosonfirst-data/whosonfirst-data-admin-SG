@@ -20,7 +20,15 @@
     ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        1729837213,
+        85632605,
+        102032341,
+        1729837363,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg-sggov:subzone_code":"WISZ03"
@@ -28,7 +36,18 @@
     "wof:country":"SG",
     "wof:created":1614275370,
     "wof:geomhash":"38a002f0130b81581611edb52bc36145",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837363,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837213,
+            "neighbourhood_id":1729836431,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729836431,
     "wof:lang_x_official":[
         "eng",
@@ -42,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303292,
+    "wof:lastmodified":1614385243,
     "wof:name":"Sudong",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837213,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",

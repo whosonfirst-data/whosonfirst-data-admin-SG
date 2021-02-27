@@ -20,7 +20,14 @@
     ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        85632605,
+        102032341,
+        1729837371,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg-sggov:subzone_code":"SISZ02"
@@ -28,7 +35,17 @@
     "wof:country":"SG",
     "wof:created":1614275371,
     "wof:geomhash":"dba91664cc2fc4f5c7188799efb6659f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837371,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "neighbourhood_id":1729836435,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729836435,
     "wof:lang_x_official":[
         "eng",
@@ -42,9 +59,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303292,
+    "wof:lastmodified":1614385245,
     "wof:name":"Southern Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837371,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",

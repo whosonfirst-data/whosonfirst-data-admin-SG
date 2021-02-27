@@ -20,7 +20,15 @@
     ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        1729837217,
+        85632605,
+        102032341,
+        1729837371,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg-sggov:subzone_code":"SVSZ01"
@@ -28,7 +36,18 @@
     "wof:country":"SG",
     "wof:created":1614275375,
     "wof:geomhash":"b22f1dd1d74ad0548849d1a52922470e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837371,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837217,
+            "neighbourhood_id":1729836445,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729836445,
     "wof:lang_x_official":[
         "eng",
@@ -42,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303293,
+    "wof:lastmodified":1614385254,
     "wof:name":"Straits View",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837217,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",

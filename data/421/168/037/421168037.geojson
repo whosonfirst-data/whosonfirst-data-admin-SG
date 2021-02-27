@@ -42,9 +42,7 @@
     "qs:woe_id":56000313,
     "src:geom":"quattroshapes",
     "wd:wordcount":74,
-    "wof:belongsto":[
-        85632605
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56000313,
@@ -55,8 +53,10 @@
     "wof:geomhash":"6c793fd0c1c688b99b502b934a2cf397",
     "wof:hierarchy":[
         {
-            "country_id":85632605,
-            "county_id":421168037
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":421168037,
+            "region_id":-1
         }
     ],
     "wof:id":421168037,
@@ -72,7 +72,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303314,
+    "wof:lastmodified":1614386797,
     "wof:name":"Karimun",
     "wof:parent_id":-1,
     "wof:placetype":"county",

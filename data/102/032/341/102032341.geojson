@@ -893,7 +893,8 @@
     "wof:belongsto":[
         102191569,
         85632605,
-        85677041
+        1729834133,
+        1729834131
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -920,8 +921,9 @@
         {
             "continent_id":102191569,
             "country_id":85632605,
+            "county_id":1729834131,
             "locality_id":102032341,
-            "region_id":85677041
+            "region_id":1729834133
         }
     ],
     "wof:id":102032341,
@@ -937,10 +939,10 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303623,
+    "wof:lastmodified":1614384628,
     "wof:megacity":1,
     "wof:name":"Singapore",
-    "wof:parent_id":85677041,
+    "wof:parent_id":1729834131,
     "wof:placetype":"locality",
     "wof:population":3547809,
     "wof:population_rank":12,

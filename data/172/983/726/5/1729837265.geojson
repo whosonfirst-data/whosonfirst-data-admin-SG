@@ -31,12 +31,29 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        85632605,
+        102032341,
+        1729837369,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:country":"SG",
     "wof:created":1614277863,
     "wof:geomhash":"98a0d2bb52dc1bf50c45c466b1cf8466",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837369,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837265,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729837265,
     "wof:lang_x_official":[
         "eng",
@@ -50,9 +67,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303311,
+    "wof:lastmodified":1614384903,
     "wof:name":"Pasir Ris",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837369,
     "wof:placetype":"macrohood",
     "wof:placetype_local":"planning area",
     "wof:population":148020,

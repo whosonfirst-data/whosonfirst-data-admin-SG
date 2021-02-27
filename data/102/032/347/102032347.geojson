@@ -75,9 +75,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":396,
-    "wof:belongsto":[
-        85632605
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1880723,
@@ -90,8 +88,10 @@
     "wof:geomhash":"4d1a643556fac781e046297d40fd7b27",
     "wof:hierarchy":[
         {
-            "country_id":85632605,
-            "locality_id":102032347
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102032347,
+            "region_id":-1
         }
     ],
     "wof:id":102032347,
@@ -107,7 +107,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303288,
+    "wof:lastmodified":1614382865,
     "wof:name":"Changi Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -20,7 +20,15 @@
     ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1729834133,
+        102191569,
+        1729837235,
+        85632605,
+        102032341,
+        1729837363,
+        1729834131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg-sggov:subzone_code":"JWSZ01"
@@ -28,7 +36,18 @@
     "wof:country":"SG",
     "wof:created":1614275506,
     "wof:geomhash":"4607df71e909235d74ff8d9e12d4e7c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1729837363,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "county_id":1729834131,
+            "locality_id":102032341,
+            "macrohood_id":1729837235,
+            "neighbourhood_id":1729836813,
+            "region_id":1729834133
+        }
+    ],
     "wof:id":1729836813,
     "wof:lang_x_official":[
         "eng",
@@ -42,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614303292,
+    "wof:lastmodified":1614385238,
     "wof:name":"Wenya",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729837235,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",
