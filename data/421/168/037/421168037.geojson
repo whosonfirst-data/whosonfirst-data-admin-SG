@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-08",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ind_x_preferred":[
@@ -72,7 +73,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614386797,
+    "wof:lastmodified":1615236229,
     "wof:name":"Karimun",
     "wof:parent_id":-1,
     "wof:placetype":"county",
