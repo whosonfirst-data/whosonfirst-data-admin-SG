@@ -1038,6 +1038,7 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
+    "reversegeo:geometry":"85632605-alt-sg-sggov-reversegeo.geojson",
     "src:geom":"sg-sggov",
     "src:geom_alt":[
         "naturalearth",
@@ -1115,7 +1116,6 @@
     ],
     "wof:country":"SG",
     "wof:country_alpha3":"SGP",
-    "reversegeo:geometry":"85632605-alt-sg-sggov-reversegeo.geojson",
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
@@ -1142,7 +1142,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614384962,
+    "wof:lastmodified":1615239664,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
