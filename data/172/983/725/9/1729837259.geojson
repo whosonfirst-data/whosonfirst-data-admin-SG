@@ -32,12 +32,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837369,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837369,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +67,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614386633,
+    "wof:lastmodified":1615236152,
     "wof:name":"Changi",
     "wof:parent_id":1729837369,
     "wof:placetype":"macrohood",
@@ -76,7 +76,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        102032347
+    ],
     "wof:tags":[]
 },
   "bbox": [
