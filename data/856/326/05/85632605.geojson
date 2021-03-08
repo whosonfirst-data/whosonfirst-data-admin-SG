@@ -9,7 +9,6 @@
     "geom:bbox":"103.605701,1.158699,104.088483,1.470775",
     "geom:latitude":1.352428,
     "geom:longitude":103.820731,
-    "gn:id":"",
     "gn:population":4701069,
     "iso:country":"SG",
     "itu:country_code":[
@@ -1042,7 +1041,8 @@
     "src:geom":"sg-sggov",
     "src:geom_alt":[
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "sg-sggov-reversegeo"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1115,10 +1115,12 @@
     ],
     "wof:country":"SG",
     "wof:country_alpha3":"SGP",
+    "reversegeo:geometry":"85632605-alt-sg-sggov-reversegeo.geojson",
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "sg-sggov-reversegeo"
     ],
     "wof:geomhash":"0bfcd47204aa1f8e270e6ceb7e090e38",
     "wof:hierarchy":[
@@ -1144,9 +1146,6 @@
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:placetype_alt":[
-        "region"
-    ],
     "wof:placetype_local":"district",
     "wof:population":5399200,
     "wof:population_rank":12,
