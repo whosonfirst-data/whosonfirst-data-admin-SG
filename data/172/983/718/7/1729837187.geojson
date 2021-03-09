@@ -32,12 +32,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729837371,
+        1729834133,
         102191569,
         85632605,
-        1729834131,
         102032341,
-        1729834133
+        1729837371,
+        1729834131
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +67,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1615243108,
+    "wof:lastmodified":1615251043,
     "wof:name":"Bukit Merah",
     "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",

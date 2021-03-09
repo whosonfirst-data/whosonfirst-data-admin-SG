@@ -23,6 +23,7 @@
     "wof:belongsto":[
         1729834133,
         102191569,
+        1729875383,
         85632605,
         102032341,
         1729837371,
@@ -42,6 +43,7 @@
             "country_id":85632605,
             "county_id":1729834131,
             "locality_id":102032341,
+            "macrohood_id":1729875383,
             "neighbourhood_id":1729836437,
             "region_id":1729834133
         }
@@ -59,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614385242,
+    "wof:lastmodified":1615251129,
     "wof:name":"Sentosa",
-    "wof:parent_id":1729837371,
+    "wof:parent_id":1729875383,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",

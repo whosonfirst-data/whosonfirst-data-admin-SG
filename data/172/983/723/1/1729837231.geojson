@@ -32,12 +32,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729837369,
+        1729834133,
         102191569,
         85632605,
-        1729834131,
         102032341,
-        1729834133
+        1729837369,
+        1729834131
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +67,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1615243120,
+    "wof:lastmodified":1615251089,
     "wof:name":"Bedok",
     "wof:parent_id":1729837369,
     "wof:placetype":"macrohood",

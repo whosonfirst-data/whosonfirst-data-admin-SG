@@ -23,6 +23,7 @@
     "wof:belongsto":[
         1729834133,
         102191569,
+        1729875385,
         85632605,
         102032341,
         1729837367,
@@ -42,6 +43,7 @@
             "country_id":85632605,
             "county_id":1729834131,
             "locality_id":102032341,
+            "macrohood_id":1729875385,
             "neighbourhood_id":1729837099,
             "region_id":1729834133
         }
@@ -59,9 +61,9 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614385090,
+    "wof:lastmodified":1615251153,
     "wof:name":"North-Eastern Islands",
-    "wof:parent_id":1729837367,
+    "wof:parent_id":1729875385,
     "wof:placetype":"neighbourhood",
     "wof:placetype_local":"subzone",
     "wof:repo":"whosonfirst-data-admin-sg",
