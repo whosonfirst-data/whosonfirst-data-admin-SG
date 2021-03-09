@@ -47,10 +47,16 @@
     "name:kor_x_preferred":[
         "\ubd81\ub3d9\ubd80 \uc9c0\uad6c \uc0ac\ud68c \ubc1c\uc804 \uc774\uc0ac\ud68c"
     ],
+    "name:msa_x_preferred":[
+        "Timur Laut"
+    ],
     "name:spa_x_preferred":[
         "Consejo del Noreste"
     ],
     "name:zho_x_preferred":[
+        "\u4e1c\u5317\u533a"
+    ],
+    "name:zho_x_variant":[
         "\u4e1c\u5317\u793e\u533a\u53d1\u5c55\u7406\u4e8b\u4f1a"
     ],
     "ne:abbrev":"",
@@ -161,7 +167,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614302746,
+    "wof:lastmodified":1615250164,
     "wof:name":"North East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",
