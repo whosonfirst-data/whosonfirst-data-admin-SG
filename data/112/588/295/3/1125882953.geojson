@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1125882953,
-    "wof:lastmodified":1534379460,
+    "wof:lastmodified":1614302812,
     "wof:name":"Changi Village",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

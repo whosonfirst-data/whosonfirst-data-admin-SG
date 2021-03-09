@@ -3,13 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"103.778229,1.454159,103.778229,1.454159",
     "geom:latitude":1.454159,
     "geom:longitude":103.778229,
-    "gn:id":"",
     "iso:country":"SG",
     "lbl:bbox":"103.773229,1.449159,103.783229,1.459159",
     "lbl:latitude":1.454159,
@@ -18,7 +18,7 @@
     "mps:latitude":1.452031,
     "mps:longitude":103.780588,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -58,8 +58,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
-        102032341,
         85632605,
+        102032341,
         85677041
     ],
     "wof:breaches":[],
@@ -85,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582355306,
+    "wof:lastmodified":1614302746,
     "wof:name":"Tanjung Puteri",
     "wof:parent_id":102032341,
     "wof:placetype":"neighbourhood",

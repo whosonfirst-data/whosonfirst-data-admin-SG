@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.006383,
     "geom:area_square_m":78906337.028544,
@@ -22,7 +23,7 @@
     "mps:latitude":1.337909,
     "mps:longitude":103.910338,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
@@ -175,7 +176,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614895953,
+    "wof:lastmodified":1615250160,
     "wof:name":"South East",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

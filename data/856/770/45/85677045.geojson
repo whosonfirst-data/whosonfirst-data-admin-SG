@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.016271,
     "geom:area_square_m":201135461.408655,
@@ -22,7 +23,7 @@
     "mps:latitude":1.352739,
     "mps:longitude":103.724553,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
@@ -169,7 +170,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614895953,
+    "wof:lastmodified":1615250173,
     "wof:name":"South West",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

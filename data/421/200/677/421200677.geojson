@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.7947725,1.302491,103.7947725,1.302491",
+    "geom:bbox":"103.794772,1.302491,103.794772,1.302491",
     "geom:latitude":1.302491,
     "geom:longitude":103.794772,
     "iso:country":"SG",
@@ -14,7 +15,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
@@ -120,7 +121,7 @@
     },
     "wof:country":"SG",
     "wof:created":1459010034,
-    "wof:geomhash":"ee48bf34470246e639ab1d4cc9982f2c",
+    "wof:geomhash":"44736111b8318399f73ae2cd4b099063",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,20 +131,22 @@
         }
     ],
     "wof:id":421200677,
-    "wof:lastmodified":1566644288,
+    "wof:lastmodified":1614302810,
     "wof:name":"Queenstown",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729837209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    103.79477249999998,
+    103.794772,
     1.302491,
-    103.79477249999998,
+    103.794772,
     1.302491
 ],
-  "geometry": {"coordinates":[103.79477249999998,1.302491],"type":"Point"}
+  "geometry": {"coordinates":[103.79477199999999,1.302491],"type":"Point"}
 }
