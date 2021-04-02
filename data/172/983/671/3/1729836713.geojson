@@ -21,13 +21,13 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1729834133,
         102191569,
         1729837219,
         85632605,
         102032341,
         1729837371,
-        1729834131
+        1729834131,
+        1729834133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614386703,
+    "wof:lastmodified":1617382694,
     "wof:name":"Farrer Court",
     "wof:parent_id":1729837219,
     "wof:placetype":"neighbourhood",
