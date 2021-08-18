@@ -81,6 +81,7 @@
     "wof:concordances":{
         "gn:id":1880723,
         "gp:id":1062406,
+        "qs:id":906119,
         "qs_pg:id":906119,
         "wd:id":"Q5072003",
         "wk:page":"Changi Village"
@@ -108,7 +109,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1629284037,
+    "wof:lastmodified":1629286591,
     "wof:name":"Changi Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

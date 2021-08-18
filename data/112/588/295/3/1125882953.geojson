@@ -58,6 +58,7 @@
     "wof:concordances":{
         "gn:id":1880723,
         "gp:id":1062406,
+        "qs:id":906119,
         "qs_pg:id":906119
     },
     "wof:country":"SG",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1125882953,
-    "wof:lastmodified":1629284043,
+    "wof:lastmodified":1629286597,
     "wof:name":"Changi Village",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",
