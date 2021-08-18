@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
+    "geom:area_square_m":0.0001,
     "geom:bbox":"103.813356,1.320746,103.828839,1.332459",
     "geom:latitude":1.32619,
     "geom:longitude":103.82007,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837229,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837229,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382698,
+    "wof:lastmodified":1629284323,
     "wof:name":"Dunearn",
     "wof:parent_id":1729837229,
     "wof:placetype":"neighbourhood",

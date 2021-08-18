@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
+    "geom:area_square_m":0.000093,
     "geom:bbox":"103.739136,1.369052,103.75381,1.381486",
     "geom:latitude":1.375492,
     "geom:longitude":103.74646,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837263,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837263,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382685,
+    "wof:lastmodified":1629284487,
     "wof:name":"Keat Hong",
     "wof:parent_id":1729837263,
     "wof:placetype":"neighbourhood",

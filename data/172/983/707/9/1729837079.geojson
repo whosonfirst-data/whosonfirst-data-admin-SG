@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
+    "geom:area_square_m":0.000102,
     "geom:bbox":"103.882963,1.413717,103.897834,1.425436",
     "geom:latitude":1.419041,
     "geom:longitude":103.891087,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837275,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837275,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382677,
+    "wof:lastmodified":1629284561,
     "wof:name":"Pulau Punggol Timor",
     "wof:parent_id":1729837275,
     "wof:placetype":"neighbourhood",

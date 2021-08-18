@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
+    "geom:area_square_m":0.00039,
     "geom:bbox":"103.964287,1.341444,103.990923,1.389256",
     "geom:latitude":1.368282,
     "geom:longitude":103.977835,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837259,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837259,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382675,
+    "wof:lastmodified":1629284553,
     "wof:name":"Changi West",
     "wof:parent_id":1729837259,
     "wof:placetype":"neighbourhood",

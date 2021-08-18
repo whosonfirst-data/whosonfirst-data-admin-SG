@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005465,
+    "geom:area_square_m":0.005465,
     "geom:bbox":"103.926373,1.337506,104.088483,1.440698",
     "geom:latitude":1.401641,
     "geom:longitude":104.034823,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837367,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837367,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382705,
+    "wof:lastmodified":1629284688,
     "wof:name":"North-Eastern Islands",
     "wof:parent_id":1729837367,
     "wof:placetype":"macrohood",

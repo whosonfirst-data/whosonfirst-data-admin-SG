@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
+    "geom:area_square_m":0.000135,
     "geom:bbox":"103.852388,1.388209,103.869173,1.401232",
     "geom:latitude":1.395529,
     "geom:longitude":103.863159,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837277,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837277,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382677,
+    "wof:lastmodified":1629284520,
     "wof:name":"Sengkang West",
     "wof:parent_id":1729837277,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
+    "geom:area_square_m":0.000014,
     "geom:bbox":"103.849152,1.298341,103.853933,1.3049",
     "geom:latitude":1.302005,
     "geom:longitude":103.851281,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837223,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837223,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382685,
+    "wof:lastmodified":1629284304,
     "wof:name":"Bencoolen",
     "wof:parent_id":1729837223,
     "wof:placetype":"neighbourhood",

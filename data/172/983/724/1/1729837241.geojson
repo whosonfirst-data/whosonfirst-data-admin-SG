@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000905,
+    "geom:area_square_m":0.000905,
     "geom:bbox":"103.736508,1.332453,103.770384,1.379669",
     "geom:latitude":1.355658,
     "geom:longitude":103.754732,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837363,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837363,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382691,
+    "wof:lastmodified":1629284647,
     "wof:name":"Bukit Batok",
     "wof:parent_id":1729837363,
     "wof:placetype":"macrohood",

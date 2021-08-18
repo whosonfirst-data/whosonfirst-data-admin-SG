@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
+    "geom:area_square_m":0.000282,
     "geom:bbox":"103.92497,1.336012,103.946927,1.360424",
     "geom:latitude":1.348529,
     "geom:longitude":103.935949,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837245,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837245,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629284390,
     "wof:name":"Tampines West",
     "wof:parent_id":1729837245,
     "wof:placetype":"neighbourhood",

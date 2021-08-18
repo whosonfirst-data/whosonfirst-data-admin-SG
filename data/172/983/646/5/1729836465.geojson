@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
+    "geom:area_square_m":0.000118,
     "geom:bbox":"103.801963,1.270829,103.817495,1.282124",
     "geom:latitude":1.276655,
     "geom:longitude":103.80888,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837187,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837187,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382695,
+    "wof:lastmodified":1629284229,
     "wof:name":"Telok Blangah Drive",
     "wof:parent_id":1729837187,
     "wof:placetype":"neighbourhood",

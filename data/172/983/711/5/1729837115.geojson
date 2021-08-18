@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
+    "geom:area_square_m":0.000267,
     "geom:bbox":"103.736998,1.415793,103.75287,1.44631",
     "geom:latitude":1.431742,
     "geom:longitude":103.746759,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837279,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837279,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382703,
+    "wof:lastmodified":1629284582,
     "wof:name":"Reservoir View",
     "wof:parent_id":1729837279,
     "wof:placetype":"neighbourhood",

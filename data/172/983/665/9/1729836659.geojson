@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
+    "geom:area_square_m":0.000275,
     "geom:bbox":"103.770783,1.317384,103.79555,1.337717",
     "geom:latitude":1.327048,
     "geom:longitude":103.783774,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837219,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837219,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382699,
+    "wof:lastmodified":1629284332,
     "wof:name":"Holland Road",
     "wof:parent_id":1729837219,
     "wof:placetype":"neighbourhood",

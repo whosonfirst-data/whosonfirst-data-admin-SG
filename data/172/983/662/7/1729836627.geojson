@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
+    "geom:area_square_m":0.000094,
     "geom:bbox":"103.897104,1.297462,103.919141,1.307471",
     "geom:latitude":1.302815,
     "geom:longitude":103.907574,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837185,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837185,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382699,
+    "wof:lastmodified":1629284314,
     "wof:name":"Marine Parade",
     "wof:parent_id":1729837185,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":0.000028,
     "geom:bbox":"103.823246,1.298983,103.8308,1.304658",
     "geom:latitude":1.301726,
     "geom:longitude":103.827169,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837191,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837191,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382685,
+    "wof:lastmodified":1629284302,
     "wof:name":"One Tree Hill",
     "wof:parent_id":1729837191,
     "wof:placetype":"neighbourhood",

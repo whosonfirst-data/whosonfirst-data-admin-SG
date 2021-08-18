@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
+    "geom:area_square_m":0.000112,
     "geom:bbox":"103.897325,1.409504,103.914583,1.421508",
     "geom:latitude":1.416191,
     "geom:longitude":103.906774,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837273,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837273,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382699,
+    "wof:lastmodified":1629284473,
     "wof:name":"Northshore",
     "wof:parent_id":1729837273,
     "wof:placetype":"neighbourhood",

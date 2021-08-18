@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
+    "geom:area_square_m":0.000774,
     "geom:bbox":"103.747467,1.29165,103.775645,1.341267",
     "geom:latitude":1.317592,
     "geom:longitude":103.760751,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837363,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837363,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382703,
+    "wof:lastmodified":1629284623,
     "wof:name":"Clementi",
     "wof:parent_id":1729837363,
     "wof:placetype":"macrohood",

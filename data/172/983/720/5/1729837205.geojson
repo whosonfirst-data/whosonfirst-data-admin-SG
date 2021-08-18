@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000993,
+    "geom:area_square_m":0.000993,
     "geom:bbox":"103.649808,1.288676,103.696535,1.33105",
     "geom:latitude":1.312585,
     "geom:longitude":103.672987,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837363,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837363,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382703,
+    "wof:lastmodified":1629284625,
     "wof:name":"Pioneer",
     "wof:parent_id":1729837363,
     "wof:placetype":"macrohood",

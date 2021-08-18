@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
+    "geom:area_square_m":0.000075,
     "geom:bbox":"103.858546,1.369417,103.87176,1.378702",
     "geom:latitude":1.374785,
     "geom:longitude":103.864759,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837247,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837247,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382683,
+    "wof:lastmodified":1629284410,
     "wof:name":"Serangoon North Ind Estate",
     "wof:parent_id":1729837247,
     "wof:placetype":"neighbourhood",

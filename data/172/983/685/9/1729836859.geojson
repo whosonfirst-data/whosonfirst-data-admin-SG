@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
+    "geom:area_square_m":0.000075,
     "geom:bbox":"103.734056,1.333282,103.745296,1.346003",
     "geom:latitude":1.340413,
     "geom:longitude":103.738837,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837203,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837203,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629284440,
     "wof:name":"Yuhua East",
     "wof:parent_id":1729837203,
     "wof:placetype":"neighbourhood",

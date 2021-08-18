@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":0.000009,
     "geom:bbox":"103.853933,1.303125,103.85946,1.308194",
     "geom:latitude":1.305699,
     "geom:longitude":103.856693,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837223,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837223,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382697,
+    "wof:lastmodified":1629284263,
     "wof:name":"Sungei Road",
     "wof:parent_id":1729837223,
     "wof:placetype":"neighbourhood",

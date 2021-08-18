@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
+    "geom:area_square_m":0.000116,
     "geom:bbox":"103.792613,1.320306,103.813352,1.331713",
     "geom:latitude":1.32557,
     "geom:longitude":103.801538,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837219,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837219,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382698,
+    "wof:lastmodified":1629284321,
     "wof:name":"Coronation Road",
     "wof:parent_id":1729837219,
     "wof:placetype":"neighbourhood",

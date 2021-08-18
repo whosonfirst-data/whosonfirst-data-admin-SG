@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
+    "geom:area_square_m":0.000074,
     "geom:bbox":"103.76124,1.369444,103.771853,1.381116",
     "geom:latitude":1.375934,
     "geom:longitude":103.766244,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837267,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837267,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382685,
+    "wof:lastmodified":1629284486,
     "wof:name":"Jelebu",
     "wof:parent_id":1729837267,
     "wof:placetype":"neighbourhood",

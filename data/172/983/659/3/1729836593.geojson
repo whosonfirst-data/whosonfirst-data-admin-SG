@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
+    "geom:area_square_m":0.000017,
     "geom:bbox":"103.850098,1.296384,103.855854,1.303253",
     "geom:latitude":1.299664,
     "geom:longitude":103.85299,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837223,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837223,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382686,
+    "wof:lastmodified":1629284297,
     "wof:name":"Victoria",
     "wof:parent_id":1729837223,
     "wof:placetype":"neighbourhood",

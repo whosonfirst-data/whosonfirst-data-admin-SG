@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
+    "geom:area_square_m":0.00014,
     "geom:bbox":"103.938283,1.372894,103.966793,1.389055",
     "geom:latitude":1.379997,
     "geom:longitude":103.954894,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837265,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837265,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382700,
+    "wof:lastmodified":1629284510,
     "wof:name":"Pasir Ris Park",
     "wof:parent_id":1729837265,
     "wof:placetype":"neighbourhood",

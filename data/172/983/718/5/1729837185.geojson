@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
+    "geom:area_square_m":0.000498,
     "geom:bbox":"103.875421,1.284839,103.919509,1.313323",
     "geom:latitude":1.300228,
     "geom:longitude":103.896272,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837371,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837371,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382704,
+    "wof:lastmodified":1629284614,
     "wof:name":"Marine Parade",
     "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",

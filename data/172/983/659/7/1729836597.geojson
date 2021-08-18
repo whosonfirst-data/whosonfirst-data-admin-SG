@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":0.000048,
     "geom:bbox":"103.898285,1.295443,103.919509,1.303928",
     "geom:latitude":1.299691,
     "geom:longitude":103.908676,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837185,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837185,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382686,
+    "wof:lastmodified":1629284299,
     "wof:name":"East Coast",
     "wof:parent_id":1729837185,
     "wof:placetype":"neighbourhood",

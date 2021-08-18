@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.83333,1.28333,103.83333,1.28333",
     "geom:latitude":1.28333,
     "geom:longitude":103.83333,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.81333,1.26333,103.85333,1.30333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:aze_x_preferred":[
         "Tanjong Pagar"
     ],
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1310214557,
-    "wof:lastmodified":1614302803,
+    "wof:lastmodified":1629284142,
     "wof:name":"Tanjong Pagar",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

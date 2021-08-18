@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
+    "geom:area_square_m":0.000144,
     "geom:bbox":"103.665271,1.293571,103.6819,1.310624",
     "geom:latitude":1.303377,
     "geom:longitude":103.674521,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837205,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837205,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382688,
+    "wof:lastmodified":1629284285,
     "wof:name":"Gul Basin",
     "wof:parent_id":1729837205,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001133,
+    "geom:area_square_m":0.001133,
     "geom:bbox":"103.816736,1.355512,103.860927,1.397743",
     "geom:latitude":1.380094,
     "geom:longitude":103.842098,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837367,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837367,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382691,
+    "wof:lastmodified":1629284652,
     "wof:name":"Ang Mo Kio",
     "wof:parent_id":1729837367,
     "wof:placetype":"macrohood",

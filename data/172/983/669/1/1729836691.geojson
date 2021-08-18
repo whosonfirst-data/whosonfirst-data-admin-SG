@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
+    "geom:area_square_m":0.000062,
     "geom:bbox":"103.854365,1.305993,103.864335,1.316823",
     "geom:latitude":1.310826,
     "geom:longitude":103.85914,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837175,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837175,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382684,
+    "wof:lastmodified":1629284350,
     "wof:name":"Lavender",
     "wof:parent_id":1729837175,
     "wof:placetype":"neighbourhood",

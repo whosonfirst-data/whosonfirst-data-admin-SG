@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.708611,1.387222,103.708611,1.387222",
     "geom:latitude":1.387222,
     "geom:longitude":103.708611,
     "iso:country":"SG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":13,
     "name:ceb_x_preferred":[
         "Tengah Air Base"
     ],
@@ -57,13 +57,13 @@
         "state_id":24703043
     },
     "wof:belongsto":[
-        1729837091,
-        102191569,
-        1729837237,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837237,
+        1729837091,
         1729834133
     ],
     "wof:breaches":[],
@@ -102,7 +102,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614385092,
+    "wof:lastmodified":1629284042,
     "wof:name":"Tengah Airport",
     "wof:parent_id":1729837091,
     "wof:placetype":"campus",

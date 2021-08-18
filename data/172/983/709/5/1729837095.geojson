@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
+    "geom:area_square_m":0.000123,
     "geom:bbox":"103.825797,1.422862,103.835375,1.44191",
     "geom:latitude":1.431139,
     "geom:longitude":103.831012,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837283,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837283,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382676,
+    "wof:lastmodified":1629284569,
     "wof:name":"Yishun West",
     "wof:parent_id":1729837283,
     "wof:placetype":"neighbourhood",

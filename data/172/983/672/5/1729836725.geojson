@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
+    "geom:area_square_m":0.000175,
     "geom:bbox":"103.803541,1.306418,103.821298,1.323295",
     "geom:latitude":1.314587,
     "geom:longitude":103.812945,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837195,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837195,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382678,
+    "wof:lastmodified":1629284368,
     "wof:name":"Tyersall",
     "wof:parent_id":1729837195,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005465,
+    "geom:area_square_m":0.005465,
     "geom:bbox":"103.926373,1.337506,104.088483,1.440698",
     "geom:latitude":1.401641,
     "geom:longitude":104.034823,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729875385,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729875385,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382675,
+    "wof:lastmodified":1629284571,
     "wof:name":"North-Eastern Islands",
     "wof:parent_id":1729875385,
     "wof:placetype":"neighbourhood",

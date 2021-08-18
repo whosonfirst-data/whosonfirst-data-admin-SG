@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.85493,1.30056,103.85493,1.30056",
     "geom:latitude":1.30056,
     "geom:longitude":103.85493,
@@ -24,11 +24,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.83493,1.28056,103.87493,1.32056",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Bugis"
     ],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1326849087,
-    "wof:lastmodified":1614302742,
+    "wof:lastmodified":1629284166,
     "wof:name":"Bugis",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

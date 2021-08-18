@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
+    "geom:area_square_m":0.000112,
     "geom:bbox":"103.903583,1.385926,103.919213,1.402912",
     "geom:latitude":1.394723,
     "geom:longitude":103.91126,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837273,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837273,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382677,
+    "wof:lastmodified":1629284523,
     "wof:name":"Punggol Field",
     "wof:parent_id":1729837273,
     "wof:placetype":"neighbourhood",

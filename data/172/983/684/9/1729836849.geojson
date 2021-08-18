@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
+    "geom:area_square_m":0.000121,
     "geom:bbox":"103.715869,1.323589,103.726015,1.344917",
     "geom:latitude":1.33451,
     "geom:longitude":103.721197,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837235,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837235,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382695,
+    "wof:lastmodified":1629284434,
     "wof:name":"Taman Jurong",
     "wof:parent_id":1729837235,
     "wof:placetype":"neighbourhood",

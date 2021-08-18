@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"104.06583,1.40611,104.06583,1.40611",
     "geom:latitude":1.40611,
     "geom:longitude":104.06583,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"104.04583,1.38611,104.08583,1.42611",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:und_x_variant":[
         "Kampong Sanyongkong",
         "Kampong Sanyonkong Parit"
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":1243472601,
-    "wof:lastmodified":1614302813,
+    "wof:lastmodified":1629284083,
     "wof:name":"Kampong Sanyonkong Parit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

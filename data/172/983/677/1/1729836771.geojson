@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
+    "geom:area_square_m":0.00016,
     "geom:bbox":"103.889702,1.337796,103.905208,1.36306",
     "geom:latitude":1.351698,
     "geom:longitude":103.895781,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837243,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837243,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382696,
+    "wof:lastmodified":1629284392,
     "wof:name":"Defu Industrial Park",
     "wof:parent_id":1729837243,
     "wof:placetype":"neighbourhood",
