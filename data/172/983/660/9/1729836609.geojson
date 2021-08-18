@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
+    "geom:area_square_m":0.000109,
     "geom:bbox":"103.815977,1.29193,103.831806,1.304994",
     "geom:latitude":1.297035,
     "geom:longitude":103.823402,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837195,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837195,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382685,
+    "wof:lastmodified":1629284305,
     "wof:name":"Chatsworth",
     "wof:parent_id":1729837195,
     "wof:placetype":"neighbourhood",

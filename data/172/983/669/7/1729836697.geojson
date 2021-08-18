@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
+    "geom:area_square_m":0.000107,
     "geom:bbox":"103.747467,1.298372,103.762314,1.317602",
     "geom:latitude":1.30807,
     "geom:longitude":103.754503,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837201,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837201,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382684,
+    "wof:lastmodified":1629284352,
     "wof:name":"Pandan",
     "wof:parent_id":1729837201,
     "wof:placetype":"neighbourhood",

@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.75,1.3,103.75,1.3",
     "geom:latitude":1.3,
     "geom:longitude":103.75,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.73,1.28,103.77,1.32",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:und_x_variant":[
         "Kampong Tanjong Penuru",
         "Kampong Tanjong Penjuru"
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1327144287,
-    "wof:lastmodified":1614302741,
+    "wof:lastmodified":1629284170,
     "wof:name":"Kampong Tanjong Penjuru",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

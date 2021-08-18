@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
+    "geom:area_square_m":0.000021,
     "geom:bbox":"103.852003,1.281722,103.858205,1.288211",
     "geom:latitude":1.285562,
     "geom:longitude":103.854699,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837177,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837177,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629284244,
     "wof:name":"Clifford Pier",
     "wof:parent_id":1729837177,
     "wof:placetype":"neighbourhood",

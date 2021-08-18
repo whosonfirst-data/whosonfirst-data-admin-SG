@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
+    "geom:area_square_m":0.000144,
     "geom:bbox":"103.838727,1.418399,103.854976,1.437176",
     "geom:latitude":1.427892,
     "geom:longitude":103.846586,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837283,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837283,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382675,
+    "wof:lastmodified":1629284565,
     "wof:name":"Yishun East",
     "wof:parent_id":1729837283,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":0.000081,
     "geom:bbox":"103.973327,1.387243,103.990519,1.393781",
     "geom:latitude":1.390306,
     "geom:longitude":103.982524,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837259,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837259,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382697,
+    "wof:lastmodified":1629284516,
     "wof:name":"Changi Point",
     "wof:parent_id":1729837259,
     "wof:placetype":"neighbourhood",

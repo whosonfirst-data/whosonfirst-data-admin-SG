@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":0.000068,
     "geom:bbox":"103.892757,1.370377,103.903596,1.380344",
     "geom:latitude":1.376323,
     "geom:longitude":103.897369,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837243,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837243,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382686,
+    "wof:lastmodified":1629284481,
     "wof:name":"Hougang East",
     "wof:parent_id":1729837243,
     "wof:placetype":"neighbourhood",

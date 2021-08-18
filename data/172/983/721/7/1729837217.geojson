@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":0.000092,
     "geom:bbox":"103.851564,1.264699,103.866429,1.278043",
     "geom:latitude":1.271252,
     "geom:longitude":103.858773,
@@ -30,12 +31,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1729834133,
+        1729837371,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837371,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -65,7 +66,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382701,
+    "wof:lastmodified":1629284632,
     "wof:name":"Straits View",
     "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002899,
+    "geom:area_square_m":0.002899,
     "geom:bbox":"103.970675,1.30946,104.033445,1.39226",
     "geom:latitude":1.346778,
     "geom:longitude":104.00094,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837259,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837259,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382674,
+    "wof:lastmodified":1629284556,
     "wof:name":"Changi Airport",
     "wof:parent_id":1729837259,
     "wof:placetype":"neighbourhood",

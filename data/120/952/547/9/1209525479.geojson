@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"104.02167,1.42139,104.02167,1.42139",
     "geom:latitude":1.42139,
     "geom:longitude":104.02167,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"104.00167,1.40139,104.04167,1.44139",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632605
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1209525479,
-    "wof:lastmodified":1614302751,
+    "wof:lastmodified":1629284050,
     "wof:name":"Kampong Todak",
     "wof:parent_id":85632605,
     "wof:placetype":"locality",

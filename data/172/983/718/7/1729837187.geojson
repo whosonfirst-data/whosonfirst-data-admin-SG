@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001175,
+    "geom:area_square_m":0.001175,
     "geom:bbox":"103.79921,1.254808,103.85207,1.294366",
     "geom:latitude":1.275489,
     "geom:longitude":103.823135,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837371,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837371,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382704,
+    "wof:lastmodified":1629284615,
     "wof:name":"Bukit Merah",
     "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",

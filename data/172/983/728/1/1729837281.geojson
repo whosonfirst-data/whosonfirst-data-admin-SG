@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000673,
+    "geom:area_square_m":0.000673,
     "geom:bbox":"103.833064,1.424478,103.872652,1.460524",
     "geom:latitude":1.444085,
     "geom:longitude":103.852919,
@@ -30,12 +31,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1729834133,
+        1729837365,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837365,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -65,7 +66,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382702,
+    "wof:lastmodified":1629284671,
     "wof:name":"Simpang",
     "wof:parent_id":1729837365,
     "wof:placetype":"macrohood",

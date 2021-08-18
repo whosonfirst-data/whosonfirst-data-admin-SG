@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":0.000054,
     "geom:bbox":"103.766853,1.378535,103.775184,1.39046",
     "geom:latitude":1.384785,
     "geom:longitude":103.771146,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837267,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837267,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382699,
+    "wof:lastmodified":1629284500,
     "wof:name":"Fajar",
     "wof:parent_id":1729837267,
     "wof:placetype":"neighbourhood",

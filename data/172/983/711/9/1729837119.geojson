@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
+    "geom:area_square_m":0.000078,
     "geom:bbox":"103.8117,1.440988,103.823713,1.452016",
     "geom:latitude":1.446373,
     "geom:longitude":103.817768,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837291,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837291,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382702,
+    "wof:lastmodified":1629284584,
     "wof:name":"Sembawang Central",
     "wof:parent_id":1729837291,
     "wof:placetype":"neighbourhood",

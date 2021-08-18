@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00922,
+    "geom:area_square_m":0.00922,
     "geom:bbox":"103.893497,1.290868,104.084391,1.401181",
     "geom:latitude":1.348567,
     "geom:longitude":103.961543,
@@ -32,11 +33,11 @@
     "src:population":"wk",
     "src:population_date":"2018-01-01",
     "wof:belongsto":[
-        1729834133,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -65,7 +66,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382676,
+    "wof:lastmodified":1629284684,
     "wof:name":"East",
     "wof:parent_id":102032341,
     "wof:placetype":"borough",

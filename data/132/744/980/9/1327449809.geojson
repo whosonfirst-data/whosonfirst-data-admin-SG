@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.85139,1.39111,103.85139,1.39111",
     "geom:latitude":1.39111,
     "geom:longitude":103.85139,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.83139,1.37111,103.87139,1.41111",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:hin_x_preferred":[
         "\u092f\u093f \u091a\u0942 \u0915\u093e\u0902\u0917"
     ],
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1327449809,
-    "wof:lastmodified":1614302743,
+    "wof:lastmodified":1629284175,
     "wof:name":"Yio Chu Kang",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

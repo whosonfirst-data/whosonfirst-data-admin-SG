@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000142,
+    "geom:area_square_m":0.000142,
     "geom:bbox":"103.800497,1.444278,103.812716,1.462442",
     "geom:latitude":1.453493,
     "geom:longitude":103.807538,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837291,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837291,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382689,
+    "wof:lastmodified":1629284594,
     "wof:name":"Senoko South",
     "wof:parent_id":1729837291,
     "wof:placetype":"neighbourhood",

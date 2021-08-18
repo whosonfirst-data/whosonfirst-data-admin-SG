@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
+    "geom:area_square_m":0.000024,
     "geom:bbox":"103.84121,1.286517,103.848271,1.293035",
     "geom:latitude":1.2896,
     "geom:longitude":103.844579,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837193,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837193,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382684,
+    "wof:lastmodified":1629284254,
     "wof:name":"Clarke Quay",
     "wof:parent_id":1729837193,
     "wof:placetype":"neighbourhood",

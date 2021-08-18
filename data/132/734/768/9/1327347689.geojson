@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.88413,1.32713,103.88413,1.32713",
     "geom:latitude":1.32713,
     "geom:longitude":103.88413,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.86413,1.30713,103.90413,1.34713",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:und_x_variant":[
         "MacPherson Estate"
     ],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1327347689,
-    "wof:lastmodified":1614302742,
+    "wof:lastmodified":1629284174,
     "wof:name":"MacPherson",
     "wof:parent_id":85677041,
     "wof:placetype":"locality",

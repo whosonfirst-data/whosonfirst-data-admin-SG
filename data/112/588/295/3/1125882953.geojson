@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.98306,1.38444,103.98306,1.38444",
     "geom:latitude":1.38444,
     "geom:longitude":103.98306,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1125882953,
-    "wof:lastmodified":1614302812,
+    "wof:lastmodified":1629284043,
     "wof:name":"Changi Village",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

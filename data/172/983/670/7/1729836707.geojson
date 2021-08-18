@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":0.000068,
     "geom:bbox":"103.860335,1.30874,103.87037,1.320354",
     "geom:latitude":1.314076,
     "geom:longitude":103.86548,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837175,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837175,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382695,
+    "wof:lastmodified":1629284358,
     "wof:name":"Kallang Bahru",
     "wof:parent_id":1729837175,
     "wof:placetype":"neighbourhood",

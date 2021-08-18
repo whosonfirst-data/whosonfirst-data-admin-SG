@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
+    "geom:area_square_m":0.000171,
     "geom:bbox":"103.679344,1.327757,103.709767,1.340442",
     "geom:latitude":1.331512,
     "geom:longitude":103.697904,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837235,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837235,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382686,
+    "wof:lastmodified":1629284340,
     "wof:name":"Kian Teck",
     "wof:parent_id":1729837235,
     "wof:placetype":"neighbourhood",

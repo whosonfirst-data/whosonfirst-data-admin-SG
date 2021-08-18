@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000956,
+    "geom:area_square_m":0.000956,
     "geom:bbox":"103.771266,1.409912,103.826854,1.444278",
     "geom:latitude":1.423623,
     "geom:longitude":103.80246,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837365,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837365,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382702,
+    "wof:lastmodified":1629284674,
     "wof:name":"Mandai",
     "wof:parent_id":1729837365,
     "wof:placetype":"macrohood",

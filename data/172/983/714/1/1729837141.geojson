@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
+    "geom:area_square_m":0.000087,
     "geom:bbox":"103.846145,1.44857,103.85837,1.460524",
     "geom:latitude":1.454242,
     "geom:longitude":103.850928,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837281,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837281,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382690,
+    "wof:lastmodified":1629284597,
     "wof:name":"Tanjong Irau",
     "wof:parent_id":1729837281,
     "wof:placetype":"neighbourhood",

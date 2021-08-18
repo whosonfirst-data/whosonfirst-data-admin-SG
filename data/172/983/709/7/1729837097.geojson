@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":0.000048,
     "geom:bbox":"103.779282,1.434359,103.789041,1.443591",
     "geom:latitude":1.438602,
     "geom:longitude":103.784536,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837289,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837289,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382675,
+    "wof:lastmodified":1629284570,
     "wof:name":"Woodlands Regional Centre",
     "wof:parent_id":1729837289,
     "wof:placetype":"neighbourhood",

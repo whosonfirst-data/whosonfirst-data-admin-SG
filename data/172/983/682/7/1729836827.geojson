@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
+    "geom:area_square_m":0.000169,
     "geom:bbox":"103.748632,1.323438,103.764505,1.341267",
     "geom:latitude":1.331755,
     "geom:longitude":103.75634,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837201,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837201,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629284422,
     "wof:name":"Toh Tuck",
     "wof:parent_id":1729837201,
     "wof:placetype":"neighbourhood",

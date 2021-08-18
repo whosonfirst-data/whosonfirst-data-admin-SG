@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
+    "geom:area_square_m":0.000039,
     "geom:bbox":"103.783081,1.30767,103.791516,1.315799",
     "geom:latitude":1.310919,
     "geom:longitude":103.787482,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837209,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837209,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382688,
+    "wof:lastmodified":1629284349,
     "wof:name":"Ghim Moh",
     "wof:parent_id":1729837209,
     "wof:placetype":"neighbourhood",

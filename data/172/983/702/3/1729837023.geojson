@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
+    "geom:area_square_m":0.00018,
     "geom:bbox":"103.817164,1.392911,103.833637,1.413411",
     "geom:latitude":1.401409,
     "geom:longitude":103.824061,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837283,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837283,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382692,
+    "wof:lastmodified":1629284530,
     "wof:name":"Springleaf",
     "wof:parent_id":1729837283,
     "wof:placetype":"neighbourhood",

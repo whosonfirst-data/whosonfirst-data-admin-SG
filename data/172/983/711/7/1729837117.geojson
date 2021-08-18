@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
+    "geom:area_square_m":0.000208,
     "geom:bbox":"103.792424,1.432293,103.8117,1.450337",
     "geom:latitude":1.44125,
     "geom:longitude":103.801927,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837289,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837289,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382702,
+    "wof:lastmodified":1629284583,
     "wof:name":"Woodlands East",
     "wof:parent_id":1729837289,
     "wof:placetype":"neighbourhood",

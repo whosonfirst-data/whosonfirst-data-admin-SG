@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001027,
+    "geom:area_square_m":0.001027,
     "geom:bbox":"103.791792,1.435049,103.847814,1.470775",
     "geom:latitude":1.455747,
     "geom:longitude":103.818828,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837365,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837365,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382703,
+    "wof:lastmodified":1629284676,
     "wof:name":"Sembawang",
     "wof:parent_id":1729837365,
     "wof:placetype":"macrohood",

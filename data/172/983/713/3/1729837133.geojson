@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001422,
+    "geom:area_square_m":0.001422,
     "geom:bbox":"103.693015,1.411068,103.743596,1.451306",
     "geom:latitude":1.430643,
     "geom:longitude":103.719285,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837293,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837293,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382690,
+    "wof:lastmodified":1629284592,
     "wof:name":"Lim Chu Kang",
     "wof:parent_id":1729837293,
     "wof:placetype":"neighbourhood",

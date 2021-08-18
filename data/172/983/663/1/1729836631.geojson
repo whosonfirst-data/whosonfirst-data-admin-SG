@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
+    "geom:area_square_m":0.000078,
     "geom:bbox":"103.868743,1.320214,103.881423,1.331299",
     "geom:latitude":1.325834,
     "geom:longitude":103.876104,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837225,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837225,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382698,
+    "wof:lastmodified":1629284317,
     "wof:name":"Kallang Way",
     "wof:parent_id":1729837225,
     "wof:placetype":"neighbourhood",

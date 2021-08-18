@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
+    "geom:area_square_m":0.000207,
     "geom:bbox":"103.930399,1.360355,103.953227,1.375782",
     "geom:latitude":1.366245,
     "geom:longitude":103.939026,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837245,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837245,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382695,
+    "wof:lastmodified":1629284405,
     "wof:name":"Tampines North",
     "wof:parent_id":1729837245,
     "wof:placetype":"neighbourhood",

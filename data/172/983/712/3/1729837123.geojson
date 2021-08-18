@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
+    "geom:area_square_m":0.000062,
     "geom:bbox":"103.826417,1.44191,103.836694,1.453384",
     "geom:latitude":1.447501,
     "geom:longitude":103.831422,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837291,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837291,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382690,
+    "wof:lastmodified":1629284587,
     "wof:name":"Sembawang East",
     "wof:parent_id":1729837291,
     "wof:placetype":"neighbourhood",

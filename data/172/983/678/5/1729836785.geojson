@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
+    "geom:area_square_m":0.000246,
     "geom:bbox":"103.856863,1.353911,103.876355,1.371912",
     "geom:latitude":1.362738,
     "geom:longitude":103.866663,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837247,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837247,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382694,
+    "wof:lastmodified":1629284400,
     "wof:name":"Serangoon Garden",
     "wof:parent_id":1729837247,
     "wof:placetype":"neighbourhood",

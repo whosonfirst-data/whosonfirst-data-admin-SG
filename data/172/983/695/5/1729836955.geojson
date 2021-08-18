@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
+    "geom:area_square_m":0.00007,
     "geom:bbox":"103.732667,1.372703,103.743335,1.386613",
     "geom:latitude":1.379343,
     "geom:longitude":103.73863,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837263,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837263,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382687,
+    "wof:lastmodified":1629284493,
     "wof:name":"Peng Siang",
     "wof:parent_id":1729837263,
     "wof:placetype":"neighbourhood",

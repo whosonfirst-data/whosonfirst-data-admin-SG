@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00302,
+    "geom:area_square_m":0.00302,
     "geom:bbox":"103.771682,1.335787,103.837076,1.416214",
     "geom:latitude":1.376651,
     "geom:longitude":103.801196,
@@ -30,12 +31,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1729834133,
+        1729837365,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837365,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -65,7 +66,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382704,
+    "wof:lastmodified":1629284665,
     "wof:name":"Central Water Catchment",
     "wof:parent_id":1729837365,
     "wof:placetype":"macrohood",

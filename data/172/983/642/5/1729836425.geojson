@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002977,
+    "geom:area_square_m":0.002977,
     "geom:bbox":"103.653725,1.216215,103.779073,1.297363",
     "geom:latitude":1.262532,
     "geom:longitude":103.698639,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837213,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837213,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382683,
+    "wof:lastmodified":1629284207,
     "wof:name":"Jurong Island and Bukom",
     "wof:parent_id":1729837213,
     "wof:placetype":"neighbourhood",
