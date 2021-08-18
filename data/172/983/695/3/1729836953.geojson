@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
+    "geom:area_square_m":0.000075,
     "geom:bbox":"103.904744,1.375856,103.917499,1.385926",
     "geom:latitude":1.381678,
     "geom:longitude":103.910768,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837277,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837277,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382687,
+    "wof:lastmodified":1629287054,
     "wof:name":"Lorong Halus North",
     "wof:parent_id":1729837277,
     "wof:placetype":"neighbourhood",

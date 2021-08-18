@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000762,
+    "geom:area_square_m":0.000762,
     "geom:bbox":"103.886807,1.385926,103.931174,1.421508",
     "geom:latitude":1.405364,
     "geom:longitude":103.910046,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837367,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837367,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382704,
+    "wof:lastmodified":1629287234,
     "wof:name":"Punggol",
     "wof:parent_id":1729837367,
     "wof:placetype":"macrohood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
+    "geom:area_square_m":0.000074,
     "geom:bbox":"103.790372,1.446059,103.802912,1.456671",
     "geom:latitude":1.451172,
     "geom:longitude":103.79667,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837289,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837289,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382690,
+    "wof:lastmodified":1629287154,
     "wof:name":"Senoko West",
     "wof:parent_id":1729837289,
     "wof:placetype":"neighbourhood",

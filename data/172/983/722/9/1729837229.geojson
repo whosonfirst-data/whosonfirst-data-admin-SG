@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
+    "geom:area_square_m":0.000729,
     "geom:bbox":"103.813356,1.310556,103.862352,1.341684",
     "geom:latitude":1.326984,
     "geom:longitude":103.835309,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837371,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837371,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382689,
+    "wof:lastmodified":1629287207,
     "wof:name":"Novena",
     "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",

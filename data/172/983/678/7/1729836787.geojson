@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
+    "geom:area_square_m":0.000036,
     "geom:bbox":"103.886768,1.365644,103.895851,1.373021",
     "geom:latitude":1.369669,
     "geom:longitude":103.891462,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837243,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837243,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382694,
+    "wof:lastmodified":1629286963,
     "wof:name":"Hougang Central",
     "wof:parent_id":1729837243,
     "wof:placetype":"neighbourhood",

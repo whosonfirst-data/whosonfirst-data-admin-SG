@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
+    "geom:area_square_m":0.000105,
     "geom:bbox":"103.708106,1.328185,103.718865,1.342867",
     "geom:latitude":1.334978,
     "geom:longitude":103.713198,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837235,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837235,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382696,
+    "wof:lastmodified":1629286989,
     "wof:name":"Chin Bee",
     "wof:parent_id":1729837235,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":0.000119,
     "geom:bbox":"103.833859,1.387809,103.858113,1.397743",
     "geom:latitude":1.3937,
     "geom:longitude":103.846858,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837249,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837249,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382697,
+    "wof:lastmodified":1629287079,
     "wof:name":"Yio Chu Kang North",
     "wof:parent_id":1729837249,
     "wof:placetype":"neighbourhood",

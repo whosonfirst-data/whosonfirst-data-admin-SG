@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.9,1.31667,103.9,1.31667",
     "geom:latitude":1.31667,
     "geom:longitude":103.9,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.88,1.29667,103.92,1.33667",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:fas_x_preferred":[
         "\u06cc\u0648\u0628\u06cc"
     ],
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1242692237,
-    "wof:lastmodified":1614302813,
+    "wof:lastmodified":1629286624,
     "wof:name":"Kampong Ubi",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

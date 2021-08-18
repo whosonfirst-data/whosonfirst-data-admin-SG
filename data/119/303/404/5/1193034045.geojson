@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"104.0,1.38333,104.0,1.38333",
     "geom:latitude":1.38333,
     "geom:longitude":104.0,
@@ -18,18 +18,18 @@
     "gn:feature_code":"PPL",
     "gn:geonameid":1880604,
     "gn:latitude":1.38333,
-    "gn:longitude":104.0,
+    "gn:longitude":104,
     "gn:modification_date":"1995-07-26",
     "gn:name":"Kampong Changi",
     "gn:population":0,
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.98,1.36333,104.02,1.40333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,7 +40,7 @@
         "gn:id":1880604
     },
     "wof:country":"SG",
-    "wof:geomhash":"35d3b773904970b8a731f2c4906c0a09",
+    "wof:geomhash":"109cbc200a7faa8f26a953259102a7b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1193034045,
-    "wof:lastmodified":1614302801,
+    "wof:lastmodified":1629286598,
     "wof:name":"Kampong Changi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -65,5 +65,5 @@
     104.0,
     1.38333
 ],
-  "geometry": {"coordinates":[104.0,1.38333],"type":"Point"}
+  "geometry": {"coordinates":[104,1.38333],"type":"Point"}
 }

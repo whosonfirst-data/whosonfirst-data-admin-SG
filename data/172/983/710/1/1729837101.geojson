@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
+    "geom:area_square_m":0.000174,
     "geom:bbox":"103.846302,1.424478,103.865362,1.443878",
     "geom:latitude":1.434466,
     "geom:longitude":103.856394,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837281,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837281,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382702,
+    "wof:lastmodified":1629287140,
     "wof:name":"Simpang South",
     "wof:parent_id":1729837281,
     "wof:placetype":"neighbourhood",

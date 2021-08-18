@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
+    "geom:area_square_m":0.000256,
     "geom:bbox":"103.816414,1.325854,103.840578,1.341684",
     "geom:latitude":1.333817,
     "geom:longitude":103.82897,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837229,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837229,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629286986,
     "wof:name":"Mount Pleasant",
     "wof:parent_id":1729837229,
     "wof:placetype":"neighbourhood",

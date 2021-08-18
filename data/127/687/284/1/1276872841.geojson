@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.94167,1.32639,103.94167,1.32639",
     "geom:latitude":1.32639,
     "geom:longitude":103.94167,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.92167,1.30639,103.96167,1.34639",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:fas_x_preferred":[
         "\u0628\u062f\u0648\u06a9"
     ],
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1276872841,
-    "wof:lastmodified":1614302750,
+    "wof:lastmodified":1629286660,
     "wof:name":"Bedok New Town",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

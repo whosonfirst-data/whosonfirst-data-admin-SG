@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
+    "geom:area_square_m":0.000033,
     "geom:bbox":"103.813056,1.278821,103.823719,1.285149",
     "geom:latitude":1.282014,
     "geom:longitude":103.81859,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837187,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837187,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382694,
+    "wof:lastmodified":1629286792,
     "wof:name":"Bukit Merah",
     "wof:parent_id":1729837187,
     "wof:placetype":"neighbourhood",

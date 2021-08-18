@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.71667,1.35,103.71667,1.35",
     "geom:latitude":1.35,
     "geom:longitude":103.71667,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.69667,1.33,103.73667,1.37",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632605
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1209233051,
-    "wof:lastmodified":1614302751,
+    "wof:lastmodified":1629286601,
     "wof:name":"Kampong Ulu Jurong",
     "wof:parent_id":85632605,
     "wof:placetype":"locality",

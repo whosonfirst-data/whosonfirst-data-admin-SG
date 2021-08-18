@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
+    "geom:area_square_m":0.000042,
     "geom:bbox":"103.855214,1.278043,103.86159,1.287888",
     "geom:latitude":1.283335,
     "geom:longitude":103.858534,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837177,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837177,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382696,
+    "wof:lastmodified":1629286799,
     "wof:name":"Bayfront Subzone",
     "wof:parent_id":1729837177,
     "wof:placetype":"neighbourhood",

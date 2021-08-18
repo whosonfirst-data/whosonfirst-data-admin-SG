@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
+    "geom:area_square_m":0.000121,
     "geom:bbox":"103.906289,1.393611,103.924236,1.409504",
     "geom:latitude":1.401245,
     "geom:longitude":103.914759,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837273,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837273,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382674,
+    "wof:lastmodified":1629287091,
     "wof:name":"Waterway East",
     "wof:parent_id":1729837273,
     "wof:placetype":"neighbourhood",

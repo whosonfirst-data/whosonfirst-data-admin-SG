@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
+    "geom:area_square_m":0.000153,
     "geom:bbox":"103.696508,1.321445,103.721149,1.331654",
     "geom:latitude":1.32565,
     "geom:longitude":103.70925,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837207,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837207,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382698,
+    "wof:lastmodified":1629286879,
     "wof:name":"Tukang",
     "wof:parent_id":1729837207,
     "wof:placetype":"neighbourhood",

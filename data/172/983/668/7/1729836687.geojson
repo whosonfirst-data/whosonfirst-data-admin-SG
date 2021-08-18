@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
+    "geom:area_square_m":0.000172,
     "geom:bbox":"103.681104,1.299075,103.697819,1.315379",
     "geom:latitude":1.307488,
     "geom:longitude":103.689276,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837207,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837207,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382688,
+    "wof:lastmodified":1629286907,
     "wof:name":"Shipyard",
     "wof:parent_id":1729837207,
     "wof:placetype":"neighbourhood",

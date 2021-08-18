@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.812778,1.425278,103.812778,1.425278",
     "geom:latitude":1.425278,
     "geom:longitude":103.812778,
     "iso:country":"SG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":13,
     "name:eng_x_preferred":[
         "Sembawang Air Base"
     ],
@@ -44,13 +44,13 @@
         "state_id":24703045
     },
     "wof:belongsto":[
-        1729837149,
-        102191569,
-        1729837285,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837285,
+        1729837149,
         1729834133
     ],
     "wof:breaches":[],
@@ -88,7 +88,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1614385214,
+    "wof:lastmodified":1629286594,
     "wof:name":"Sembawang Airport",
     "wof:parent_id":1729837149,
     "wof:placetype":"campus",

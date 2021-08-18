@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.78806,1.28056,103.78806,1.28056",
     "geom:latitude":1.28056,
     "geom:longitude":103.78806,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.76806,1.26056,103.80806,1.30056",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:ind_x_preferred":[
         "Buona Vista"
     ],
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1210031075,
-    "wof:lastmodified":1614302801,
+    "wof:lastmodified":1629286612,
     "wof:name":"Buona Vista",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

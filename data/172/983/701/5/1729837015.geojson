@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
+    "geom:area_square_m":0.000115,
     "geom:bbox":"103.886807,1.396873,103.906289,1.407895",
     "geom:latitude":1.402707,
     "geom:longitude":103.897021,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837273,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837273,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382674,
+    "wof:lastmodified":1629287090,
     "wof:name":"Matilda",
     "wof:parent_id":1729837273,
     "wof:placetype":"neighbourhood",

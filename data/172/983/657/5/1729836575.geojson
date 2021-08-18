@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
+    "geom:area_square_m":0.000018,
     "geom:bbox":"103.845966,1.292507,103.852306,1.299141",
     "geom:latitude":1.296261,
     "geom:longitude":103.849457,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837189,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837189,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382688,
+    "wof:lastmodified":1629286846,
     "wof:name":"Bras Basah",
     "wof:parent_id":1729837189,
     "wof:placetype":"neighbourhood",

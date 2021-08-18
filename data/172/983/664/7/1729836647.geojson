@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
+    "geom:area_square_m":0.000103,
     "geom:bbox":"103.879017,1.32086,103.890961,1.33356",
     "geom:latitude":1.327368,
     "geom:longitude":103.885204,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837225,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837225,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382698,
+    "wof:lastmodified":1629286885,
     "wof:name":"Macpherson",
     "wof:parent_id":1729837225,
     "wof:placetype":"neighbourhood",

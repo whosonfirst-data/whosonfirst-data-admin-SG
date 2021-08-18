@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
+    "geom:area_square_m":0.000227,
     "geom:bbox":"103.649808,1.288676,103.672793,1.312317",
     "geom:latitude":1.300449,
     "geom:longitude":103.661455,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837205,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837205,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382697,
+    "wof:lastmodified":1629286833,
     "wof:name":"Pioneer Sector",
     "wof:parent_id":1729837205,
     "wof:placetype":"neighbourhood",

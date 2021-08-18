@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
+    "geom:area_square_m":0.000016,
     "geom:bbox":"103.837186,1.294402,103.843305,1.299276",
     "geom:latitude":1.297109,
     "geom:longitude":103.840538,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837191,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837191,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382688,
+    "wof:lastmodified":1629286847,
     "wof:name":"Oxley",
     "wof:parent_id":1729837191,
     "wof:placetype":"neighbourhood",

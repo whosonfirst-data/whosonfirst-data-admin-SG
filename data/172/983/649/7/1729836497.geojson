@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
+    "geom:area_square_m":0.000132,
     "geom:bbox":"103.858426,1.272838,103.872516,1.28885",
     "geom:latitude":1.280531,
     "geom:longitude":103.865628,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837183,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837183,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629286802,
     "wof:name":"Marina South",
     "wof:parent_id":1729837183,
     "wof:placetype":"neighbourhood",

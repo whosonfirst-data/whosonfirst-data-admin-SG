@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
+    "geom:area_square_m":0.000133,
     "geom:bbox":"103.952741,1.360242,103.966625,1.375542",
     "geom:latitude":1.368867,
     "geom:longitude":103.959411,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837265,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837265,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382695,
+    "wof:lastmodified":1629286967,
     "wof:name":"Pasir Ris Drive",
     "wof:parent_id":1729837265,
     "wof:placetype":"neighbourhood",

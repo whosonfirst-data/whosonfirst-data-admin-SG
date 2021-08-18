@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":0.000265,
     "geom:bbox":"103.638892,1.314534,103.663506,1.338994",
     "geom:latitude":1.326746,
     "geom:longitude":103.651245,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837211,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837211,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382687,
+    "wof:lastmodified":1629286896,
     "wof:name":"Tuas North",
     "wof:parent_id":1729837211,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
+    "geom:area_square_m":0.000033,
     "geom:bbox":"103.853729,1.334191,103.862241,1.339808",
     "geom:latitude":1.33679,
     "geom:longitude":103.858607,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837239,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837239,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382687,
+    "wof:lastmodified":1629286897,
     "wof:name":"Pei Chun",
     "wof:parent_id":1729837239,
     "wof:placetype":"neighbourhood",

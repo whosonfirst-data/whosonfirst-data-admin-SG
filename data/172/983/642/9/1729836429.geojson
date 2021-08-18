@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
+    "geom:area_square_m":0.000129,
     "geom:bbox":"103.875421,1.284839,103.898804,1.297462",
     "geom:latitude":1.292216,
     "geom:longitude":103.884677,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837185,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837185,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382682,
+    "wof:lastmodified":1629286766,
     "wof:name":"Marina East",
     "wof:parent_id":1729837185,
     "wof:placetype":"neighbourhood",

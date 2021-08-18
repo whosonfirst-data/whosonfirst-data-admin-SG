@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":0.000119,
     "geom:bbox":"103.722964,1.357941,103.742056,1.371023",
     "geom:latitude":1.36492,
     "geom:longitude":103.733829,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837257,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837257,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382691,
+    "wof:lastmodified":1629287112,
     "wof:name":"Park",
     "wof:parent_id":1729837257,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
+    "geom:area_square_m":0.000248,
     "geom:bbox":"103.726292,1.296503,103.757281,1.312781",
     "geom:latitude":1.303854,
     "geom:longitude":103.740337,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837203,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837203,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382697,
+    "wof:lastmodified":1629286835,
     "wof:name":"Penjuru Crescent",
     "wof:parent_id":1729837203,
     "wof:placetype":"neighbourhood",

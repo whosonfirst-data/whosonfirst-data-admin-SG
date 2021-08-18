@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
+    "geom:area_square_m":0.000073,
     "geom:bbox":"103.8263,1.367472,103.836423,1.381043",
     "geom:latitude":1.374715,
     "geom:longitude":103.830766,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837249,
-        85632605,
-        102032341,
         1729837367,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837249,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382686,
+    "wof:lastmodified":1629287047,
     "wof:name":"Sembawang Hills",
     "wof:parent_id":1729837249,
     "wof:placetype":"neighbourhood",

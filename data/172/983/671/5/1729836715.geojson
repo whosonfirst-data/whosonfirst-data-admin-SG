@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
+    "geom:area_square_m":0.00017,
     "geom:bbox":"103.817046,1.305073,103.83534,1.322035",
     "geom:latitude":1.313861,
     "geom:longitude":103.824357,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837195,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837195,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382694,
+    "wof:lastmodified":1629286921,
     "wof:name":"Nassim",
     "wof:parent_id":1729837195,
     "wof:placetype":"neighbourhood",

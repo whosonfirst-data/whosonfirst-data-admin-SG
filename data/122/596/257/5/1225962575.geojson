@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.93333,1.33333,103.93333,1.33333",
     "geom:latitude":1.33333,
     "geom:longitude":103.93333,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.91333,1.31333,103.95333,1.35333",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:und_x_variant":[
         "Ulu Bedok Village",
         "Ulu Bedok"
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1225962575,
-    "wof:lastmodified":1614302815,
+    "wof:lastmodified":1629286616,
     "wof:name":"Ulu Bedok",
     "wof:parent_id":85677059,
     "wof:placetype":"locality",

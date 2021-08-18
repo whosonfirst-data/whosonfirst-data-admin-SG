@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
+    "geom:area_square_m":0.000225,
     "geom:bbox":"103.763183,1.326427,103.779395,1.349016",
     "geom:latitude":1.337862,
     "geom:longitude":103.77157,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837219,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837219,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382678,
+    "wof:lastmodified":1629287006,
     "wof:name":"Anak Bukit",
     "wof:parent_id":1729837219,
     "wof:placetype":"neighbourhood",

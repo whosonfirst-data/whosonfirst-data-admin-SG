@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
+    "geom:area_square_m":0.000019,
     "geom:bbox":"103.859475,1.301582,103.866153,1.307112",
     "geom:latitude":1.30452,
     "geom:longitude":103.86294,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837175,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837175,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382692,
+    "wof:lastmodified":1629287103,
     "wof:name":"Crawford",
     "wof:parent_id":1729837175,
     "wof:placetype":"neighbourhood",

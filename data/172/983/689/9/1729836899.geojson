@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
+    "geom:area_square_m":0.000146,
     "geom:bbox":"103.711975,1.342867,103.728162,1.355952",
     "geom:latitude":1.349895,
     "geom:longitude":103.72107,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837235,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837235,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382683,
+    "wof:lastmodified":1629287024,
     "wof:name":"Hong Kah",
     "wof:parent_id":1729837235,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
+    "geom:area_square_m":0.000297,
     "geom:bbox":"103.75062,1.422268,103.768894,1.44496",
     "geom:latitude":1.434328,
     "geom:longitude":103.759336,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837279,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837279,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382703,
+    "wof:lastmodified":1629287147,
     "wof:name":"Kranji",
     "wof:parent_id":1729837279,
     "wof:placetype":"neighbourhood",

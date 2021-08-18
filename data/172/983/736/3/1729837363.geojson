@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021084,
+    "geom:area_square_m":0.021084,
     "geom:bbox":"103.605701,1.158699,103.801555,1.435063",
     "geom:latitude":1.323552,
     "geom:longitude":103.697053,
@@ -32,11 +33,11 @@
     "src:population":"wk",
     "src:population_date":"2018-01-01",
     "wof:belongsto":[
-        1729834133,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -65,7 +66,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382676,
+    "wof:lastmodified":1629287248,
     "wof:name":"West",
     "wof:parent_id":102032341,
     "wof:placetype":"borough",

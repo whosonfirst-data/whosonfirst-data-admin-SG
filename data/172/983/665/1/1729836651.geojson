@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
+    "geom:area_square_m":0.00026,
     "geom:bbox":"103.919543,1.323519,103.951853,1.336012",
     "geom:latitude":1.330427,
     "geom:longitude":103.936016,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837231,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837231,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382699,
+    "wof:lastmodified":1629286888,
     "wof:name":"Bedok North",
     "wof:parent_id":1729837231,
     "wof:placetype":"neighbourhood",

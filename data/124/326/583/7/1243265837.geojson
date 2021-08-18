@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.78789,1.40226,103.78789,1.40226",
     "geom:latitude":1.40226,
     "geom:longitude":103.78789,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.76789,1.38226,103.80789,1.42226",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:fra_x_preferred":[
         "Night Safari"
     ],
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1243265837,
-    "wof:lastmodified":1614302814,
+    "wof:lastmodified":1629286631,
     "wof:name":"Night Safari",
     "wof:parent_id":85677049,
     "wof:placetype":"locality",

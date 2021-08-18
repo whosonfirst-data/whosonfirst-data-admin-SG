@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000179,
+    "geom:area_square_m":0.000179,
     "geom:bbox":"103.805777,1.394341,103.82308,1.415429",
     "geom:latitude":1.407517,
     "geom:longitude":103.814643,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837283,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837283,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382690,
+    "wof:lastmodified":1629287168,
     "wof:name":"Nee Soon",
     "wof:parent_id":1729837283,
     "wof:placetype":"neighbourhood",

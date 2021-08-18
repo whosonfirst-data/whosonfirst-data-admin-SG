@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
+    "geom:area_square_m":0.000125,
     "geom:bbox":"103.824393,1.451385,103.847814,1.464816",
     "geom:latitude":1.458674,
     "geom:longitude":103.836486,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837291,
-        85632605,
-        102032341,
         1729837365,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837291,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382692,
+    "wof:lastmodified":1629287099,
     "wof:name":"Sembawang Straits",
     "wof:parent_id":1729837291,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
+    "geom:area_square_m":0.000088,
     "geom:bbox":"103.894419,1.301939,103.909983,1.313323",
     "geom:latitude":1.307265,
     "geom:longitude":103.902335,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837185,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837185,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382684,
+    "wof:lastmodified":1629286838,
     "wof:name":"Katong",
     "wof:parent_id":1729837185,
     "wof:placetype":"neighbourhood",

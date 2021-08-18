@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00095,
+    "geom:area_square_m":0.00095,
     "geom:bbox":"103.893497,1.3387,103.931888,1.382365",
     "geom:latitude":1.359398,
     "geom:longitude":103.914779,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837369,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837369,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382689,
+    "wof:lastmodified":1629287222,
     "wof:name":"Paya Lebar",
     "wof:parent_id":1729837369,
     "wof:placetype":"macrohood",

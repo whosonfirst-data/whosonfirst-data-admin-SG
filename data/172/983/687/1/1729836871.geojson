@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000622,
+    "geom:area_square_m":0.000622,
     "geom:bbox":"103.951854,1.31411,103.984812,1.349683",
     "geom:latitude":1.329266,
     "geom:longitude":103.968811,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837245,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837245,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382684,
+    "wof:lastmodified":1629287009,
     "wof:name":"Xilin",
     "wof:parent_id":1729837245,
     "wof:placetype":"neighbourhood",

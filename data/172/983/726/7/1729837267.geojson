@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000733,
+    "geom:area_square_m":0.000733,
     "geom:bbox":"103.755129,1.341857,103.791656,1.390808",
     "geom:latitude":1.366822,
     "geom:longitude":103.772998,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837363,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837363,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382700,
+    "wof:lastmodified":1629287231,
     "wof:name":"Bukit Panjang",
     "wof:parent_id":1729837363,
     "wof:placetype":"macrohood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
+    "geom:area_square_m":0.000229,
     "geom:bbox":"103.896176,1.326091,103.919543,1.345243",
     "geom:latitude":1.335579,
     "geom:longitude":103.909565,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837231,
-        85632605,
-        102032341,
         1729837369,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837231,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382693,
+    "wof:lastmodified":1629287000,
     "wof:name":"Kaki Bukit",
     "wof:parent_id":1729837231,
     "wof:placetype":"neighbourhood",

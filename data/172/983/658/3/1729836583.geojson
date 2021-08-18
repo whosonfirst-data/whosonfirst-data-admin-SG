@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
+    "geom:area_square_m":0.00003,
     "geom:bbox":"103.82995,1.29561,103.838833,1.300433",
     "geom:latitude":1.29794,
     "geom:longitude":103.834064,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837191,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837191,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382685,
+    "wof:lastmodified":1629286851,
     "wof:name":"Leonie Hill",
     "wof:parent_id":1729837191,
     "wof:placetype":"neighbourhood",

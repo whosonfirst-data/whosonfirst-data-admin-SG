@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.70667,1.40444,103.70667,1.40444",
     "geom:latitude":1.40444,
     "geom:longitude":103.70667,
@@ -26,11 +26,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.68667,1.38444,103.72667,1.42444",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:und_x_variant":[
         "Ama Keng Village",
         "Ama Keng"
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1260197583,
-    "wof:lastmodified":1614302802,
+    "wof:lastmodified":1629286650,
     "wof:name":"Ama Keng",
     "wof:parent_id":85677045,
     "wof:placetype":"locality",

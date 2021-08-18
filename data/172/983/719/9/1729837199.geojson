@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
+    "geom:area_square_m":0.000112,
     "geom:bbox":"103.834758,1.274155,103.849656,1.289191",
     "geom:latitude":1.282859,
     "geom:longitude":103.842061,
@@ -29,12 +30,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837371,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837371,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -64,7 +65,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382701,
+    "wof:lastmodified":1629287188,
     "wof:name":"Outram",
     "wof:parent_id":1729837371,
     "wof:placetype":"macrohood",

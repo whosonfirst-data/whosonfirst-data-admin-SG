@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
+    "geom:area_square_m":0.000191,
     "geom:bbox":"103.663506,1.321799,103.696535,1.33105",
     "geom:latitude":1.325596,
     "geom:longitude":103.679522,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837205,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837205,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382699,
+    "wof:lastmodified":1629286875,
     "wof:name":"Joo Koon",
     "wof:parent_id":1729837205,
     "wof:placetype":"neighbourhood",

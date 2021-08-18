@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
+    "geom:area_square_m":0.00028,
     "geom:bbox":"103.823734,1.254808,103.85207,1.275101",
     "geom:latitude":1.265301,
     "geom:longitude":103.836801,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837187,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837187,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382679,
+    "wof:lastmodified":1629286772,
     "wof:name":"City Terminals",
     "wof:parent_id":1729837187,
     "wof:placetype":"neighbourhood",

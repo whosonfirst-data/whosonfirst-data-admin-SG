@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.89444,1.39167,103.89444,1.39167",
     "geom:latitude":1.39167,
     "geom:longitude":103.89444,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.87444,1.37167,103.91444,1.41167",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:eng_x_preferred":[
         "Sengkang"
     ],
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1209528519,
-    "wof:lastmodified":1614302751,
+    "wof:lastmodified":1629286607,
     "wof:name":"Sengkang New Town",
     "wof:parent_id":85632605,
     "wof:placetype":"locality",

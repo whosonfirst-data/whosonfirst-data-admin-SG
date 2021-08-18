@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
+    "geom:area_square_m":0.000313,
     "geom:bbox":"103.818537,1.341996,103.842966,1.367994",
     "geom:latitude":1.357651,
     "geom:longitude":103.832301,
@@ -21,12 +22,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837253,
-        85632605,
-        102032341,
         1729837371,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837253,
         1729834133
     ],
     "wof:breaches":[],
@@ -61,7 +62,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382690,
+    "wof:lastmodified":1629287170,
     "wof:name":"Upper Thomson",
     "wof:parent_id":1729837253,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001429,
+    "geom:area_square_m":0.001429,
     "geom:bbox":"103.736998,1.388857,103.77445,1.44631",
     "geom:latitude":1.418126,
     "geom:longitude":103.757461,
@@ -32,12 +33,12 @@
     "src:population":"geonames",
     "src:population_date":"01-01-2018",
     "wof:belongsto":[
-        1729834133,
+        1729837365,
         102191569,
         85632605,
+        1729834131,
         102032341,
-        1729837365,
-        1729834131
+        1729834133
     ],
     "wof:breaches":[],
     "wof:country":"SG",
@@ -67,7 +68,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382704,
+    "wof:lastmodified":1629287238,
     "wof:name":"Sungei Kadut",
     "wof:parent_id":1729837365,
     "wof:placetype":"macrohood",

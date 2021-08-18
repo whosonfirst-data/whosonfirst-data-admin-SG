@@ -6,7 +6,7 @@
     "edtf:deprecated":"2021-02-25",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.83972,1.38028,103.83972,1.38028",
     "geom:latitude":1.38028,
     "geom:longitude":103.83972,
@@ -25,11 +25,11 @@
     "gn:timezone":"Asia/Singapore",
     "iso:country":"SG",
     "lbl:bbox":"103.81972,1.36028,103.85972,1.40028",
-    "lbl:max_zoom":18.0,
+    "lbl:max_zoom":18,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":12,
     "name:fas_x_preferred":[
         "\u0622\u0646\u06af \u0645\u0648 \u06a9\u06cc\u0648"
     ],
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1360093659,
-    "wof:lastmodified":1614302804,
+    "wof:lastmodified":1629286749,
     "wof:name":"Ang Mo Kio New Town",
     "wof:parent_id":85677049,
     "wof:placetype":"locality",

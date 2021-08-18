@@ -9,7 +9,7 @@
     "edtf:cessation":"1955",
     "edtf:inception":"1937-06-12",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":0,
     "geom:bbox":"103.873378,1.307411,103.873378,1.307411",
     "geom:latitude":1.307411,
     "geom:longitude":103.873378,
@@ -43,7 +43,7 @@
         }
     ],
     "wof:id":1360695641,
-    "wof:lastmodified":1614302804,
+    "wof:lastmodified":1629286753,
     "wof:name":"Kallang Airport",
     "wof:parent_id":102032341,
     "wof:placetype":"campus",
