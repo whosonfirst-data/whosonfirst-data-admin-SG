@@ -21,12 +21,12 @@
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        1729837203,
-        85632605,
-        102032341,
         1729837363,
+        102191569,
+        85632605,
         1729834131,
+        102032341,
+        1729837203,
         1729834133
     ],
     "wof:breaches":[],
@@ -35,7 +35,7 @@
     },
     "wof:country":"SG",
     "wof:created":1614275459,
-    "wof:geomhash":"e4fe264fa81f72aa046248a52d2f01a1",
+    "wof:geomhash":"5163114a8b71f77cde5741ec6d74d345",
     "wof:hierarchy":[
         {
             "borough_id":1729837363,
@@ -61,7 +61,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382688,
+    "wof:lastmodified":1632271144,
     "wof:name":"Jurong Port",
     "wof:parent_id":1729837203,
     "wof:placetype":"neighbourhood",
