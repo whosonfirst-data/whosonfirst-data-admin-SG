@@ -18,6 +18,12 @@
     "name:eng_x_preferred":[
         "Dover"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0935\u0930"
+    ],
+    "name:vie_x_preferred":[
+        "Dover"
+    ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +67,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382700,
+    "wof:lastmodified":1636502477,
     "wof:name":"Dover",
     "wof:parent_id":1729837209,
     "wof:placetype":"neighbourhood",

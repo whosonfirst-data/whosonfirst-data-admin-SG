@@ -18,6 +18,12 @@
     "name:eng_x_preferred":[
         "West Coast"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d7\u05d5\u05e3 \u05d4\u05de\u05e2\u05e8\u05d1\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "West Coast"
+    ],
     "src:geom":"sg-sggov",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +67,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1617382694,
+    "wof:lastmodified":1636502477,
     "wof:name":"West Coast",
     "wof:parent_id":1729837201,
     "wof:placetype":"neighbourhood",
