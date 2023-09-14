@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063774,
-    "geom:area_square_m":738751618.761464,
+    "geom:area_square_m":788353732.945727,
     "geom:bbox":"103.605701,1.158699,104.088483,1.470775",
     "geom:latitude":1.352428,
     "geom:longitude":103.820731,
     "iso:country":"SG",
+    "label:eng_x_preferred_longname":[
+        "Singapore"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":1.366923,
     "lbl:longitude":103.801292,
     "lbl:min_zoom":8.0,
@@ -882,7 +888,7 @@
         85632605
     ],
     "wof:country":"SG",
-    "wof:geomhash":"f598767f73afb46d9ecd01b58dbd6cc1",
+    "wof:geomhash":"9abbb20ed4d172ccc33a895ac6886ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -903,7 +909,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1690863614,
+    "wof:lastmodified":1694493236,
     "wof:name":"Singapore",
     "wof:parent_id":85632605,
     "wof:placetype":"region",

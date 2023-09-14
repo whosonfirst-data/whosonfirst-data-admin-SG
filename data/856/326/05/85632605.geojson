@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063774,
-    "geom:area_square_m":604374154.671876,
+    "geom:area_square_m":788353732.945727,
     "geom:bbox":"103.605701,1.158699,104.088483,1.470775",
     "geom:latitude":1.352428,
     "geom:longitude":103.820731,
@@ -13,6 +13,9 @@
     "iso:country":"SG",
     "itu:country_code":[
         "65"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SG"
@@ -1194,8 +1197,8 @@
         "sg-sggov-reversegeo"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2010-06-30",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:area_km":"723",
     "statoids:area_mi":"279",
     "statoids:as_of_date":"2010-06-30",
@@ -1271,7 +1274,7 @@
         "quattroshapes",
         "sg-sggov-reversegeo"
     ],
-    "wof:geomhash":"ed0e5a77c5b6e170dff0f41d60678fc8",
+    "wof:geomhash":"c4589f18ea8423fa3dcf4d8de930b6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1291,13 +1294,13 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1690863612,
+    "wof:lastmodified":1694639552,
     "wof:name":"Singapore",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
     "wof:placetype_local":"district",
-    "wof:population":5399200,
-    "wof:population_rank":12,
+    "wof:population":5703569,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sg",
     "wof:shortcode":"SG",
     "wof:superseded_by":[],
