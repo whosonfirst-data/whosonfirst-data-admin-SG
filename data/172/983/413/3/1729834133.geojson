@@ -879,9 +879,11 @@
     "wof:concordances":{
         "gn:id":1880252,
         "gp:id":1062617,
+        "iso:code_pseudo":"SG",
         "qs_pg:id":807061,
         "wd:id":"Q334"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:coterminous":[
         1729834131,
         102032341,
@@ -909,7 +911,7 @@
         "msa",
         "tam"
     ],
-    "wof:lastmodified":1694493236,
+    "wof:lastmodified":1695884671,
     "wof:name":"Singapore",
     "wof:parent_id":85632605,
     "wof:placetype":"region",
